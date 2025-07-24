@@ -1,6 +1,4 @@
-
-### 自然地理 第一组
-
+### Chapter 01 自然地理
 - atmosphere | [ˈætməsfɪə(r)] | n. 大气层，大气圈；气氛 | The approaching examination created a tense atmosphere on the campus.
 - hydrosphere | [ˈhaɪdrəʊsfɪə(r)] | n. 水圈；大气中的水汽 | All the water of the earth’s surface is included in the hydrosphere.
 - lithosphere | [ˈlɪθəsfɪə(r)] | n. 岩石圈 | The hydrosphere and the lithosphere together form the earth’s surface.
@@ -56,9 +54,6 @@
 - terrain | [təˈreɪn] | n. 地形 | He climbed a tree to view the surrounding terrain.
 - landscape | [ˈlændskeɪp] | n. 风景，地貌 v. 对……进行景观美化 | The trees and the mountains made the landscape very beautiful.
 - continent | [ˈkɒntɪnənt] | n. 大陆；洲 | It is generally thought that Columbus discovered the American continents.
-
-### 自然地理 第二组
-
 - cave | [keɪv] | n. 洞穴，山洞 | This cave was used by smugglers in the eighteenth century.
 - cliff | [klɪf] | n. 悬崖，峭壁 | The narrow path leads to a wooden hut on the cliff.
 - glacier | [ˈɡlæsiə(r)] | n. 冰河，冰川 | The glacier dislocated the great stones.
@@ -106,9 +101,6 @@
 - stony | [ˈstəʊni] | adj. 石头的；多石的 | The ground in this part of the country is poor and stony.
 - upgrade | [ˌʌpˈɡreɪd ] | V. 使升级；提高，改善 | The antivirus software should often be upgraded.
 - superficial | [ˌsuːpərˈfɪʃl] | adj. 表皮的，表层的 | Superficial scratches can be easily removed .
-
-### 自然地理 第三组
-
 - shower | [ˈʃaʊə(r)] | n. 阵雨；（一）阵；淋浴 | The weatherman predicts showers this afternoon.
 - Oceania | [ˌəʊsiˈɑːniə] | n. 大洋洲 | Oceania is a separate landmass, but it is separated from Asia by very shallow water.
 - mainland | [ˈmeɪnlənd; ˈmeɪnlænd] | n. 大陆，本土 | Hawaii and Alaska are not on the mainland of the United States.
@@ -161,9 +153,6 @@
 - eastern | [ˈiːstən] | adj. 东部的；东方的 | The eastern situation is similarly intense.
 - oriental | [ˌɔːriˈent(ə)l] | adj. 东方的（尤指中国和日本的） | She has studied the cultures of oriental countries.
 - range | [reɪndʒ] | n. 山脉；范围 | A range of hills rose on our left.
-
-### 自然地理 第四组
-
 - rural | [ˈrʊərəl] | adj. 农村的，乡村的；田园的 | The disease occurs most frequently in rural areas.
 - suburb | [ˈsʌbɜːb] | n. 郊区，郊外，近郊 | They proposed setting up a school in the suburbs.
 - outskirts | [ˈaʊtskɜːts] | n. 郊区，市郊 | We live on the outskirts of the city.
@@ -214,9 +203,6 @@
 - dusk | [dʌsk] | n. 黄昏，傍晚 | The street lights go on at dusk.
 - heaven | [ˈhevn] | n. 天堂；极乐（之地）；[the ~s] 天空 | Our week on the tropical island was heaven.
 - paradise | [ˈpærədaɪs] | n. 天堂；乐园，福地 | This club is a sportsman’s paradise.
-
-### 自然地理 第五组
-
 - sunshine | [ˈsʌnʃaɪn] | n. 阳光，日光 | I was sitting in the garden, enjoying the sunshine.
 - shade | [ʃeɪd] | n. 阴影部分；背阴处 v. 给……遮挡（光线） | He tried to shade his house with thick trees.
 - shadow | [ˈʃædəʊ] | n. 影子，阴影 | The willow’s shadow falls on the lake.
@@ -254,9 +240,7 @@
 - gas | [ɡæs] | n. 气体；[ 美 ] 汽油 | There are reports that some gas stations have run out of gas.
 - gasoline | [ˈɡæsəliːn] | n. [ 美 ] 汽油 | The price of gasoline is unstable.
 - petroleum | [pəˈtrəʊliəm] | n. 石油 | Petroleum is an important natural resource.
-
-### 植物研究 第一组
-
+### Chapter 02 植物研究
 - photosynthesis | [ˌfəʊtəʊˈsɪnθəsɪs] | n. 光合作用 | The algae capture the sun’ s energy by photosynthesis and store it in organic molecules.
 - respire | [rɪˈspaɪə(r)] | v. 呼吸 | Plants respire in the same way as animals, taking in oxygen and giving out carbon dioxide.
 - dioxide | [daɪˈɒksaɪd] | n. 二氧化物 | Plants can absorb carbon dioxide and release oxygen.
@@ -322,9 +306,6 @@
 - mould | [məʊld] | V. 发霉 | The walls were black with mould.
 - fruit | [fruːt] | v. 结果实 | The apple trees fruited early this year.
 - terrace | [ˈterəs] | n.梯田 | The terrace channels are convenient for irrigation.
-
-### 植物研究 第二组
-
 - energy | [ˈenədʒi] | n. 能源；精力 | The majority of the energy we consume comes from fossil fuel energy sources.
 - timber | [ˈtɪmbə(r)] | n. 木材，木料；林木 | The farmer spent a day in the woods hewing timber.
 - charcoal | [ˈtʃɑːkəʊl] | n. 木炭 | Prepare a fire in a charcoal grill.
@@ -390,9 +371,7 @@
 - optimal | [ˈɒptɪməl] | adj. 最佳的，最理想的 | This is the optimal season for the growth of plants.
 - root | [ruːt] | n.根 v.（使）生根 | The dog is snuffling around the root of a tree.
 - absorb | [əbˈsɔːb] | V. 吸收；眼引全部注意力 | Dry sand absorbs water.
-
-### 动物保护 第一组
-
+### Chapter 03 动物保护
 - feed | [fiːd] | v. 供养；喂，饲养；进食 | He has to work hard to feed and clothe hisfamily.
 - beast | [biːst] | n. 兽，野兽；凶残的人，畜生 | The hunters blocked up the den of the beast.
 - breed | [briːd] | v. 饲养；繁殖 n. 品种 | She breeds orchids in her greenhouse.
@@ -448,9 +427,6 @@
 - plume | [pluːm] | n. 羽毛 | This is the long plume of a heron in the breedingseason.
 - crowd | [kraʊd] | n.入群；观众；一伙人 | The crowd was very well behaved.
 - mate | [meit] | v.交配; n. 配偶 | Many animals mate in the spring.
-
-### 动物保护 第二组
-
 - trunk | [trʌŋk] | n. 象鼻 | The elephant's trunk is powerful enough to uproot trees.
 - bull | [bʊl] | n. 公牛 | He was a great bull of a man.
 - butterfly | [ˈbʌtəflaɪ] | n. 蝴蝶 adj. 蝶状的 | A butterfly is flying up and down among theflowers.
@@ -504,9 +480,6 @@
 - bear | [beə(r)] | n.熊 | The bear is a large, heavy animal with thick fur.
 - harness | [ˈhɑːrnɪs] | n.马具，挽具 | You cannot judge a horse by its harness.
 - swallow | [ˈswɒləʊ] | n.燕子 | There are many swallows flying in the sky.
-
-### 动物保护 第三组
-
 - bark | [bɑːk] | v.（狗等）吠；大声嚷 n. 树皮 | Barking dogs seldom bite.
 - barn | [bɑːn] | n. 谷仓；牲口棚 | The cows were feeding on hay in the barn.
 - bite | [baɪt] | v.n. 咬；（昆虫）叮；吞饵 | The mosquitoes are biting me.
@@ -567,9 +540,7 @@
 - secrete | [sɪˈkriːt] | v. 分泌 | The kidneys secrete urine.
 - excrete | [ɪkˈskriːt] | v. 排泄；分泌 | The function of the kidneys is to excrete wasteproducts.
 - bar | [bɑː(r)] | n. 栅，栏杆；条，长块 | A bar of chocolate is enough to stop his crying.
-
-### 学校教育 第一组
-
+### Chapter 04 学校教育
 - excellent | [ˈeksələnt] | adj.优秀的，杰岀的 | She had a high reputation for her excellent detective novels.
 - affair | [əˈfeə(r)] | n. 事件；［~s ］公共事务，政治事务 | The minister is busy with important state affairs.
 - inspire | [ɪnˈspaɪə(r)] | v.鼓舞；给……灵感 | Our task is to motivate those voters and inspire them to join our cause.
@@ -622,9 +593,6 @@
 - aptitude | [ˈæptɪtjuːd] | n.天生的才能，资质 | That student has an aptitude for music.
 - enable | [ɪnˈeɪb(ə)l] | V. 使能够 | This dictionary will enable you to understand English words.
 - abuse | [əˈbjuːz] /  [əˈbjuːs] | v. 滥用；虐待 n. 滥用；虐待 | It’s easy to abuse one’s power.
-
-### 学校教育 第二组
-
 - scientist | [ˈsaɪəntɪst] | n.科学家 | I admired him as a true scientist and a very moral man.
 - doctor | [ˈdɒktə(r)] | n.博士；医生 | He is a Doctor of Philosophy.
 - license | [ˈlaɪsns] | n.执照，许可证 | His driving license was suspended for three months.
@@ -676,9 +644,6 @@
 - graduate | [ˈɡrædʒuət,] / [ˈɡrædʒueɪt] | n.大学毕业生；［美］｛大学、中学等的）毕业生 v. 大学毕业；［美］中学毕业 | Preference will be given to gradua in journalism.
 - campus | [ˈkæmpəs] | n. （大专院校的｝校园 | The campus covers an area of about 1.37 square kilometres.
 - dining hall | [ˈdaɪnɪŋ hɔːl] | n. 食堂 | This is my first time to eat in your dining hall.
-
-### 学校教育 第三组
-
 - record | [ˈrekɔːd] | n.记录；履历 | The subjects in the research were asked tokeep a record of everything they ate for a week.
 - magazine | [ˌmæɡəˈziːn] | n.杂志，期刊 | This magazine has a large circulation.
 - story | [ˈstɔːri] | n.故事，小说；（尤指口头的）叙述 | Her little sister often asks her to retell the story.
@@ -729,9 +694,6 @@
 - bibliography | [ˌbɪbliˈɒɡrəfi] | n. 参考书目 | The bibliography is a very impotant part of a paper.
 - content | [ˈkɒntent]  /[  kənˈtent] | n. 内容；目录；含量 adj. 满足的 | The calorie content in a regular Coke is very high.
 - object | [ˈɒbdʒɪkt ] / [əbˈdʒekt] | n. 物体；目标 v.反对 | He strongly objects to getting up early.
-
-### 学校教育 第四组
-
 - table | [ˈteɪb(ə)l] | n.表格；桌子 | We should create a table for the sales data.
 - agriculture | [ˈæɡrɪkʌltʃə(r)] | n.农业；农学 | In the past, agriculture located a family to aplace.
 - biology | [baɪˈɒlədʒi] | n.生物学；生命机理 | Biology is the study of living things.
@@ -784,9 +746,6 @@
 - matrix | [ˈmeɪtrɪks] | n.矩阵；铸模 | She cannot find the matrix for the competition.
 - psychology | [saɪˈkɒlədʒi] | n. 心理学；心理特征 | The professor has considerable expertise in studying a criminal’s psychology.
 - parameter | [pəˈræmɪtə(r)] | n. 参数；起限定作用的因素 | Political dissent is a parameter of modern life.
-
-### 学校教育 第五组
-
 - rust | [rʌst] | v.（使）生锈 n.锈，铁锈 | If you leave your metal tools outside in the rain, they will rust.
 - mercury | [ˈmɜːkjəri] | n.水银，汞；［M~］水星 | The mercury stood at nearly 40℃.
 - angle | [ˈæŋɡ(ə)l] | n.角；角度 | The temple is especially beautiful to look at from this angle.
@@ -835,9 +794,6 @@
 - percent | [pə(r)ˈsent] | n. ［单复数同形］百分之...... | I am 100 per cent in agreement.
 - ferment | [fə(r)ˈment ][ / ˈfɜ(r)ːment] | v. （使｝发酵；骚动 n. 酶；发酵；动乱 | The whole country was in a state of ferment.
 - formula | [ˈfɔːmjələ] | n. 公式，万程式；原则；配方；分子式 | The formula for water is H20.
-
-### 学校教育 第六组
-
 - superficial | [ˌsuːpəˈfɪʃ(ə)l] | adj.表面的，外表的；肤浅的 | Superficial scratches can be easily removed.
 - basic | [ˈbeɪsɪk] | adj.基本的，基础的 | The government increased prices on several basic commodities like meat and dairy products.
 - consult | [kənˈsʌlt] | V.请教；查阅 | In this case, I recommended that you consultyour doctor.
@@ -887,9 +843,6 @@
 - scrutinise | [ˈskruːtɪnaɪz] | v.详细检查，仔细查看 | The jeweller scrutinised the ruby for flaws.
 - dictate | [dɪkˈteɪt] | v.让（某人）昕写；命令，强行规定 | The English teacher dictates to the class every other week.
 - compulsory | [kəmˈpʌlsəri] | adj. 强制的 | Britain did not introduce compulsory primary education until 1880.
-
-### 学校教育 第七组
-
 - project | [ˈprɒdʒekt] | n. （大中学学生的）专题研究；顶目，方案 | It is an elaborate project that applies to manypurposes.
 - conclude | [kənˈkluːd] | v.推断出，得出结论；（使）结束 | What do you conclude from his explanation?
 - contrast | [ˈkɒntrɑːst] | n.对比；明显的差异 | There is a great contrast between good andevil.
@@ -941,9 +894,6 @@
 - detect | [dɪˈtekt] | v. 察觉，发觉；侦察出 | The man is responsible for detecting some kind of weak signals.
 - deliberate | ,[dɪˈlɪbəreɪt] / [dɪˈlɪbərət] | v.深思熟虑，仔细考虑 adj.审慎的 | She deliberated the question before she made an answer.
 - diagnose | [ˈdaɪəɡnəʊz] | v.判断；诊断 | We can use a test to diagnose a variety of diseases.
-
-### 学校教育 第八组
-
 - prize | [praɪz] | n.奖赏 v.珍视 | We prize honour above money.
 - accomplish | [əˈkʌmplɪʃ] | v.达到（目的），完成 | Though the task was challenging, they managed to accomplish it on time.
 - attain | [əˈteɪn] | v.获得；达到 | Greater efforts are needed before we can attainour goal.
@@ -990,9 +940,7 @@
 - survey | [ˈsɜːveɪ] / [ səˈveɪ] | n. 民意调查 v. 对......避行民意调查 | A recent survey of public opinions shows that many people are worried about the rising house prices.
 - apply | [əˈplaɪ] | v.申请 | My cousin applied to four universities and was accepted by all of them.
 - fee | [fi:] | n. 酬金；费用 | A higher fee does not necessarily mean a better course.
-
-### 科技发明 第一组
-
+### Chapter 05 科技发明
 - engineer | [ˌendʒɪˈnɪə(r)] | n. 工程师，技师 | Each engineer needs to be in touch with the entire engineering department.
 - tool | [tuːl] | n. 工具 | Advertising is a tool that nearly every company is utilising.
 - absorb | [əbˈzɔːb] | v.理解；掌握 | His ability to absorb bits of disconnected information was astonishing.
@@ -1054,9 +1002,6 @@
 - multimedia | [ˌmʌltiˈmiːdiə] | n. 多媒体 | As part of the celebrations, they staged a big, open-air multimedia event.
 - browser | [ˈbraʊzə(r)] | n. 浏览器 | In your Web browser’s cache are the most recent Web files that you have downloaded.
 - dial | [ˈdaɪəl] | v. 拨（电话号码） | She picked up the phone, and began to dial his number.
-
-### 科技发明 第二组
-
 - keyboard | [ˈkiːbɔːd] | n. 键盘 | The machine is operated through the keyboard.
 - screen | [skriːn] | n. 屏；屏幕 v. 遮蔽 | A list of items is repeatedly flashed up on the screen.
 - tape | [teɪp] | n. 磁带，录音带；胶带 | A technician loads a video tape into one of themachines.
@@ -1110,9 +1055,7 @@
 - sewage | [ˈsuːɪdʒ] | n.（下水道的）污水 | Discharge of raw sewage into the sea is unsanitary and unsafe.
 - ventilation | [ˌventɪˈleɪʃn] | n. 通风；通风设备 | Some people think that ventilation is the same thing as air conditioning.
 - distil | [dɪˈstɪl] | v.蒸馏；提取......的精华 | You can distil the water from the lake and make it drinkable.
-
-### 文化历史 第一组
-
+### Chapter 06 文化历史
 - decorate | [ˈdekəreɪt] | v. 装饰 | Using extremely different decorating schemes in adjoining rooms may result in lack of unity in style.
 - soul | [səʊl] | n. 灵魂；心灵；精神 | No words can express the secret agony of my soul.
 - spirit | [ˈspɪrɪt] | n. 精神，心灵 | We need a spirit of enterprise if we are to overcome our difficulties.
@@ -1164,9 +1107,6 @@
 - choir | [ˈkwaɪə(r)] | n. 唱诗班 | The choir sang the Amens beautifully.
 - temple | [ˈtemp(ə)l] | n. 寺院，庙宇 | The temple has been considered an example of classic design.
 - pagoda | [pəˈɡəʊdə] | n. 佛塔 | The pagoda perches on top of the hill.
-
-### 文化历史 第二组
-
 - king | [kɪŋ] | n. 国王 | The king is the most important person in a kingdom.
 - queen | [kwiːn] | n. 王后；女王 | They were bowing as the king and queen walked in.
 - background | [ˈbækɡraʊnd] | n. 背景；（个人出身、受教育）经历 | He is a man with a special cultural background.
@@ -1195,9 +1135,7 @@
 - prosperity | [prɒˈsperəti] | n. 繁荣，兴旺 | The empire was on the wane after its period of prosperity.
 - setback | [ˈsetbæk] | n. 挫折，阻碍 | This setback has drained away my keenness.
 - adversity | [ədˈvɜːsəti] | n. 逆境 | Hardship disposes man to meet adversity.
-
-### 娱乐运动 第一组
-
+### Chapter 07 娱乐运动
 - artist | [ˈɑːtɪst] | n. 艺术家 | He was not the kind of artist who could work collaboratively.
 - programme | [ˈprəʊɡræm] | n. 节目；方案；（演出或活动的）程序 | There was an interesting programme on TV yesterday.
 - film | [fɪlm] | n. 影片；胶卷 | A good film will be on this weekend.
@@ -1250,9 +1188,6 @@
 - rumour | [ˈruːmə(r)] | n. 谣言，传闻 | The rumour soon swept the entire company.
 - consensus | [kənˈsensəs] | n. 共识，一致的意见 | Could we reach a consensus on this issue? Let’s take a vote.
 - amuse | [əˈmjuːz] | v. 逗乐；给......提供娱乐 | Harry makes up funny stories to amuse his little brother.
-
-### 娱乐运动 第二组
-
 - role | [rəʊl] | n. 角色；作用；职能 | I played the role of the mean aunt in the play.
 - competition | [ˌkɒmpəˈtɪʃ(ə)n] | n.竞争；比赛 | There is a rise in unemployment, so the competition for jobs is very fierce.
 - piano | [piˈænəʊ] | n.钢琴 | He started to learn the piano when he was very young.
@@ -1302,9 +1237,6 @@
 - sponsor | [ˈspɒnsə(r)] | n.发起人；主办人；赞助人 | The company had sponsored the football match.
 - athlete | [ˈæθliːt] | n.运动员:［英］田径运动员 | The boy first showed promise as an athlete in primary school.
 - volunteer | [ˌvɒlənˈtɪə(r)] | n.志愿者 v.自愿做 | Many people volunteer to work on the farms.
-
-### 娱乐运动 第三组
-
 - famous | [ˈfeɪməs] | adj.著名的，出名的 | Wuthering Heights is one of the most famous novels in the world.
 - picnic | [ˈpɪknɪk] | n.野餐；野餐食物 v.野餐 | Let’s eat our picnic by the waterfall.
 - trip | [trɪp] | v.绊倒 n.旅行；绊倒 | The trip was expensive and uncomfortable.
@@ -1379,9 +1311,7 @@
 - slip | [slɪp] | v.滑跤；滑落；溜 n.滑倒 | She slipped and fell down the stairs.
 - cycling | [ˈsaɪklɪŋ] | n.骑自行车运动 | He likes cycling very much and wants to buy a bicycle.
 - bow | [baʊ , bəʊ] | v.n.鞠躬 | He can’t agree with her, but bowed to her greater experience and knowledge.
-
-### 物品材料 第一组
-
+### Chapter 08 物品材料
 - soap | [səʊp] | n. 肥皂 v. 用肥皂擦洗 | Don’t touch anything before you soap your hands.
 - towel | [ˈtaʊəl] | n. 毛巾，手巾 | I dry my hands and face with a towel.
 - material | [məˈtɪəriəl] | n. 材料，原料；人才 adj. 物质的 | There is singer material among these young girls.
@@ -1432,9 +1362,6 @@
 - detergent | [dɪˈtɜːdʒənt] | n. 洗涤剂 | He recommended a new detergent to me.
 - lotion | [ˈləʊʃn] | n. 洁肤乳；润肤乳 | This lotion helps brighten and smooth your skin.
 - item | [ ˈaɪtəm ] | n. 一件物品，一件商品 | She couldn't wedge another item into the suitcase.
-
-### 物品材料 第二组
-
 - fridge | [frɪdʒ] | n. 冰箱 | The butter will soften out of the fridge.
 - match | [mætʃ] | n. 火柴；比赛；匹配的人或物 v. 与……匹配 | A high standard of play marked the match between the two teams.
 - candle | [ˈkænd(ə)l] | n. 蜡烛 | The candle was blown out by the wind.
@@ -1488,9 +1415,6 @@
 - spotlight | [ˈspɒtlaɪt] | n. 聚光灯；聚光灯照出的光圈 | The spotlight followed the dancer round the stage.
 - flashlight | [ˈflæʃlaɪt] | n.（闪光灯的）闪光；手电筒 | You can use the flashlight when you take a photo indoors.
 - Xerox | [ ˈzɪərɒks ] | n.施乐复印件 | He kept the original copy and gave her only a Xerox.
-
-### 物品材料 第三组
-
 - raincoat | [ˈreɪnkəʊt] | n. 雨衣 | He had no raincoat on when the rain started.
 - cotton | [ˈkɒtn] | n. 棉；棉线；棉布 | The cotton has been picked and weighed up.
 - shelf | [ʃelf] | n. 架子，搁板 | The shelf is too weak to hold all those books.
@@ -1540,9 +1464,7 @@
 - counterfeit | [ˈkaʊntəfɪt] | adj. 假冒的 v. 伪造 | It is against the law to counterfeit money.
 - fake | [feɪk] | adj. 假冒的 n. 冒充者；假货 | On closer examination, the painting was proved to be a fake.
 - fragile | [ ˈfrædʒaɪl ] | adj.易碎的；脆弱的 | Glass is fragile and must be handled with great care.
-
-### 时尚潮流 第一组
-
+### Chapter 09 时尚潮流
 - model | [ˈmɒd(ə)l] | n.模型；模范；模特儿 v.使模仿 | After a brief spell as a model, she got into singing.
 - dress | [dres] | n.衣服；连衣帽 | She wears a beautiful evening dress.
 - jacket | [ˈdʒækɪt] | n.夹克衫 | He wore a pair of dark glasses and a jacket all day long.
@@ -1601,9 +1523,6 @@
 - make-up | [meɪk ʌp] | n. 化妆品；组成成分；性格 | I cannot tell who's who when the women take off their make up.
 - laundry | [ˈlɔːndri] | n.洗衣店；要（或正在）洗的衣物，刚洗好的衣物 | There’s a lot of laundry in the basket.
 - button | [ˈbʌt(ə)n] | n. 纽扣；按钮 v.扣上......的纽扣 | One of the buttons has come off my coat.
-
-### 时尚潮流 第二组
-
 - sock | [sɒk] | n.短袜 | There is a hole in my sock.
 - cap | [kæp] | n.（有帽舌的）帽子（经费等的）最高限额 | The cap goes well with your suit.
 - hat | [hæt] | n.（常指带惰的）帽子 | She bought a hat yesterday.
@@ -1659,9 +1578,7 @@
 - tailor | [ˈteɪlə(r)] | n.裁缝 v.专门制作 | The tailor can alter your new coat to fit you.
 - thread | [θred] | n.线；螺纹 | She is looking for threads which match the cloth.
 - ribbon | [ˈrɪbən] | n.缎带，丝带 | Her hair was tied up with a ribbon.
-
-### 饮食健康 第一组
-
+### Chapter 10 饮食健康
 - food | [fuːd] | n.食物 | I prefer vegetarian food.
 - dish | [dɪʃ] | n.碟；菜肴 | The careless waiter dropped the dish onto the ground.
 - menu | [ˈmenjuː] | n.菜单 | He called the waiter to bring the menu.
@@ -1719,9 +1636,6 @@
 - ceramic | [sɪˈræmɪk] | adj.陶瓷的 n.陶瓷制品 | The ceramic industry dates from the ancient times.
 - beverage | [ˈbevərɪdʒ] | n. （水以外的）饮料 | He is our regular supplier of beverage.
 - alcohol | [ˈælkəhɒl] | n.酒精，乙醇酒 | The doctor told me to keep off alcohol.
-
-### 饮食健康 第二组
-
 - sausage | [ˈsɒsɪdʒ] | n.香肠 | She loves sausage and mash.
 - milk | [mɪlk] | n.奶 v.挤奶 | I am boiling the milk.
 - wheat | [wiːt] | n.小麦 | This old man is a leading authority on wheat diseases.
@@ -1778,9 +1692,6 @@
 - livestock | [ˈlaɪvstɒk] | n.家畜 | He is good at breeding livestock.
 - yogurt | [ˈjɒɡət] | n.酸奶 | Do you have any low-fat yogurt?
 - beery | [ˈbɪəri ] | n.浆果 | The berry is nutritious and has a sweetish taste.
-
-### 饮食健康 第三组
-
 - cook | [kʊk] | v.烹调，烧，煮 n.厨师 | Will she cook dinner this evening?
 - sandwich | [ˈsæn(d)wɪdʒ; -wɪtʃ] | v.把……夹入 n.三明治 | He was sandwiched between two fat men.
 - salad | [ˈsæləd] | n.色拉 | It only takes a minute to make a salad.
@@ -1842,9 +1753,7 @@
 - ketchup | [ˈketʃəp] | n.番茄酱 | I want to put some ketchup on the hamburger.
 - ingredient | [ɪnˈgriːdɪənt] | n.成分（烹调的）原料；因素 | Chilli is a crucial ingredient in Sichuan cuisine.
 - slice | [slaɪs] | v.将……切成薄片；切，划 n.（切下的食物）薄片 | I sliced the bread.
-
-### 建筑场所 第一组
-
+### Chapter 11 建筑场所
 - steel | [stiːl] | n.钢铁 | Hot steel is quenched to be hardened.
 - terrace | [ˈterəs] | n.大阳台，露天平台 | Do you want to sit at a table on the terrace?
 - apartment | [əˈpɑːtmənt] | n. [美］公寓套房 | I have an apartment in downtown Manhattan.
@@ -1912,9 +1821,6 @@
 - parlour | [ˈpɑːlə(r)] | n.客厅 | The parlour has been decorated delicately.
 - flat | [ flæt ] | n.【尤英】单元房，公寓 | She is buying a flat close to her office.
 - living room | [ 'lɪvɪŋ ru:m ] | n.客厅，起居室 | The dining room is next to the living room
-
-### 建筑场所 第二组
-
 - pole | [pəʊl] | n.竿，杆 | The hut is made of poles covered with grass mats.
 - trim | [trɪm] | v.修剪；装饰 adj.整齐的，整洁的 | They trimmed their Christmas tree and put strings of coloured lights on it.
 - basin | [ˈbeɪs(ə)n] | n.盆；盆地 | This basin is made of iron.
@@ -1979,9 +1885,7 @@
 - brickwork | [ ˈbrɪkwɜːk ] | n. 砖结构 | There is a weird crack in the brickwork.
 - scaffold | [ˈskæfəʊld] | n.脚手架；绞刑架 | The worker fell down from the scaffold.
 - internal | [ ɪnˈtɜːn(ə)l ] | adj.内部的；自身的；国内的 | Every theory has its internal logic.
-
-### 交通旅行 第一组
-
+### Chapter 12 交通旅行
 - pilot | [ˈpaɪlət] | n.飞行员 | A pilot must stay alert for the changes in the weather.
 - traffic | [ˈtræfɪk] | n.交通，车流 | Traffic reaches a peak between 8 and 9 in the morning.
 - passenger | [ˈpæsɪndʒə(r)] | n.乘客 | The baggage allowance per passenger is 25 kg.
@@ -2050,9 +1954,6 @@
 - itinerary | [aɪˈtɪnərəri] | n.行程，路线 | We have some more places to visit on our itinerary.
 - intersection | [ˌɪntəˈsekʃn] | n.十字路口，交叉路口 | The town lies at the intersection of three motorways.
 - fare | [feə(r)] | n. 车费，路费 | She didn’t have enough money for the railway fare.
-
-### 交通旅行 第二组
-
 - railway | [ˈreɪlweɪ] | n. ［英］铁路，铁路系统 | The goods were sent to you by railway.
 - sail | [seɪl] | v. 航行；驾驶（帆船） | His ship has been given the all-clear to sail.
 - speed | [spiːd] | n.速度；迅速 | The police advise motorists to reduce their speed because of the fog.
@@ -2119,9 +2020,7 @@
 - raft | [rɑːft] | n. 木筏，木排 | After a series of adventures alone on a raft, he eventually reached the village.
 - embark | [ɪmˈbɑːk] | v. 上船（或飞机等）；开始做 | They embarked at Liverpool for New York.
 - envelope | [ˈenvələʊp] | n. 信封 | He glued a stamp onto the envelope.
-
-### 国家政府 第一组
-
+### Chapter 13 国家政府
 - president | [ˈprezɪdənt] | n. 总统；校长；董事长 | When the president of the company retired, the vice-president was elevated to his position.
 - secretary | [ˈsekrət(ə)ri] | n秘书；书记员；大臣 | The new secretary is being lectured for the poor quality of her work.
 - police | [pəˈliːs] | n. 警察；［the～］警方 | His strange behaviour made the police suspicious.
@@ -2196,9 +2095,6 @@
 - process | [ˈprəʊses , prəˈses] | n. 过程，进程 v. 处理；加工 v. 列队前进 | They went over every process again, but couldn’t find the cause of the problem.
 - flag | [flæɡ] | n. 旗，旗帜 | Flags were fluttering in the wind.
 - overseas | [ˌəʊvəˈsiːz] | adj. 海外的，国外的 | The overseas students we concerned about the destiny of thei motherland.
-
-### 国家政府 第二组
-
 - population | [ˌpɒpjuˈleɪʃ(ə)n] | n.人口，人口数量 | There is a steady incresse in population of this city.
 - safety | [ˈseɪfti] | n.安全；安全场所 | They ran to safety, away from the fire.
 - succeed | [səkˈsiːd] | v.成功 | If you work hard, you will succeed.
@@ -2274,9 +2170,7 @@
 - soviet | [ˈsəʊviət] | adj. [S～]苏联的 n. 苏维埃 | The Soviet Union was a major power on the Eurasian continent.
 - New Zealand | [ˌnjuː ˈziːlənd] | n. 新西兰 | Oceania is mainly made up of Australia and New Zealand.
 - Germany | [ˈdʒɜːməni] | n. 德国 | I need to buy a round-trip ticket to Germany.
-
-### 社会经济 第一组
-
+### Chapter 14 社会经济
 - trade | [treɪd] | n.贸易 v.交换 | China does a lot of trade with many countries.
 - afford | [əˈfɔːd] | v.负担得起；提供，给予 | I couldn’t afford the rent on my own.
 - consume | [kənˈsjuːm] | v. 消耗；吃，喝 | Chinese people consume huge amounts of rice every year.
@@ -2333,9 +2227,6 @@
 - swap | [swɒp] | vn. 交换 | She swapped her watch for an antique locket.
 - discount | [ˈdɪskaʊnt] | n. 折扣 v. 打折出售 | I'll sell at a discount in return for a speedy sale.
 - increase | [ɪnˈkriːs , ˈɪŋkriːs] | n. 增加，增长 v. （使）增加，（使）增长 | His employer has increased his salary.
-
-### 社会经济 第二组
-
 - wealth | [welθ] | n.财富，丰富 | Health is better than wealth.
 - treasure | [ˈtreʒə(r)] | n.金银财宝;宝物，珍品 | This museum has many art treasures.
 - coin | [kɔɪn] | n.硬币 v铸币;创造(新词语) | We’d better not coin terms which are not intelligible.
@@ -2394,9 +2285,6 @@
 - export | [ɪkˈspɔːt , ˈekspɔːt] | v. 出口 n. 出口；出口商品 | Oil has supplanted coffee as our main export.
 - import | [ˈɪmpɔːt , ɪmˈpɔːt] | v. 进口 n. 进口；进口商品 | We import a huge amount of produce from other countries every year.
 - dividend | [ˈdɪvɪdend] | n. 股息，红利 | The company declared a large dividend at the end of the year.
-
-### 社会经济 第三组
-
 - job | [dʒɒb] | n.职业，工作；（一份）工作，活儿 | The job is not yet finished.
 - cheap | [tʃiːp] | adj.廉价的；质劣价低的 | Cheap shoes soon wear out.
 - interview | [ˈɪntəvjuː] | n.面试；采访 v.对......进行面试；采访 | The interview has drawn considerable attention to the profession.
@@ -2454,9 +2342,7 @@
 - refund | [ˈriːfʌnd , rɪˈfʌnd] | n. 退款 v. 退（款） | We can refund the price difference.
 - coordinate | [kəʊˈɔːdɪneɪt] | v. 调和，协调 n. 坐标 | Our efforts need to be further coordinated for higher efficiency.
 - collaborate | [kəˈlæbəreɪt] | v. 合作 | We would like to ask you to collaborate with us.
-
-### 沙场争锋 第一组
-
+### Chapter 15 沙场争锋
 - beat | [biːt] | v打；打败；（心脏等）跳动n节拍；击鼓声；(心脏等的）跳动 | If we don’t prepare for the debate, they will beat us.
 - missile | [ˈmɪsaɪl] | n.导弹；投掷物 | A hand-grenade is a missile weapon.
 - punch | [pʌntʃ] | n.打孔机；重拳击打 V.给......打孔；拳打 | Spectators cheered at his KO punch.
@@ -2509,9 +2395,6 @@
 - gunpowder | [ˈɡʌnpaʊdə(r)] | n.火药 | Gunpowder was used for military pu「posesin China as far back as the 10th century.
 - conspiracy | [kənˈspɪrəsi] | n.阴谋，密谋，合谋 | The conspiracy of the assassination of the president was brought to light in time.
 - conflict | [ ˈkɒnflɪkt] | n.斗争，冲突 | Many people feel that religion conflicts with science.
-
-### 沙场争锋 第二组
-
 - counter | [ˈkaʊntə(r)] | v.抵消；反击，反驳 adv.相反地 n.柜台；工作台 | My colleague countered my proposal with one of his own.
 - turbulent | [ˈtɜːbjələnt] | adj.动荡的，混乱的；汹涌的 | The sea was too turbulent for us to set sail.
 - alarm | [əˈlɑːm] | n.惊恐，忧虑；警报；警报器 | The instant they heard the alarm, they fell in for action.
@@ -2563,9 +2446,6 @@
 - attack | [əˈtæk] | v.n.攻击，避政 | The police are launching a major attack on drug dealers.
 - assault | [əˈsɔːlt] | n.猛攻；（身体）侵犯 V.袭击 | He was accused of sexual assault.
 - halt | [hɔːlt] | v. （使）停止，（使）停住n停止，停住 | The cab rolled to a halt before the hotel.
-
-### 沙场争锋 第三组
-
 - enemy | [ˈenəmi] | n.敌人，仇敌；敌兵，敌军 | Disease is an enemy of mankind.
 - order | [ˈɔːdə(r)] | n.次序；整齐 v.命令 | He gave his order to the waiter.
 - matter | [ˈmætə(r)] | n.事情；物质 v.要紧 | He reconsidered his decision on this matter because something unexpected happened.
@@ -2619,9 +2499,6 @@
 - savage | [ˈsævɪdʒ] | adj.野蛮的，凶猛的v，凶狠地攻击n，野蛮人 | Elephants are tame most of the time, but they can be very savage.
 - contest | [ˈkɒntest , kənˈtest] | v.争取赢得；争辩 n.竞争；比赛 | If the election is one-sided, it is really no contest.
 - progress | [ˈprəʊɡres] | n.前进；进步；进程 | he building of the largest bridge across a river in that country is in progress.
-
-### 沙场争锋 第四组
-
 - guard | [ɡɑːd] | n.卫兵，警卫员 v.看守；守卫，保卫 | The dog guarded the house against strangers.
 - risk | [rɪsk] | n.危险，风险阻冒着......的危险 | If you don’t warm up before taking exercise, you risk injuring yourself.
 - victory | [ˈvɪktəri] | n.胜利，成功 | The school football team has had three victories this month against other schools.
@@ -2679,9 +2556,7 @@
 - spy | [spaɪ] | n.间谍，特务 V.搜集情报，从事间谍活动 | She hired a detective to spy on her husband.
 - soldier | [ˈsəʊldʒə(r)] | n.战士，士兵 | The soldier received a serious wound on the chest.
 - veteran | [ˈvetərən] | n..老兵；老手 | The baseball veteran loved to coach young players.
-
-### 社会角色 第一组
-
+### Chapter 16 社会角色
 - relative | [ˈrelətɪv] | n.亲戚 adj.相对的；有关的 | We do not abandon our relatives when times get tough.
 - grandfather | [ˈɡrænfɑːðə(r)] | n. （外）祖父 | The kid was named after his grandfather.
 - couple | [ˈkʌp(ə)l] | n.夫妻，情侣；两个，几个 | I waited a couple of hours.
@@ -2742,9 +2617,6 @@
 - spouse | [spaʊs] | n.配偶（指夫或妻） | They get free tickets for their spouses.
 - embryo | [ˈembriəʊ] | n.胚胎 adj.胚胎的；初期的 | Our plans are still in embryo.
 - adolescence | [ˌædəˈles(ə)ns] | n.青春期 | His adolescence was not a happy time for him.
-
-### 社会角色 第二组
-
 - manager | [ˈmænɪdʒə(r)] | n.经理，管理人 | She has been promoted to a middle manager.
 - boss | [bɒs] | n.老板，上司 | The boss always makes them work overtime without pay.
 - director | [dəˈrektə(r); daɪˈrektə(r)] | n.主管；理事；导演 | The director cast him as a deaf and dumb man.
@@ -2805,9 +2677,7 @@
 - affection | [əˈfekʃn] | n.喜爱，喜欢 | I cannot believe that you were unaware of my growing affections for you.
 - delegate | [ˈdelɪɡət] | n.代表 v.授权，委派 | I was delegated to approach the local press.
 - coward | [ˈkaʊəd] | n.懦夫，胆小鬼 | He is a liar and a coward to boot.
-
-### 行为动作 第一组
-
+### Chapter 17 行为动作
 - bear | [beə(r)] | v.生（孩子）；窑忍；承担（责任） | They must bear most of the blame.
 - tap | [tæp] | v.轻拍，轻叩；开发 | He rigged a rubber hose to the tap in the kitchen.
 - respond | [rɪˈspɒnd] | v.回答：晌应，作出反应 | I offered him a drink but he didn’t respond.
@@ -2860,9 +2730,6 @@
 - boast | [bəʊst] | v.n.自夸，吹嘘 | Nobody should boast of his knowledge.
 - touch | [tʌtʃ] | v.触摸；触动 n.触觉；接触 | By the way, you don’t want to touch the onion and then touch your eyes.
 - act | [ækt] | v.行动 n.行为 | Dreaming is one thing but acting is another.
-
-### 行为动作 第二组
-
 - kneel | [niːl] | V.跪，跪下 | The man knelt down to say his prayer.
 - penetrate | [ˈpenətreɪt] | V.刺入，穿透；渗透；洞察 | Western ideas penetrate slowly through the East.
 - pierce | [pɪəs] | V.刺穿，刺破，穿透；使心如刀割 | The needle pierced the material.
@@ -2916,9 +2783,6 @@
 - integrate | [ˈɪntɪɡreɪt] | V. （使）成为一体，｛使）合并 | Little attempt was made to integrate the parts into a coherent whole.
 - fold | [fəʊld] | v.折叠，对折 | She folded the letter so that it would fit into her bag.
 - reel | [riːl] | v. 眩晕，混乱 | My head reeled with the facts and figures.
-
-### 行为动作 第三组
-
 - assure | [əˈʃʊə(r)] | V.向......保证；保证；保险 | I can assure you of the reliability of the news.
 - convince | [kənˈvɪns] | v使确信，使信服；说服 | He finally convinced us of his innocence.
 - amaze | [əˈmeɪz] | v.使惊奇，使惊愕 | John amazed his friends by suddenly gettingmarried.
@@ -2974,9 +2838,6 @@
 - despatch | [dɪˈspætʃ] | v.派遣，调派；迅速处理 | He despatched his breakfast and left.
 - detach | [dɪˈtætʃ] | v. （使｝分开，｛使）分离；派遣 | He had to detach himself from social activities for the time being in order to concentrate on his studies.
 - bully | [ˈbʊli] | v. 恐吓，欺凌 n. 恃强凌弱者 | He’s always bullying smaller boys.
-
-### 行为动作 第四组
-
 - range | [reɪndʒ] | v.（在一定幅度内）变动 | A range of hills rose on our left.
 - restore | [rɪˈstɔː(r)] | v.恢复；归还；修复 | It’s hard to restore a broken mirror.
 - clear | [klɪə(r)] | adj.清晰的；明显的v清除 | It seems clear that he has no reasonable alternative.
@@ -3023,9 +2884,6 @@
 - backup | [ˈbækʌp] | n.后援，支持；（文件等的）备份 adj.备用的 | Make a backup of any work you do on the computer.
 - update | [ˌʌpˈdeɪt] | v.更新；使现代化 | Our e-mail addresses are unlikely to be updated every day.
 - rescue | [ˈreskjuː] | v.n. 营救，救援 | They rescued the boy who fell into the river.
-
-### 行为动作 第五组
-
 - celebrate | [ˈselɪbreɪt] | v，庆祝（节目、事件等） | They all passed the exam and celebrated with a party.
 - seek | [siːk] | v.寻找；寻求 | They are seeking the most reasonable diet which will do good to their health.
 - specify | [ˈspesɪfaɪ] | V.具体指定，详细说明 | Can you specify the reasons?
@@ -3087,9 +2945,7 @@
 - spill | [spɪl] | v.使）溢出 | The teacup is so full that the tea might spillover.
 - ooze | [uːz] | v.渗出；洋溢着 | Blood oozed from his wound.
 - contain | [kənˈteɪn] | v.包含，容纳；抑制（感情） | The speech contained some interesting ideas.
-
-### 身心健康 第一组
-
+### Chapter 18 身心健康
 - human | [ˈhjuːmən] | adj.人类的；奇人性的 n.人类 | The accident was caused by human error.
 - beard | [bɪəd] | n.胡须 | He hasalight beard and never shaves it.
 - bone | [bəʊn] | n.骨；骨髓 | Once cancer has spread to the bone, it’s difficult to treat.
@@ -3142,9 +2998,6 @@
 - virtue | [ˈvɜːtʃuː] | n.美德，德行；优点 | Patriotism, respect and patience are always good virtues.
 - stature | [ˈstætʃə(r)] | n.身高，身材；（精神、道德等的）高度 | Bernard was short in stature, with a large head.
 - eyelash | [ˈaɪlæʃ] | n.眼睫毛 | She batted her long dark eyelashes at him.
-
-### 身心健康 第二组
-
 - sight | [saɪt] | n.视力；看见；景物 | I’m having laser treatment to improve mysight.
 - ankle | [ˈæŋk(ə)l] | n.裸关节，裸 | Her ankle was very painful.
 - asleep | [əˈsliːp] | adj. 睡着的；不活跃的；麻木的 | He soon fell asleep with weariness.
@@ -3197,9 +3050,6 @@
 - lifestyle | [ˈlaɪfstaɪl] | n. 生活方式 | He was troubled by the lifestyle of his son.
 - dental | [ˈdent(ə)l] | adj. 牙的，牙科的 | Some hospitals in Ireland provide free dental treatment to certain citizens.
 - doze | [dəʊz] | v. 小睡，打盹儿 | He dozed away the whole afternoon.
-
-### 身心健康 第三组
-
 - stroke | [strəʊk] | n. 中风；击打；一笔｛画｝ | I know a doctor who is expert in curing stroke.
 - bleed | [bliːd] | v.流血；榨取；给......放血；放掉｛水或气体｝ | All the soldiers are ready to bleed for their country.
 - broken | [ˈbrəʊkən] | adj. 弄坏的;破碎的 | He likes to tinker with broken gadgets.
@@ -3251,9 +3101,6 @@
 - corpus | [ˈkɔːpəs] | n.尸体；文集；本金 | He asked his children to have his corpus burnt after his death.
 - overwork | [ˌəʊvəˈwɜːk] | n. 过度操劳；适度工作 v. （使）适度工作 | I was completely knackered from overwork.
 - heart attack | [ˈhɑːrt ətæk] | n.心脏病发作 | Heart attack is a sudden severe instance of abnormal heart function.
-
-### 身心健康 第四组
-
 - common | [ˈkɒmən] | adj.共同的；普通的，平常的 | We have common topics to talk about.
 - check | [tʃek] | v. 检查，核对 n. ［美］账单 | Do look out for spelling mistakes when you checkyour homework.
 - cure | [kjʊə(r)] | v. 治好，治愈 n. 疗法；治疗 | What can’t be cured must be endured.
@@ -3306,9 +3153,6 @@
 - refresh | [rɪˈfreʃ] | v.使恢复精神 | A cool drink refreshed me after my long walk.
 - alleviate | [əˈliːvieɪt] | v.减轻（痛苦等），缓解 | The doctor gave her an injection to alleviatethe pain.
 - health care |  | n. 医疗保健 | I watched a programme about health care.
-
-### 身心健康 第五组
-
 - joke | [dʒəʊk] | n.笑话；玩笑 v.说笑话；开玩笑 | He closed his speech with a funny joke.
 - pleasure | [ˈpleʒə(r)] | n.愉快，高兴；荣幸（用于回答对方的感谢） | She took no pleasure in her work.
 - fun | [fʌn] | n.乐趣；玩笑 adj.有趣的 | I’m learning to cook, just for the fun of it.
@@ -3359,9 +3203,6 @@
 - exhilarate | [ɪɡˈzɪləreɪt] | v.使高兴，使兴奋 | His bold designs always exhilarate the viewers.
 - hectic | [ˈhektɪk] | adj.兴奋活跃的，忙乱的，繁忙的 | The journalist lead a hectic life.
 - generous | [ˈdʒenərəs] | adj.慷慨的；宽厚的 | She was always very generous in making donations to charity.
-
-### 身心健康 第六组
-
 - sound | [saʊnd] | adj.健全的；（睡眠）酣畅的；合理的 n.声音 v.发出声音；听起来 | The book is full of sound advice.
 - childish | [ˈtʃaɪldɪʃ] | adj.孩子般的；幼稚的 | The little girl spoke in a high childish voice.
 - ready | [ˈredi] | adj.准备好的；愿意的 | They got ready to launch an attack.
@@ -3409,9 +3250,6 @@
 - strenuous | [ˈstrenjuəs] | adj.发奋的；繁重的，艰苦的 | Sherry’s been making a strenuous effort to lose weight.
 - apologise | [əˈpɒlədʒaɪz] | v.道歉，赔罪 | He will apologise to her for not going to herparty.
 - rational | [ˈræʃnəl] | adj.理性的；合理的 | Man is a rational being.
-
-### 身心健康 第七组
-
 - anger | [ˈæŋɡə(r)] | n.怒，怒气 v.使发怒 | His face was inflamed with anger.
 - bore | [bɔː(r)] | v.烦扰；钻孔 n.讨厌的人；令人生厌的事 | Don’t bore me with these boring jokes!
 - bother | [ˈbɒðə(r)] | v.花费时间精力（做某事）；（使）苦恼 n.麻烦，困难 | We had a lot of bother finding our way to his house.
@@ -3440,9 +3278,6 @@
 - crazy | [ˈkreɪzi] | adj.疯狂的；荒唐的 | Are you crazy?
 - frown | [fraʊn] | n.皱眉，不悦 v.皱眉，表示不悦 | We interpret a frown as a sign of disapproval.
 - rage | [reɪdʒ] | n.盛怒，狂怒 | My father was in a rage last night.
-
-### 身心健康 第八组
-
 - anxiety | [æŋˈzaɪəti] | n.焦虑，担心；渴望 | It proved difficult to disguise his anxiety.
 - confuse | [kənˈfjuːz] | v.使困惑，把（某人）弄糊涂混淆 | Don't confuse Austria with Australia.
 - doubt | [daʊt] | n.怀疑，疑问 v.怀疑，不信 | There is no doubt about it.
@@ -3498,9 +3333,7 @@
 - impulse | [ˈɪmpʌls] | n.冲动，心血来潮 | He bought the house on an impulse.
 - ego | [ˈiːɡəʊ] | n.自我，自尊；自负 | That promotion really boosted her ego.
 - stereotype | [ˈsteriətaɪp] | n.老一套，模式化观念，刻板印象 | This idea is an old-fashioned stereotype.
-
-### 时间日期
-
+### Chapter 19 时间日期
 - minute | [ˈmɪnɪt] | n.分，分钟；一会儿 | It’s only several minutes from here to the supermarket.
 - prior | [ˈpraɪə(r)] | adj.在先的，在前的 | I have a prior appointment, so I can’t go withyou.
 - former | [ˈfɔːmə(r)] | adj.以前的；前者的 pron.前者 | Many of his former supporters voted against him.
@@ -3553,9 +3386,7 @@
 - instant | [ˈɪnstənt] | 立即，即刻 | Just for an instant I thought she was going torefuse.
 - moment | [ˈməʊmənt] | n.片刻；时刻 | Love is a moment that lasts forever.
 - up-to-date |  | adj. 直到目前的；现代的 | Up-to-date information about the research on climate change can be found on this website.
-
-### 太空探索 第一组
-
+### Chapter 20 太空探索
 - galaxy | [ˈɡæləksi] | n.星系；［theG－］银河系 | The sun is only a very small star in the Galaxy.
 - cosmos | [ˈkɒzmɒs] | n.宇宙 | Our world is but a small partof the cosmos.
 - universe | [ˈjuːnɪˌvɜːs] | n.宇宙；万物，世界 | The depth of the universe is immeasurable.
@@ -3606,9 +3437,6 @@
 - electron | [ɪˈlektrɒn] | n.电子 | Electrons are negatively charged with electricity.
 - quantum | ['kwontgJn] | n.量子 | In this example, we employed the quantum mechanice principle.
 - circumstance |  | n.情况: 环境:条件 | 
-
-### 太空探索 第二组
-
 - liquid | [ˈlɪkwɪd] | adj.液态的 | If you add too much liquid, the mixture will not be thick enough.
 - fluid | [ˈfluːɪd] | n.液体，流体 adj.流动的 | When you are sick, you should drink plenty of fluids.
 - solid | [ˈsɒlɪd] | adj.固体的；牢固的 | The new office building has a very solid construction.
@@ -3635,9 +3463,7 @@
 - despair | [dɪˈspeə(r)] | v.n.绝望 | This boy is his mother’s last despair.
 - desperate | [ˈdespərət] | adj.绝望的；极需要的 | The man lost in the desert was desperate for water.
 - hopeless | [ˈhəʊpləs] | adj.无望的；极差的 | He feels that his chances of winning the contest a re hopeless.
-
-### 语言演化
-
+### Chapter 21 语言演化
 - root | [ruːt] | n.词根，字根；根源 | The dog is snuffling around the root of a tree.
 - language | [ˈlæŋɡwɪdʒ] | n.语言 | His misunderstanding of language was the primary cause of his other problems.
 - symbol | [ˈsɪmbəl] | n.象征；符号，记号 | To them, the monarchy is the special symbol of nationhood.
@@ -3706,9 +3532,7 @@
 - commentary | [ˈkɒməntəri] | n.评论，评注；批评；实况报道 | The conclusion of the commentary really hit the bull's-eye.
 - negotiate | [nɪˈgəʊʃɪeɪt] | v.协商，谈判 | We are not about to negotiate with terrorists.
 - contention | [kənˈtɛnʃən] | n.争论，争辩；观点 | My contention is that the scheme will never work.
-
-### 法律法规 第一组
-
+### Chapter 22 法律法规
 - law | [lɔː] | n. 法律；规律；定理 | Those who break the law are subjected to justice.
 - legal | ['li:gal] | adj. 法律的；合法的 | When you are 18, you are a legal voter.
 - rule | [ ˌreɡjuˈleɪʃn ] | n. 规则 v. 统治 | It’s against the rules to pick up the ball.
@@ -3767,9 +3591,6 @@
 - suitable | [ˈsuːtəb(ə)l] | adj. 合适的，适宜的 | The authorities must provide suitable accommodation for the family.
 - item | [ˈaɪtəm] | n. 一项项目，条目 | This is the next item on the agenda.
 - permit | [pəˈmɪt] | v. 允许，准许 | Those words hardly permit doubt.
-
-### 法律法规 第二组
-
 - judge | [dʒʌdʒ] | n. 法官；裁判员 | The defence counsel said his client was too tired, so the judge called a recess.
 - jury | [ˈdʒʊəri] | n.陪审团；（比赛的）评判委员会 | The jury will retire to consider its verdict today.
 - trial | [ˈtraɪəl] | n. 试验；审判 | I noticed that his report was highly critical of the trial judge of this case.
