@@ -1,0 +1,150 @@
+### Chapter 13 国家政府
+- president | [ˈprezɪdənt] | n. 总统；校长；董事长 | When the president of the company retired, the vice-president was elevated to his position.
+- secretary | [ˈsekrət(ə)ri] | n秘书；书记员；大臣 | The new secretary is being lectured for the poor quality of her work.
+- police | [pəˈliːs] | n. 警察；［the～］警方 | His strange behaviour made the police suspicious.
+- foreign | [ˈfɒrən] | adj.外国的；外来的；外交的 | The new policy helped us to attract a lot of foreign investment.
+- influence | [ˈɪnfluəns] | n. 影响，作用 v.影响 | I was influenced by my teacher and chose to study science at college.
+- abroad | [əˈbrɔːd] | adv.到国外，在国外；广为流传 | The news spread abroad.
+- harness | [ˈhɑːnɪs] | v. 控制，利用 | Some scientists are working hard at how tide can be hamessed to produce electricity.
+- conservative | [kənˈsɜːvətɪv] | adj.保守的 n.保守党党员 | The researchers made a conservative estimation of the population of New Delhi.
+- behalf | [bɪˈhɑːf] | n. [on～of sb. ）代表某人 | The president signed the document on behalf of the school.
+- meeting | [ˈmiːtɪŋ] | n.会议；会面 | I have written down the date of the next meeting in my diary.
+- significance | [sɪɡˈnɪfɪkəns] | n.重要性，意义 | This fact has little significance for us.
+- affect | [əˈfekt] | v. 影响；(感情上）打动，使悲伤 | The disease ects the central nervous system.
+- headquarters | [ˌhedˈkwɔːtəz] | n.总部，总公司；司令部 | The company’s headquarters is in Paris.
+- dominate | [ˈdɒmɪneɪt] | V.支配，控制；占优势 | A great man can dominate others by force of character.
+- emigrate | [ˈemɪɡreɪt] | v.移居国外 | They did not receive the permission toemigrate to the United States.
+- immigrate | [ˈɪmɪɡreɪt] | v. （从外地）移居，移入 | Many British colonists immigrated to the NewWorld.
+- bureaucracy | [bjʊəˈrɒkrəsi] | n.官僚制度；官僚作风 | The government promised to reorganise thebureaucracy.
+- administration | [ədˌmɪnɪˈstreɪʃ(ə)n] | n.管理，行政 | You will need some experience in administration before you can run the department.
+- reign | [reɪn] | n. 君主统治时期 v. 统治 | The reign of Queen Victoria lasted more than sixty years.
+- global | [ˈɡləʊb(ə)l] | adj.全球的，全世界的 | In the coming decades, the Pacific Rim will become the main impetus of the global economy.
+- worldwide | [ˌwɜːldˈwaɪd] | adj.世界范围的，遍及全球的 | The money came from worldwide contribution.
+- unique | [juˈniːk] | adj.独一无二的，唯一的；独特的 | Each person’s fingerprints are unique.
+- authority | [ɔːˈθɒrəti] | n. 权力；权威人士；行政管理机构；［the authorities］当局 | The government is the highest authority in a country.
+- regime | [reɪˈʒiːm] | n.统治制度，政权，政体 | The regime got rid of most of its opponents.
+- hierarchy | [ˈhaɪərɑːki] | n.等级制度；统治集团 | There is a rigid hierarchy of power in that country.
+- egalitarian | [iˌɡælɪˈteəriən] | adj.平等主义的n平等主义者 | Clearly, the egalitarian society remains adream.
+- political | [pəˈlɪtɪk(ə)l] | adj.政治的；政党的 | The British political system has evolved over several centuries.
+- institution | [ˌɪnstɪˈtjuːʃ(ə)n] | n.社会福利机构；（大学、银行等大型）机构 | Universities are educational institutions.
+- reform | [rɪˈfɔːm] | n.改革，改良 v.改革，改良；（使｝改过自新 | He promised to reform if given another chance.
+- department | [dɪˈpɑːtmənt] | n. （政府、企业等机构的）部门；（大学的）系，所 | He worked in Community Welfare Department.
+- premier | [ˈpremiə(r)] | n.总理，蕾帽 adj.首要的，第一的 | The premier deals with important state affairs.
+- municipal | [mjuːˈnɪsɪpl] | adj.市政的，地方政府的 | He went to a municipal university.
+- federal | [ˈfedərəl] | adj.联邦的，联合的 | Switzerland is a federal state in Europe.
+- community | [kəˈmjuːnəti] | n.社区；群体；（生物的）群落 | To host the Olympic Games, Beijing expanded its English-speaking community.
+- service | [ˈsɜːvɪs] | n.服务；公共服务事业；公共事业机构 | The volunteers for community service are doing a good job.
+- conference | [ˈkɒnfərəns] | n. （常持续数日的大型正式）会议；正式商谈 | The World Conference on Human Rights discussed the common problems of mankind and advanced human rights work around the world.
+- revolution | [ˌrevəˈluːʃn] | n.革命；巨大变化 | The invention of aircraft caused a revolution in our ways of travelling.
+- power | [ˈpaʊə(r)] | n.能力；权力；政权；能源 | A person should rely upon his or her own power.
+- delegation | [ˌdelɪˈɡeɪʃn] | n.代表团；委派 | The delegation ended their visit to China on March 30th.
+- statesman | [ˈsteɪtsmən] | n.政治家 | He will go down in history as a great statesman.
+- mayor | [meə(r)] | n.市长 | The mayor is determined to clean up the city.
+- office | [ˈɒfɪs] | n. 办公室；要职，官职；［O～］部，局，厅 | Now he holds office in the Foreign Ministry.
+- bureau | [ˈbjʊərəʊ] | n.局，处，科；办事处 | The Bureau of Land Management is not so far from here.
+- importance | [ɪmˈpɔːt(ə)ns] | n.重要，重要性 | The police officer emphasised the importance of careful driving.
+- organisation | [ˌɔːɡənaɪˈzeɪʃ(ə)n] | n.组织，团体，机构 | They have established a student organisation.
+- association | [əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn] | n.协会，团体；关联 | Have you joined the parent-teacher association?
+- union | [ˈjuːniən] | n.联合；联盟；工会 | The largest teachers’ union supports the education reforms.
+- consortium | [kənˈsɔːtiəm] | n.财团，联营企业 | Several big companies have formed a consortium
+- league | [liːɡ] | n. 联赛；联盟，同盟 | Our club is a member of the Football League.
+- unite | [juˈnaɪt] | v. （使)联合，(使）团结 | All parties should unite their efforts to bringpeace.
+- nation | [ˈneɪʃ(ə)n] | n.国家；民族；国民 | My judgement may be faulty, but my loyalty to the nation could not be questioned.
+- republic | [rɪˈpʌblɪk] | n.共和国，共和政体 | He was one of the architects of the republic.
+- Marxism | [ˈmɑːksɪzəm] | n.马克思主义 | The essence of Marxism is seeking truth fromfacts.
+- socialism | [ˈsəʊʃəlɪz(ə)m] | n.社会主义 | Let us do our best to build socialism.
+- communism | [ˈkɒmjənɪzəm] | n.共产主义 | Communism is based on Marxism.
+- government | [ˈɡʌvənmənt] | n.政府；政体；统治 | He is a man of some influence in the government.
+- democracy | [dɪˈmɒkrəsi] | n.民主，民主制度；民主国家 | The military government promised to restore democracy within one year.
+- materialism | [məˈtɪəriəlɪzəm] | n.唯物主义；唯物论 | Both of them believed in Marxism and materialism.
+- meltdown | [ˈmeltdaʊn] | n. （核反应堆的）堆芯熔毁；崩溃 | The commentator sees a bright side to the financial melt down.
+- neutral | [ˈnjuːtrəl] | adj.中立的；中立国的 | She is neutral in this argument and doesn’t care who wins.
+- bilateral | [ˌbaɪˈlætərəl] | adj.双边的 | They have signed a bilateral peace treaty.
+- arena | [əˈriːnə] | 他从政治舞台上退出了。 | He withdrew from the political arena.
+- banner | [ˈbænə(r)] | n.横幅，标语 | Banners demanding an immediate ceasefire are flying in the city’s main square.
+- minister | [ˈmɪnɪstə(r)] | n.部长，大臣；公使 | The minister can only act in this matter with the sanction of parliament.
+- parliament | [ˈpɑːləmənt] | n. 议会，国会；［P～] （英国）议会 | He lost his seat in the Parliament at the election.
+- senate | [ˈsenət] | n. 大学理事会；［the S～]（美国等国家的）参议院 | The bill was approved by both the House and the Senate.
+- throne | [θrəʊn] | n. 王位；（君王的）宝座 | He was only eight when he ascended thethrone.
+- crown | [kraʊn] | n.王冠 v.为......加冕 | They crowned him shortly after the old king’sdeath.
+- civil | [ˈsɪv(ə)l] | adj. 公民的，国内的；民用的；斯文的 | Gone with the Wind, a film about American civil war, is st regarded as one of the best Hollywood films.
+- puppet | [ˈpʌpɪt] | n. 玩偶；傀儡 | Are we the puppets of fate?
+- wreath | [riːθ] | n.花环，花冠；（祭奠用的）花圈 | A group of students placed a wreath at the tomb of the national hero.
+- process | [ˈprəʊses , prəˈses] | n. 过程，进程 v. 处理；加工 v. 列队前进 | They went over every process again, but couldn’t find the cause of the problem.
+- flag | [flæɡ] | n. 旗，旗帜 | Flags were fluttering in the wind.
+- overseas | [ˌəʊvəˈsiːz] | adj. 海外的，国外的 | The overseas students we concerned about the destiny of thei motherland.
+- population | [ˌpɒpjuˈleɪʃ(ə)n] | n.人口，人口数量 | There is a steady incresse in population of this city.
+- safety | [ˈseɪfti] | n.安全；安全场所 | They ran to safety, away from the fire.
+- succeed | [səkˈsiːd] | v.成功 | If you work hard, you will succeed.
+- clarify | [ˈklærəfaɪ] | v. 澄清，阐明 | The government has clarified its position on equal pay for women.
+- advise | [ədˈvaɪz] | v.劝告；建议；通知 | She advises the government on economic affairs.
+- ambition | [æmˈbɪʃn] | n.雄心，抱负 | Her ambition was to be a famous politician.
+- poll | [pəʊl] | n.民意调查；选举投票；投票数 | A public-opinion poll shows that most people see the protectionist policies negatively.
+- announce | [əˈnaʊns] | v. 宣布；通知 | The government announced that they would build a new highway to that area.
+- entitle | [ɪnˈtaɪt(ə)l] | v. 给......权利（或资格）；给……题名 | This ticket entitles you to one-day admission to all three parks.
+- resident | [ˈrezɪdənt] | n.居民 adj.居住的 | The residents of the town are proud of its newlibrary.
+- nominate | [ˈnɒmɪneɪt] | v.提名；任命 | He has been nominated as Minister of Education.
+- affirm | [əˈfɜːm] | v.断言，坚持声称；证实 | The suspect affirmed that he had been at home all day.
+- steady | [ˈstedi] | adj.不摇晃的，平稳的；稳步的；稳定的 | That ladder doesn’t look very steady.
+- welfare | [ˈwelfeə(r)] | n.健康，幸福 | In making this decision, the court’s main concern is for the welfare of the children.
+- well-being | [ˈwel biːɪŋ] | n.康乐，安宁 | To reduce public spending on the well-being of the citizens is an act of sheer folly.
+- harmony | [ˈhɑːməni] | n.协调，和谐；融洽；和声 | They worked in perfect harmony.
+- implement | [ˈɪmplɪment] | v.实施，执行 n.工具，器具 | The new policy on housing will be implemented next month.
+- succession | [səkˈseʃn] | n.连续；继承权，继位 | He has been late for school three times in succession.
+- perspective | [pəˈspektɪv] | n.景点；观点 | We all have confidence in this new technology from a development perspective.
+- viewpoint | [ˈvjuːpɔɪnt] | n.观点，看法；视角 | I look at this problem from a different viewpoint.
+- demographic | [ˌdeməˈɡræfɪk] | adj.人口（学）的，人口统计（学）的 | I have no knowledge of demographic theory.
+- flourish | [ˈflʌrɪʃ] | v. 繁荣，兴旺；茁壮成长 | Plants will not flourish without water.
+- hint | [hɪnt] | v.n.暗示，提示 | When she said she was tired, it was a hint that she wanted us to leave.
+- assist | [əˈsɪst] | v. 帮助，协助 | A team of nurses assisted the doctor in performing the operation.
+- preference | [ˈprefrəns] | n.偏爱；优先权 | A teacher should not show preference for any one of his or her students.
+- outlook | [ˈaʊtlʊk] | n. （对生活的）观点；展望，前景 | The economic outlook is not very bright.
+- ethic | [ˈeθɪk] | n. 行为准则；［～ ］道德规范，伦理标准 | Merchants must observe their code of ethics.
+- proposal | [prəˈpəʊzl] | n.提议，建议 | The proposal of new terms for a peace treaty has been put forward.
+- aid | [eɪd] | n.救援物资；辅助物；救助 | An English-Chinese dictionary is an important aid in learning English.
+- prospect | [ˈprɒspekt] | n.希望，可能性；风景 | There’s not much prospect of his being elected as a congressman.
+- admit | [ədˈmɪt] | v.供认，承认 | He admitted to his father that he had failed his driving test.
+- liberty | [ˈlɪbəti] | n.自由 | Those prisoners are dreaming of liberty.
+- declare | [dɪˈkleə(r)] | v. 宣布，宣告；宣称，声称 | He declared that he would never come backagain.
+- colony | [ˈkɒləni] | n.殖民地 | Britain lost its American colonies in a revolution.
+- refuge | [ˈrefjuːdʒ] | n.避难，庇护；避难所 | A small cave was the only refuge from the cold.
+- monitor | [ˈmɒnɪtə(r)] | v. 监视；监听 n. 监控器；监视器；班长 | The agents are monitoring the enemy’s radio broadcasts to try to find out their secret plans.
+- claim | [kleɪm] | v.声称；要求(拥有） | Every citizen may claim the protection of the law.
+- state | [steɪt] | v.陈述，说明 n.国家；州；状况 | Railways in Britain belong to the state.
+- clan | [klæn] | n.宗族，家族；帮派 | The whole clan will be here over Christmas.
+- franchise | [ˈfræntʃaɪz] | V. 出售……的特许经营权 n. 特许权；［the ~]选举权 | In Britain, women were given the franchise in 1918.
+- checklist | [ˈtʃeklɪst] | n. 清单；选民花名册 | The guide contains a useful checklist of points to consider when buying a car.
+- standpoint | [ˈstændpɔɪnt] | n.立场，立足点 | We all look at things from a certain standpoint.
+- guideline | [ˈɡaɪdlaɪn] | n.指导方针 | The hospital has issued new guidelines on the treatment of mentally ill patients.
+- suggest | [səˈdʒest] | v.建议；暗示 | suggested he tackle the problem in another way.
+- proclaim | [prəˈkleɪm] | v.声明；清楚地表明 | His accent proclaimed that he was an American.
+- encourage | [ɪnˈkʌrɪdʒ] | v. 鼓励，激励；怂恿 | Her success encouraged me to try the same thing.
+- African | [ˈæfrɪkən] | adj.非洲的 n.非洲人 | Many African people are very energetic and outgoing.
+- European | [ˌjʊərəˈpiːən] | adj.欧洲的 n.欧洲人 | The Japanese have taken in many European ways of life.
+- Latin | [ˈlætɪn] | adj.拉丁语的；拉丁人的 n.拉丁语；拉丁人 | Many languages have Latin as their origin.
+- Jewish | [ˈdʒuːɪʃ] | adj. 犹太教的；犹太人的 | Jewish people are scattered around the world
+- Arabian | [əˈreɪbiən] | adj.阿拉伯的 | Arabian Nights and Treasure Island are famous romances.
+- Spanish | [ˈspænɪʃ] | 法语是西班牙语的姐妹语。 | French is a sister language of Spanish.
+- Swiss | [swɪs] | 瑞士的生活水平很高。 | The Swiss standard of living is very high.
+- Greek | [ɡriːk] | adj. 希腊的 n. 希腊人；古希腊人；希腊语；古希腊语 | The chef is not interested in Greek food.
+- Italian | [ɪˈtæliən] | adj.意大利的 n.意大利人；意大利语 | Italian pizza is very popular in China.
+- Indian | [ˈɪndiən] | adj.印度的 n.印度人 | To an Indian, the owl is a symbol of bad luck.
+- Portuguese | [ˌpɔːtʃʊˈɡiːz] | adj.葡萄牙的 n.葡萄牙语；葡萄牙人 | The Portuguese power in the East was on thewane.
+- Roman | [ˈrəʊmən] | adj. 罗马的；古罗马帝国的 | He wrote a storybook about ancient Romans.
+- Russian | [ˈrʌʃn] | adj.俄罗斯的 n.俄罗斯人；俄语 | The limit of Russian endurance was reached.
+- Australia | [ɒˈstreɪliə] | n.澳大利亚 | Australia is the hometown of kangaroos.
+- Canada | [ˈkænədə] | n.加拿大 | The maple leaf is the emblem of Canada.
+- Britain | [ˈbrɪt(ə)n] | n.不列颠 | The United Kingdom consists of Great Britain and Northern Ireland.
+- France | [frɑːns] | n.法国 | The English Channel divides England from France.
+- independence | [ˌɪndɪˈpendəns] | n.独立；自立 | The country attained its independence in 1972.
+- slum | [slʌm] | n.贫民窟 | I grew up in the East London slums.
+- asylum | [əˈsaɪləm] | n.庇护；精神病院 | The terrorist tried to seek political asylum in that country.
+- citizen | [ˈsɪtɪz(ə)n] | n.公民；市民 | She is a lawful citizen.
+- ethnic | [ˈeθnɪk] | adj.民族的，种族的 | She is keen on ethnic dance.
+- racial | [ˈreɪʃ(ə)l] | adj. 种族的，人种的 | A new law has been brought in to eliminate racial discrimination.
+- vote | [vəʊt] | n. 选举权；投票 v. 表决；投票 | The vote will be held next month.
+- elect | [ɪˈlekt] | v.选举；选择 | They organised a poll to elect a president.
+- respondent | [rɪˈspɒndənt] | n. （民意测验等的）调查对象 | Only 34 percent of respondents said they were satisfied.
+- soviet | [ˈsəʊviət] | adj. [S～]苏联的 n. 苏维埃 | The Soviet Union was a major power on the Eurasian continent.
+- New Zealand | [ˌnjuː ˈziːlənd] | n. 新西兰 | Oceania is mainly made up of Australia and New Zealand.
+- Germany | [ˈdʒɜːməni] | n. 德国 | I need to buy a round-trip ticket to Germany.

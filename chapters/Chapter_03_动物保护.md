@@ -1,0 +1,169 @@
+### Chapter 03 动物保护
+- feed | [fiːd] | v. 供养；喂，饲养；进食 | He has to work hard to feed and clothe hisfamily.
+- beast | [biːst] | n. 兽，野兽；凶残的人，畜生 | The hunters blocked up the den of the beast.
+- breed | [briːd] | v. 饲养；繁殖 n. 品种 | She breeds orchids in her greenhouse.
+- bristle | [ˈbrɪs(ə)l] | n. 鬃毛；（刷子的）毛 | The brush is made of animal bristles.
+- brood | [bruːd] | n. 一窝幼鸟 v. 孵（蛋） | The bird was trying to find food for its brood.
+- brute | [bruːt] | n. 粗野的人，残忍的人 | We all want to punish the brute.
+- claw | [klɔː] | n. 爪；钳；螯；爪状物 | A hen’s claw has four toes.
+- creature | [ˈkriːtʃə(r)] | n. 生物，动物 | The crocodile is a strange-looking creature.
+- curl | [kɜːl] | n. 鬈发；卷曲；螺旋状物 v.（使）卷曲 | As he got older, his hair lost its curl.
+- feather | [ˈfeðə(r)] | n. 羽毛，翎毛 | A feather is very light, so that we say “(as) light as a feather”.
+- flock | [flɒk] | n.（羊或鸟）群 v. 聚集 | Sheep usually flock together.
+- fur | [fɜː(r)] | n.（动物的）软毛；（用于制衣等的）毛皮 | Alice is allergic to the fur of cats.
+- hatch | [hætʃ] | v.n. 孵化 | Don’t count the chickens before they are hatched.
+- herd | [hɜːd] | n. 兽群，畜群 | The herdsman looks after a herd of animals.
+- paw | [pɔː] | n.（动物的）脚掌，爪子 | This is a black cat with white paws.
+- skin | [skɪn] | n. 皮肤；外皮 | When he fell, he just broke the skin.
+- swarm | [swɔːm] | n.（蜜蜂等昆虫的）一大群；（迅速移动的）人群 | I saw a swarm of bees attacking the poormonkey.
+- throng | [θrɒŋ] | n. 人群，一大群人 v. 群集 | He was met by a throng of journalists andphotographers.
+- wing | [wɪŋ] | n. 翼，翅膀 | A seagull fluttered down with an injured wing.
+- lay | [leɪ] | v. 产（卵）；放置；铺设 | They lay eggs from the beginning of July to the middle of August.
+- ancestor | [ˈænsestə(r)] | n. 祖宗，祖先 | Lions and house cats evolved from a common3 ancestor.
+- derive | [dɪˈraɪv] | v. 得到；（使）源自 | I derived a lot of pleasure from meeting new people at college.
+- cruel | [ˈkruːəl] | adj. 残酷的，残忍的，残暴的 | The death of their daughter was a cruel blow.
+- stem | [stem] | v. 起源于，来自 n. 茎，梗 | Correct decisions stem from correct judgments.
+- reptile | [ˈreptaɪl] | n. 爬行动物 | It is said that he hates reptiles.
+- offspring | [ˈɒfsprɪŋ] | n. [ 单复数同形 ] 后代，子孙；产物 | They have two offspring.
+- descendant | [dɪˈsendənt] | n. 后裔，后代 adj. 下降的 | He is a descendant of Queen Victoria.
+- originate | [əˈrɪdʒɪneɪt] | v. 发源，来自；创始 | The use of the computer has originated many other societal reforms.
+- mature | [məˈtʃʊə(r)] | adj. 成熟的 v. 成熟 | You are a mature man now; you are no longer a boy.
+- biologist | [baɪˈɒlədʒɪst] | n. 生物学家 | The biologist brought out a specimen box and showed the items one by one.
+- zoologist | [zuˈɒlədʒɪst; zəʊˈɒlədʒɪst] | n. 动物学家 | The zoologist had spent a long time living withmonkeys.
+- ecologist | [iˈkɒlədʒɪst] | n. 生态学家 | A contemporary ecologist once said: man lives on the earth as a guest of green plants.
+- botanist | [ˈbɒtənɪst] | n. 植物学家 | The botanist discovered many rare plants.
+- mammal | [ˈmæm(ə)l] | n. 哺乳动物 | Human beings also belong to the mammal species.
+- primate | [ˈpraɪmeɪt] | n. 灵长目动物 | Compared to body size, the primate brain is larger than that of other animals.
+- vertebrate | [ˈvɜːtɪbrət] | n. 脊椎动物 | Fish, birds and human beings are vertebrates.
+- amphibian | [æmˈfɪbiən] | n. 两栖动物；水陆两用车 adj. 两栖动物的；水陆两用的 | Nobody knows wh y amphibians are disappearing, dolphins are dying and coral is turning white.
+- carnivore | [ˈkɑːnɪvɔː(r)] | n. 食肉动物 | Lions and tigers are carnivores.
+- herbivore | [ˈhɜːbɪvɔː(r)] | n. 食草动物 | Pandas are classified as carnivores but they mainly have a diet of an herbivore.
+- wildlife | [ˈwaɪldlaɪf] | n. 野生动物；野生生物 | Environmental pollution endangers wildlife.
+- fauna | [ˈfɔːnə] | n.（尤指某一地区的）动物群 | The park is also home to grizzly bears, and other Rocky Mountain faunas.
+- flora | [ˈflɔːrə] | n.（尤指某一地区的）植物群 | There they compiled precious documents on the manners, government, religion, fauna and flora of thecountry.
+- species | [ˈspiːʃiːz] | n. [ 单复数同形 ] 种，物种 | Some species of animals have become extinct because they could not adapt to a changing environment.
+- subgroup | [ˈsʌbɡruːp] | n. 子群 | According to a subgroup analysis, violence produces more violence.
+- interbreed | [ˌɪntəˈbriːd] | v.（使）品种间杂交，（使）生混种 | Fish of different shapes are difficult to interbreed.
+- hybridise | [ˈhaɪbrɪdaɪz] | v.（使）杂交 | Immediately, rose breeders began to hybridise it with other red roses.
+- proliferate | [prəˈlɪfəreɪt] | v. 迅速增殖；剧增 | Microbes proliferate rapidly.
+- sterility | [stəˈrɪləti] | n. 不生育 | This disease causes sterility in both males and females.
+- courtship | [ˈkɔːtʃɪp] | n. 求偶 | They attract females with elaborate courtshiprituals.
+- spawn | [spɔːn] | n.（鱼、蛙等的）卵 v. 产卵；引起 | Many sea fishes spawn in rivers.
+- beak | [biːk] | n. 鸟嘴，喙 | The bird picked a hole in the ice with its beak.
+- fin | [fɪn] | n. 鳍 | In the future, shark fin soup will be off themenu at a major resort in Singapore.
+- plume | [pluːm] | n. 羽毛 | This is the long plume of a heron in the breedingseason.
+- crowd | [kraʊd] | n.入群；观众；一伙人 | The crowd was very well behaved.
+- mate | [meit] | v.交配; n. 配偶 | Many animals mate in the spring.
+- trunk | [trʌŋk] | n. 象鼻 | The elephant's trunk is powerful enough to uproot trees.
+- bull | [bʊl] | n. 公牛 | He was a great bull of a man.
+- butterfly | [ˈbʌtəflaɪ] | n. 蝴蝶 adj. 蝶状的 | A butterfly is flying up and down among theflowers.
+- camel | [ˈkæm(ə)l] | n. 骆驼 | The merchant decided to use camels to carry his goods across the desert.
+- cattle | [ˈkæt(ə)l] | n. 牛 | There are many herds of cattle in the meadow.
+- cock | [kɒk] | n. 雄禽；公鸡 | The cock has brighter coloured feathers than the hen.
+- crow | [krəʊ] | n. 乌鸦 | The farmers tried to fear the crows out of the corn field by planting several men of straw.
+- donkey | [ˈdɒŋki] | n. 驴；傻瓜 | The donkey is eating grass on the field.
+- dragon | [ˈdræɡən] | n. 龙；悍妇 | Dragons are described as monsters in most western countries.
+- eagle | [ˈiːɡ(ə)l] | n. 雕 | The eagle dived down on the rabbit.
+- elephant | [ˈelɪfənt] | n. 象 | A specific attribute of the elephant is its longtrunk.
+- fox | [fɒks] | n. 狐狸；狡猾的人 | Don’t trust him; he is a sly old fox.
+- frog | [frɒɡ] | n. 蛙 | A frog can live both on land and in water.
+- goose | [ɡuːs] | n. 鹅；鹅肉 | They often have goose at Christmastime.
+- hare | [heə(r)] | n. 野兔 | The hunter watched for the hare to come out of the burrow.
+- hawk | [hɔːk] | n. 鹰，隼 | A hawk hovered in the blue sky.
+- horn | [hɔːn] | n.（牛、羊等动物的）角；（乐器）号 | The young goat was just beginning to grow horns.
+- horse | [hɔːs] | n. 马 | The horse became frightened and ran away.
+- insect | [ˈɪnsekt] | n. 昆虫 | The insect bit him and drew blood from hisarm.
+- mosquito | [məˈskiːtəʊ; mɒˈskiːtəʊ] | n. 蚊子 | The mosquito is an annoying creature.
+- mouse | [maʊs] | n. 老鼠 | The cat was playing with a live mouse.
+- owl | [aʊl] | n. 猫头鹰 | The owl is sacred for many Californian Indianpeople.
+- ox | [ɒks] | n.（阉割的）公牛 | The frequent, unreasonable whips angered theox.
+- panda | [ˈpændə] | n. 熊猫 | Pandas are loved by people all over the world.
+- pigeon | [ˈpɪdʒɪn] | n. 鸽子 | An old man sat on the park bench and fed the pigeons.
+- rat | [ræt] | n. 老鼠；卑鄙的人 | Now I can see why people say he is such a rat.
+- saddle | [ˈsædl] | n. 鞍，马鞍；车座 | He was pu ing a saddle on the horse.
+- seal | [siːl] | n. 海豹；封条；图章 v. 密封 | Polar bears set off in search of their favourite meal－seals.
+- sparrow | [ˈspærəʊ] | n. 麻雀 | A sparrow is very alert in its movement.
+- spider | [ˈspaɪdə(r)] | n. 蜘蛛 | The little girl thinks spiders are terriblecreatures.
+- squirrel | [ˈskwɪrəl] | n. 松鼠 | The squirrel ran up a tree and got out of myreach.
+- swan | [swɒn] | n. 天鹅 | The witch turned the princess into a swan.
+- tortoise | [ˈtɔːtəs] | n. 龟，陆龟 | Do you remember the story about a race between the tortoise and the hare?
+- wolf | [wʊlf] | n. 狼 | The wolf snapped at the hunter’s hand.
+- worm | [wɜːm] | n. 蠕虫 | The worm was crushed under the feet.
+- zebra | [ˈzebrə] | n. 斑马 | There are several species of zebra.
+- turtle | [ˈtɜːt(ə)l] | n. 海龟 | If you turn over a turtle on its back, it will becomehelpless.
+- whale | [weɪl] | n. 鲸鱼 v. 捕鲸；猛击 | We may live to see the extinction of the whale.
+- buffalo | [ˈbʌfələʊ] | n. 水牛；野牛 | There were lots of buffaloes in the North America 100 years ago.
+- ivory | [ˈaɪvəri] | n. 象牙 | The professor lived in an ivory tower.
+- pest | [pest] | n. 害虫；有害动物 | Insects which eat crops are pests.
+- parasite | [ˈpærəsaɪt] | n. 寄生虫 | The life of the parasite is maintained by new blood-sucking mosquitoes.
+- kangaroo | [ˌkæŋɡəˈruː] | n. 袋鼠 | The kangaroo is native to Australia.
+- penguin | [ˈpeŋɡwɪn] | n. 企鹅 | The penguin is popular with people.
+- cub | [kʌb] | n. 幼兽 | The cub licked the milk from its mother’sbreast.
+- calf | [kɑːf] | n. 幼兽；小牛 | Did you see the cow with her calf?
+- pup | [pʌp] | n. 幼小动物 | I’ll get you an Alsatian pup for Christmas.
+- lamb | [læm] | n. 小羊，羔羊 | The little lamb was caught by the wolf.
+- falcon | [ˈfɔːlkən] | n. 隼，猎鹰 | His falcon flew into a window of the empty castle and did not return.
+- cricket | [ˈkrɪkɪt] | n.蟋蟀 | A cricket in the house is good luck.
+- bear | [beə(r)] | n.熊 | The bear is a large, heavy animal with thick fur.
+- harness | [ˈhɑːrnɪs] | n.马具，挽具 | You cannot judge a horse by its harness.
+- swallow | [ˈswɒləʊ] | n.燕子 | There are many swallows flying in the sky.
+- bark | [bɑːk] | v.（狗等）吠；大声嚷 n. 树皮 | Barking dogs seldom bite.
+- barn | [bɑːn] | n. 谷仓；牲口棚 | The cows were feeding on hay in the barn.
+- bite | [baɪt] | v.n. 咬；（昆虫）叮；吞饵 | The mosquitoes are biting me.
+- crawl | [krɔːl] | v. 爬，爬行；卑躬屈膝，巴结 | You must not crawl into the favour of your superiors.
+- creep | [kriːp] | v. 爬行；悄悄地缓慢行进 | We take off our shoes and creep cautiously along the passage.
+- hedge | [hedʒ] | n. 树篱；障碍物 | There is an opening in the hedge.
+- keeper | [ˈkiːpə(r)] | n. 看守人；饲养员 | He turned his eyes towards the food which the keeper had brought.
+- nest | [nest] | n. 巢，窝，穴 | The male hunts for food while his mate guards the nest.
+- roar | [rɔː(r)] | n.v. 吼叫，咆哮 | The whole room rang with a roar.
+- shepherd | [ˈʃepəd] | n.牧羊人，羊倌 | The shepherd set out to look for the sheep that had wandered away
+- sting | [stɪŋ] | v. 刺，叮；（使）感觉刺痛 n. 刺，螫针；蜇痛 | It is the nature of the scorpion to sting.
+- tame | [teɪm] | v. 驯养；制服 adj. 驯服的；乏味的 | The tame lions can communicate and dance together with the actors.
+- victim | [ˈvɪktɪm] | n. 受害者；牺牲者 | One of the bombing victims was dead on arrival inhospital.
+- cell | [sel] | n. 蜂房巢室；细胞；单人牢房 | The prisoner was locked in a cell.
+- bacteria | [bækˈtɪəriə] | n. [bacterium 的复数形式 ] 细菌 | Bacteria in drinking water have spread theillness.
+- germ | [dʒɜːm] | n. 微生物，细菌 | Disinfectants are used to kill germs.
+- instinct | [ˈɪnstɪŋkt] | n. 本能，天性；直觉 | Don’t trust anything except your instinct.
+- sensitive | [ˈsensətɪv] | adj. 灵敏的；过敏的；易担忧的；（话题等）须谨慎对待的 | She is sensitive to what people think of her.
+- trace | [treɪs] | v. 追踪；查出；追溯 n. 痕迹；少许 | They traced the criminal to a house in the city.
+- track | [træk] | v. 追踪 n. 足迹，踪迹；轨道 | The hunter followed the animal’s tracks.
+- intelligence | [ɪnˈtelɪdʒəns] | n. 智慧，智力；情报，谍报 | Use your intelligence, and you’re sure to succeed some day.
+- optical | [ˈɒptɪk(ə)l] | adj. 视觉的；光学的 | Microscopes and telescopes are optical instruments.
+- captive | [ˈkæptɪv] | n. 俘虏 adj. 被关押的；受控制的 | Armed gunmen broke into the church and took the priest captive.
+- protein | [ˈprəʊtiːn] | n. 蛋白质 | You need more protein to build you up.
+- vitamin | [ˈvɪtəmɪn] | n. 维生素 | Fresh green foodstuffs contain rich vitamin.
+- rub | [rʌb] | v. 擦；摩擦 n. 困难，障碍 | It is an Eskimo custom to rub noses as a greeting.
+- undergo | [ˌʌndəˈɡəʊ] | v. 经历，经受 | I underwent so much suffering in early years that I am afraid of nothing today.
+- exist | [ɪɡˈzɪst] | v. 存在；生存 | Most scientists believe that water doesn’t exist on the surface of the moon.
+- alternate | [ɔːlˈtɜːnət] | v.（使）交替，（使）轮流 | Sunny weather alternated with rain.
+- devour | [dɪˈvaʊə(r)] | v. 吞食，狼吞虎咽地吃 | The lion devoured the deer.
+- behaviour | [bɪˈheɪvjə(r)] | n. 行为；活动方式 | They observed the behaviour of their new pet.
+- intuitive | [ɪnˈtjuːɪtɪv] | adj. 直觉的 | He seemed to have an intuitive knowledge of how I was feeling.
+- potential | [pəˈtenʃ(ə)l] | n. 潜力 adj. 潜在的 | She showed great potential as an actress.
+- functional | [ˈfʌŋkʃən(ə)l] | adj. 功能的；起作用的 | What are the functional benefits of the brand?
+- flexible | [ˈfleksəb(ə)l] | adj. 可弯曲的；灵活的，易变通的 | We can visit your company on Monday or Tuesday. Our plans are fairly flexible.
+- acoustic | [əˈkuːstɪk] | adj. 听觉的；声音的 | Acoustic beauty is also very important to the modern gardens.
+- nocturnal | [nɒkˈtɜːn(ə)l] | adj. 夜间发生的；夜间活动的 | Hamsters are nocturnal creatures.
+- dormant | [ˈdɔːmənt] | adj. 睡着的；休眠的；（动物等）冬眠的 | Many living things are dormant in winter.
+- hibernation | [ˌhaɪbəˈneɪʃn] | n. 冬眠 | Some animals can overwinter without thehibernation.
+- prey | [preɪ] | n. 被捕食的动物，猎物 v. 捕食 | Snakes track their prey by its scent.
+- predator | [ˈpredətə(r)] | n. 掠夺者；捕食性动物 | These predators of the African grasslands live on mice and rabbits.
+- defensive | [dɪˈfensɪv] | adj. 防御性的 | We took a defensive attitude in the negotiation.
+- suffer | [ˈsʌfə(r)] | v. 遭受；受折磨；变糟 | They suffered huge losses in the financialcrisis.
+- vulnerable | [ˈvʌlnərəbl] | adj. 易受伤的，脆弱的；易受影响的 | The young girl looked very vulnerable.
+- subsistence | [səbˈsɪstəns] | n. 勉强维持生活 | The standard of living at that time was on the edge of subsistence.
+- exterminate | [ɪkˈstɜːmɪneɪt] | v. 消灭，根除 | We’ve made great efforts to exterminate mosquitoes and flies.
+- habitat | [ˈhæbɪtæt] | n.（动植物的）生活环境，栖息地 | The Arctic region is the habitat of the polar bear.
+- hive | [haɪv] | n. 蜂房；繁忙的场所 v.（使）（蜂）入蜂箱；（像蜜蜂般）密集群居 | This marketplace was once a hive of activity.
+- cage | [keɪdʒ] | n. 笼子 | The lion paced the floor of his cage restlessly.
+- stable | [ˈsteɪb(ə)l] | n. 马厩；牛棚 adj. 稳定的；稳固的 | The horse in the stable has broken out.
+- barrier | [ˈbæriə(r)] | n. 障碍；屏障，障碍物 | Lack of confidence is the biggest barrier to the improvement of your English.
+- anatomy | [əˈnætəmi] | n. 解剖学 | We have to do anatomy next term.
+- epidemic | [ˌepɪˈdemɪk] | n. 流行病；（坏事的）盛行 adj. 流行性的；极为盛行的 | Violence is reaching epidemic levels in some of the films and TV shows.
+- gene | [dʒiːn] | n. 基因 | You have good genes from your parents, so you should live a long time.
+- virus | [ˈvaɪrəs] | n. 病毒 | My computer was accidentally infected with a virus called Trojan Horse.
+- microbe | [ˈmaɪkrəʊb] | n. 微生物 | Would the good microbes do battle with the bad microbes and help to restore their health?
+- metabolism | [məˈtæbəlɪzəm] | n. 新陈代谢 | Some people’s metabolism is more efficient than others.
+- secrete | [sɪˈkriːt] | v. 分泌 | The kidneys secrete urine.
+- excrete | [ɪkˈskriːt] | v. 排泄；分泌 | The function of the kidneys is to excrete wasteproducts.
+- bar | [bɑː(r)] | n. 栅，栏杆；条，长块 | A bar of chocolate is enough to stop his crying.

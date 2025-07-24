@@ -1,0 +1,115 @@
+### Chapter 05 科技发明
+- engineer | [ˌendʒɪˈnɪə(r)] | n. 工程师，技师 | Each engineer needs to be in touch with the entire engineering department.
+- tool | [tuːl] | n. 工具 | Advertising is a tool that nearly every company is utilising.
+- absorb | [əbˈzɔːb] | v.理解；掌握 | His ability to absorb bits of disconnected information was astonishing.
+- field | [fiːld] | n. 领域 | He has become famous in his own field.
+- assemble | [əˈsemb(ə)l] | v.组装；装配 | She assembled the bookshelf all by herself.
+- devise | [dɪˈvaɪz] | v. 设计，发明 | The team is trying to devise a new system for handling mail orders.
+- foundation | [faʊnˈdeɪʃn] | n. 基础；地基；基金会 | He laid the foundations of his success by hardwork.
+- concentrate | [ˈkɒns(ə)ntreɪt] | v. 集中（心思）；（使）浓缩 | They will concentrate on teaching the basics of reading, writing and arithmetic.
+- facility | [fəˈsɪləti] | n. 设备；便利 | This facility is open to both new and existingborrowers.
+- instrument | [ˈɪnstrəmənt] | n. 仪器；工具；乐器 | A plough is an instrument used for farming.
+- technology | [tekˈnɒlədʒi] | n. 技术 | Life is made so much easier with modern science and technology.
+- accessory | [əkˈsesəri] | n. 附件，配件 | Car accessories include the roof rack and radio.
+- accumulate | [əˈkjuːmjəleɪt] | v. 积累；（数额）逐渐增加 | Dust and dirt soon accumulate if you don’t 6clean your house regularly.
+- add | [æd] | v. 添加；附加 | He didn’t add milk nor sugar to his coffee.
+- advance | [ədˈvɑːns] | n.v. 发展；前进 | We have advanced greatly in our knowledge of the universe.
+- appliance | [əˈplaɪəns] | n. 应用；（家用）器具 | The household appliances were just bought by him for his family.
+- apply | [əˈplaɪ] | v. 申请 | My cousin applied to four universities and was accepted by all of them.
+- auxiliary | [ɔːɡˈzɪliəri] | adj. 辅助的，协助的；备用的 | When there is power shortage, they count on the auxiliary power supply.
+- belong | [bɪˈlɒŋ] | v. 应在（某处）；适合（某种情形） | Russia is a major oil exporter, but does not belong to OPEC.
+- compute | [kəmˈpjuːt] | v. 计算；估计 | I compute my loss at 500 dollars.
+- disclose | [dɪsˈkləʊz] | v. 揭露，透露 | The authorities finally disclosed the truth to thepress.
+- discover | [dɪˈskʌvə(r)] | v. 发现 | He discovered his talent for fashion design when he was very young.
+- echo | [ˈekəʊ] | n. 回声 v. 发回声；模仿；重复 | The cathedral is echoing with joyous hymns.
+- equipment | [ɪˈkwɪpmənt] | n. 设备 | We should make a better use of the existingequipment.
+- expose | [ɪkˈspəʊz] | v. 使暴露；揭发，使曝光 | The crime of the corrupt officials must be exposed without any reserve.
+- gauge | [ɡeɪdʒ] | n. 测量仪器 v. 测量；判断 | It was difficult to gauge how people wouldrespond.
+- invent | [ɪnˈvent] | v. 发明，创造 | Do you know who invented the magneticneedle?
+- lens | [lenz] | n. 透镜；（照相机等的）镜头 | When viewing through the lens, we can see the thing clearer, larger or smaller.
+- mechanic | [məˈkænɪk] | n. 技工，机械师，机修工 | This car has broken down again! I’ll have to ring the mechanic.
+- microscope | [ˈmaɪkrəskəʊp] | n. 显微镜 | The optical microscope magnifies the object 1,000 times.
+- network | [ˈnetwɜːk] | n. 网络；广播网，电视网 | Present Bush’s speech was broadcast on national television networks.
+- radar | [ˈreɪdɑː(r)] | n. 雷达，无线电定位装置 | Officials want to scan the tomb with radar in the hope of unlocking the mystery.
+- reveal | [rɪˈviːl] | v. 展现；显示，透露 | His deed revealed him to be a kind man.
+- technique | [tekˈniːk] | n. 技巧；技术 | I want to learn the latest technique in toy making.
+- usage | [ˈjuːsɪdʒ] | n. 使用；（词语的）用法 | The College Board says words on the new test will relate to usage.
+- assess | [əˈses] | v. 评估；估算 | We will assess the damage caused by theflood.
+- evaluate | [ɪˈvæljueɪt] | v. 评价，评估 | The research project has only been under way for three months, so it’s too early to evaluate its success.
+- uncover | [ʌnˈkʌvə(r)] | v. 揭露，发现 | The detective must uncover the murderer by deduction of facts.
+- sensor | [ˈsensə(r)] | n. 传感器 | Place the sensor on a flat surface and rotate it slowly through 360°.
+- versatile | [ˈvɜːsətaɪl] | adj. 多功能的，多用途的 | Plastics are a versatile material in industry.
+- polytechnic | [ˌpɒliˈteknɪk] | adj. 有关多种工艺的 n. 理工学院 | Your trainees will acquire polytechnic training.
+- innovate | [ˈɪnəveɪt] | v. 创新，改革 | We must innovate in order to make progress.
+- breakthrough | [ˈbreɪkθruː] | n. 突破 | Surgeons have made a great breakthrough inkidney transplantation.
+- gizmo | [ˈɡɪzməʊ] | n. 小装置 | The modern world is increasingly populated by intelligent gizmos whose universal existence has removed much human labour.
+- patent | [ˈpæt(ə)nt] | n. 专利，专利权 v. 得到……的专利权；给……专利证 | The government patented the device to its inventor.
+- domain | [dəˈmeɪn; dəʊˈmeɪn] | n.（活动、学问等的）领域；领土，领地 | This is out of my domain.
+- realm | [relm] | n. 领域 | Such an idea only belongs in the realm of science fiction.
+- specialise | [ˈspeʃəlaɪz] | v. 专攻 | Many students specialise in engineering.
+- focus | [ˈfəʊkəs] | v.（把……）集中（于） n. 焦点 | Today he was able to focus his message exclusively on the economy.
+- utilise | [ˈjuːtəlaɪz] | v. 利用 | In order to utilise land more fully, they adopted close planting.
+- tester | [ˈtestə(r)] | n. 测试仪；测试员 | The battery tester is in my garage.
+- measure | [ˈmeʒə(r)] | v. 测量 n. 衡量；措施 | Measure this impedance and you can measure how much it has rained.
+- calculate | [ˈkælkjuleɪt] | v. 计算；考虑，打算 | Our price has already been closely calculated; there is no room for reduction.
+- count | [kaʊnt] | v. 计算 | It is impossible to count the stars in the sky.
+- byproduct | [ˈbaɪprɒdʌkt] | n. 副产品 | Happiness is not a goal; it is a byproduct.
+- gather | [ˈɡæðə(r)] | v. 聚集；采集 | He took the trouble to gather the materials forme.
+- attach | [əˈtætʃ] | v. 使依附；附加；缚，系，贴 | China will not attach itself to any big power.
+- optics | [ˈɒptɪks] | n. 光学 | Newton published his first work on optics.
+- multimedia | [ˌmʌltiˈmiːdiə] | n. 多媒体 | As part of the celebrations, they staged a big, open-air multimedia event.
+- browser | [ˈbraʊzə(r)] | n. 浏览器 | In your Web browser’s cache are the most recent Web files that you have downloaded.
+- dial | [ˈdaɪəl] | v. 拨（电话号码） | She picked up the phone, and began to dial his number.
+- keyboard | [ˈkiːbɔːd] | n. 键盘 | The machine is operated through the keyboard.
+- screen | [skriːn] | n. 屏；屏幕 v. 遮蔽 | A list of items is repeatedly flashed up on the screen.
+- tape | [teɪp] | n. 磁带，录音带；胶带 | A technician loads a video tape into one of themachines.
+- mould | [məʊld] | n. 霉 菌 v. 发 霉 | The walls were black with mould.
+- purify | [ˈpjʊərɪfaɪ] | v. 净化，使纯净 | They open the windows to purify the air of theroom.
+- operate | [ˈɒpəreɪt] | v. 操作；运营；做手术 | It’s too difficult for him to operate this new sophisticated machine.
+- simplify | [ˈsɪmplɪfaɪ] | v. 简化，精简 | Try to simplify your explanation for the children.
+- cassette | [kəˈset] | n. 盒式磁带；底片盒 | He inserted a cassette into the machine.
+- correct | [kəˈrekt] | adj. 正确的 | The correct answers can be found at the bottom of page 8.
+- error | [ˈerə(r)] | n. 错误，过失 | The accident was caused by human error.
+- mistake | [mɪˈsteɪk] | n. 错 误 v. 误 解 | I may have made a mistake in that regard.
+- phase | [feɪz] | n. 阶段，时期 | The first phase of the project has been completed.
+- stumble | [ˈstʌmb(ə)l] | v. 犯错误；绊脚；跌跌撞撞地走 | The sudden weakness in her legs made herstumble.
+- wrong | [rɒŋ] | adj. 错误的 adv. 错误地 | Instead of complaining about what’s wrong, be grateful for what’s right.
+- accurate | [ˈækjərət] | adj. 准确的，正确无误的 | Hearsay definitely can’ t be regarded asaccurate information.
+- adapt | [əˈdæpt] | v. 适应；改编 | There will be more than one person who can adapt to your personality.
+- adjust | [əˈdʒʌst] | v. 调节；改变（行为或观点）以适应 | He soon adjusted to army life.
+- aspect | [ˈæspekt] | n.（问题、事物等的）方面 | We must consider a problem in all its aspects.
+- compress | [kəmˈpres] | v. 压紧，压缩 | Reining in inflation can increase income inequality by compressing wages while allowing asset prices tosoar.
+- condense | [kənˈdens] | v. 简缩，精简；（使气体）凝结 | A long story may be condensed into a fewsentences.
+- framework | [ˈfreɪmwɜːk] | n. 框架，结构；体系 | This bridge over the river has a steel framework.
+- generator | [ˈdʒenəreɪtə(r)] | n. 发电机 | A new type of wind generator may offer an answer to that problem.
+- loudspeaker | [ˌlaʊdˈspiːkə(r)] | n. 扬声器，喇叭 | The loudspeaker announced each airplane as it landed at the airport.
+- microphone | [ˈmaɪkrəfəʊn] | n. 话筒，麦克风 | Unfortunately, I didn’t have a microphone at that time to record us.
+- pump | [pʌmp] | n. 泵 v.（用泵）抽 | At the farm, there was an old-fashioned pump for drawing water from a well.
+- refine | [rɪˈfaɪn] | v. 精炼，提纯 | The purpose of oil refinery is to refine crude petroleum.
+- wireless | [ˈwaɪələs] | adj. 不用电线的，无线的 | We still don’t have the wireless network.
+- filter | [ˈfɪltə(r)] | v. 过滤；（光或声）透过 n. 过滤器 | Sunlight filtered through the chinks of theshutters.
+- digital | [ˈdɪdʒɪt(ə)l] | adj. 数字的 | The BBC has just successfully demonstrated a new digital radio transmission system.
+- precise | [prɪˈsaɪs] | adj. 精确的，准确的；一丝不苟的 | A lawyer needs a precise mind.
+- shift | [ʃɪft] | v. 转移，变换 n. 转移，变换；轮班 | The wind shifted to the north.
+- transform | [trænsˈfɔːm] | v. 使改变形态；使改观 | The solar cell can convert the energy of sunlight into electric energy.
+- turn | [tɜːn] | v. 转；翻 n.（依次轮到的）机会 | It was your turn last time; it’s always your turnto be the boss.
+- flaw | [flɔː] | n. 缺陷；错误 | This flaw makes the vase less valuable.
+- prototype | [ˈprəʊtətaɪp] | n. 原型；雏形 | The prototype for future school building was showed in the library.
+- gear | [ɡɪə(r)] | n. 齿轮，传动装置 v. 使适合 | Education should be geared to children’s needs.
+- drainage | [ˈdreɪnɪdʒ] | n. 排水系统；排水 | The drainage of the city is poor, some of the pipes are broken.
+- software | [ˈsɒftweə(r)] | n. 软件 | This is a computer software shop.
+- hydraulic | [haɪˈdrɒlɪk] | adj. 水力的，液压的 | The boat has no fewer than five hydraulic pumps.
+- facilitate | [fəˈsɪlɪteɪt] | v. 使便利，促进 | Many modern inventions facilitate housework.
+- alter | [ˈɔːltə(r)] | v. 改变，变更 | If it is not a convenient time, we can alter thedate.
+- pinpoint | [ˈpɪnpɔɪnt] | v. 精确指明……的位置 n. 针尖；极小的事物 | With this device, we can pinpoint your exactlocation.
+- fault | [fɔːlt] | n. 缺点；故障 v. 找出缺点 | It is hard to fault the way he runs his own operation.
+- contingency | [kənˈtɪndʒənsi] | n. 意外事件，可能发生的事 | We must always be prepared for every contingency.
+- laptop | [ˈlæptɒp] | n. 笔记本电脑 | A laptop would be really useful when I’m working on the train.
+- binary | [ˈbaɪnəri] | adj. 二进制的；二元的 | The machine does binary calculations.
+- high-definition | [ˌhaɪ ˌdefɪˈnɪʃn] | adj. 高分辨率的 | High-definition pictures can show detail very clearly.
+- audio | [ˈɔːdiəʊ] | adj. 声音的 | The reproductive quality of audio tapes has improved enormously.
+- fantasy | [ˈfæntəsi] | n. 幻想 | He is unable to divorce fantasy from reality.
+- pivot | [ˈpɪvət] | n. 枢轴，支点；中心，重点 | The mother is often the pivot of family life.
+- sewage | [ˈsuːɪdʒ] | n.（下水道的）污水 | Discharge of raw sewage into the sea is unsanitary and unsafe.
+- ventilation | [ˌventɪˈleɪʃn] | n. 通风；通风设备 | Some people think that ventilation is the same thing as air conditioning.
+- distil | [dɪˈstɪl] | v.蒸馏；提取......的精华 | You can distil the water from the lake and make it drinkable.

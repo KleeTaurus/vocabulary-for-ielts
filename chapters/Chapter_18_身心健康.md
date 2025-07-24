@@ -1,0 +1,388 @@
+### Chapter 18 身心健康
+- human | [ˈhjuːmən] | adj.人类的；奇人性的 n.人类 | The accident was caused by human error.
+- beard | [bɪəd] | n.胡须 | He hasalight beard and never shaves it.
+- bone | [bəʊn] | n.骨；骨髓 | Once cancer has spread to the bone, it’s difficult to treat.
+- brain | [breɪn] | n.脑；［~s］智慧，智力 | His brain was working overtime.
+- brow | [braʊ] | n·额；眉，眉毛 | He furrowed his brows in thought.
+- cheek | [tʃiːk] | n.面颊，颊 | A bumblebee stung me on the cheek.
+- chest | [tʃest] | n.胸，胸部 | The swordsmen wore chest protectors.
+- chin | [tʃɪn] | n. （指人的）颏，下巴 | Ben caught him on the chin with an uppercut.
+- elbow | [ˈelbəʊ] | n.肘部；弯头；扶手 v.用肘挤 | He was elbowed aside on the bus.
+- feature | [ˈfiːtʃə(r)] | n.特征；面窑的一部分 v.以......为特色 | Her eyes were her best feature.
+- finger | [ˈfɪŋɡə(r)] | n. （尤指大拇指之外的）手指 | My fingers prick.
+- fist | [fɪst] | n.拳头，拳 | We will extend the hand, if you’re willing to unclench your fist.
+- flesh | [fleʃ] | n.肉；人类 | The pain was almost more than flesh could take.
+- forehead | [ˈfɔːhed; ˈfɒrɪd] | n.额 | The cut on his forehead scarred over.
+- jaw | [dʒɔː] | n.额；下巴；狭窄入口；唠叨 | He fingered his jaw thoughtfully.
+- limb | [lɪm] | n.肢；树枝 | Men and women have four limbs: two arms and two legs.
+- lip | [lɪp] | n.嘴唇；（洞口、伤口等的）边缘 | They came to the lip of a dead crater.
+- liver | [ˈlɪvə(r)] | n.肝脏 | The poor man has a serious disease of the liver.
+- mankind | [mænˈkaɪnd] | n.人类；男人 | Mankind learns its first language in early childhood.
+- mind | [maɪnd] | n.头脑；思考能力；思维；意见；记忆力 | The mind is the kingdom of thought.
+- mouth | [maʊθ] | n.口，嘴；河口 | They gave him mouth-to-mouth resuscitation and heart massage.
+- neck | [nek] | n.脖子；衣领；海峡 | The racers were neck and neck at the finish.
+- organ | [ˈɔːɡən] | n.器官；风琴；机构 | The heart is a vital organ.
+- palm | [pɑːm] | n.棕榈树；手掌 v.把……藏在手中 | He put the insect on the palm of his hand.
+- rib | [rɪb] | n.肋骨；排骨 | He suffered three cracked ribs in an accident.
+- shoulder | [ˈʃəʊldə(r)] | n.肩，肩膀 | I stand shoulder to shoulder with Julia on this important issue.
+- stomach | [ˈstʌmək] | n.胃口；胃，腹部 | He had eaten too much and his stomach started to kick up.
+- thumb | [θʌm] | n.拇指 | She gave him a thumbs-up sign.
+- tongue | [tʌŋ] | n.舌头；语言 | The tongue is one of the organs for pronunciation.
+- waist | [weɪst] | n.腰；腰部 | She took in the waist of her dress.
+- wrist | [rɪst] | n.腕，腕关节 | His injured wrist began to swell.
+- mental | [ˈmentl] | adj.精神的，思想上的；智力的 | He got the answer by mental arithmetic.
+- attitude | [ˈætɪtjuːd] | n.态度，看法 | We must maintain a firm attitude.
+- feel | [fiːl] | v.感觉到，感知；触碰 | Can you feel the tension in this room?
+- manner | [ˈmænə(r)] | n.举止；礼貌；方式；风俗 | He is easy in conversation and graceful in manner.
+- mood | [muːd] | n.心情，情绪；气氛 | I’m not in the mood to argue with you.
+- temper | [ˈtempə(r)] | n.坏脾气；情绪，心情 v.使缓和 | He is in a very bad temper today.
+- personality | [ˌpɜːsəˈnæləti] | n.个性，人格 | The boy is developing a fine personality.
+- skeleton | [ˈskelɪt(ə)n] | n.骨髓，骨架；框架，梗概 | A long illness made a skeleton out of him.
+- trait | [treɪt] | n.特性，特点 | Thousands of years later, people are still arguing vehemently against each other over whether personality traits are born or learned.
+- character | [ˈkærəktə(r)] | n.性格；特征；人物，角色 | The new buildings have changed the character of the village.
+- physical | [ˈfɪzɪk(ə)l] | adj.身体的；物质的；物理的 | Physical fitness means having a strong healthybody.
+- kidney | [ˈkɪdni] | n.肾，肾脏 | Each person has a pair of kidneys.
+- skull | [skʌl] | n，头脑；头骨 | He can’t seem to get it into his skull that I’m just not interested in him.
+- backbone | [ˈbækbəʊn] | n.脊柱；骨干，中坚；骨气 | The bachelors are the backbone of this community.
+- gorge | [ɡɔːdʒ] | n.咽喉；暴食；山峡，峡谷 v.狼吞虎咽 | We live near the Three Gorges.
+- abdomen | [ˈæbdəmən] | n.腹，腹部 | I have a pain in the lower abdomen.
+- womb | [wuːm] | n.子宫；发源地 | The competition basically starts when the kids are in the womb.
+- emotion | [ɪˈməʊʃn] | n.情绪，情感，感情 | She was good at hiding her emotions.
+- virtue | [ˈvɜːtʃuː] | n.美德，德行；优点 | Patriotism, respect and patience are always good virtues.
+- stature | [ˈstætʃə(r)] | n.身高，身材；（精神、道德等的）高度 | Bernard was short in stature, with a large head.
+- eyelash | [ˈaɪlæʃ] | n.眼睫毛 | She batted her long dark eyelashes at him.
+- sight | [saɪt] | n.视力；看见；景物 | I’m having laser treatment to improve mysight.
+- ankle | [ˈæŋk(ə)l] | n.裸关节，裸 | Her ankle was very painful.
+- asleep | [əˈsliːp] | adj. 睡着的；不活跃的；麻木的 | He soon fell asleep with weariness.
+- aural | [ˈɔːrəl] | adj. 耳的；昕觉的；气昧的；先兆的 | The opera was an aural as well as a visualdelight.
+- awake | [əˈweɪk] | adj. 醒着的；警觉的 | The children are still wide awake.
+- blind | [blaɪnd] | adj. 盲目的；瞎的；未察觉的 | She wanted it so much that she became so stupid and blind.
+- born | [bɔːn] | adj.天生的;与生俱来的 | The youngest is a born politician.
+- chamber | [ˈtʃeɪmbə(r)] | n. （人体内、动植物体内或机器中的）室，腔；议院 | The heart has four chambers.
+- cripple | [ˈkrɪp(ə)l] | n. 踉子；残疾人 v. 使踱 | She was crippled in the car accident.
+- dumb | [dʌm] | adj. 哑的；不肯开口的 | They remained dumb at the meeting.
+- eyesight | [ˈaɪsaɪt] | n.视力 | The eye drops will help to improve your eyesight.
+- heel | [hiːl] | n.足跟 | There’s a hole in the heel of my stocking.
+- illness | [ˈɪlnəs] | n.病，疾病 | His illness diminished his health.
+- knee | [niː] | n.膝盖，膝 | I accidentally hit my knee on the desk.
+- lame | [leɪm] | adj. 瘸的，踱的；｛解释或借口｝无说服力的 | The lame child lagged behind.
+- lap | [læp] | n.（人坐着时的）大腿部；下摆；环节；一圈 | They are on the last lap of their journey round the world.
+- muscle | [ˈmʌsl] | n.肌肉 | Physical exercises develop muscle.
+- nap | [næp] | n. 小睡；绒毛 | It’s my habit to take a nap at noon.
+- pulse | [pʌls] | n.脉博；脉冲 | The doctor felt her pulse on her wrist.
+- quiet | [ˈkwaɪət] | adj. 安静的；寂静的；平静的 | When you are in a library, you must be quiet.
+- sense | [sens] | n.感富；感觉 | I had the sense that he was worried about something.
+- toe | [təʊ] | n.脚趾，足尖 | He cut his big toe on a sharp stone.
+- vague | [veɪɡ] | adj. 含糊的；不清楚的，模糊的 | In a fog we could only see the vague outline of a tall building.
+- view | [vjuː] | n. 视野；见解；风景；察看 | His view of life is different from yours.
+- visible | [ˈvɪzəb(ə)l] | adj. 看得见的，可见的 | The comet is visible to the naked eye.
+- visual | [ˈvɪʒuəl] | adj.视力的，视觉的 | Her designs have a strong visual appeal.
+- yawn | [jɔːn] | v. 打呵欠；裂开 n. 呵欠 | I felt so sleepy that I couldn’t stop yawning.
+- nerve | [nɜːv] | n.神经；紧张，焦虑 | She gets nerves before every examination.
+- moan | [məʊn] | n.v.呻吟;哀悼 | Each time she moved her head she let out a moan.
+- dwarf | [dwɔːf] | n. （童话中的）小矮人；侏儒 adj. 矮小的 | There is a dwarf apple tree in our garden.
+- thigh | [θaɪ] | n.大腿，股 | Fat tends to accumulate around the hips and thighs.
+- pore | [pɔː(r)] | n.毛孔；小孔，气孔 v.凝视；沉思 | He beamed and laughed, and in the exuberance of his delight sweated at every pore.
+- symptom | [ˈsɪmptəm] | n.征兆;症状 | Fever is a symptom of many illnesses.
+- stimulus | [ˈstɪmjələs] | n. 剌激（物｝；促进因素 | Light is a stimulus to growth in plants.
+- immune | [ɪˈmjuːn] | adj. 免疫的；不曼影响的；免除的 | The child is immune to measles.
+- habit | [ˈhæbɪt] | n. 习惯 | He is in the habit of rising early.
+- lung | [lʌŋ] | n.肺 | A lot of patients are suffering the pain of lung cancer.
+- artery | [ˈɑːtəri] | n.动脉；干线 | Any beat of the heart might open the artery and spray the brain with blood.
+- gland | [ɡlænd] | n.腺 | His internal secretory gland cannot work.
+- hormone | [ˈhɔːməʊn] | n. 荷尔蒙，激素 | Hormones can control certain organs within your body.
+- infection | [ɪnˈfekʃn] | n. 传染;传染病;影响 | Are you sure there is no danger of infectionnow?
+- intestine | [ɪnˈtestɪn] | n.肠 | Each day, 7 to 10 litres of water enter the small intestine.
+- pregnancy | [ˈpreɡnənsi] | n. 怀孕，妊娠 | The pregnancy was an accident.
+- condom | [ˈkɒndɒm] | n. 避孕套 | When a woman finds lipstick stains on her husband’s clothing or unfamiliar condoms in his pocket, it brings out the worst in her.
+- clone | [kləʊn] | v.以无性繁殖技术复制，克隆n克隆动物(或植物) | He was opposed to using this unusual animal husbandry technique to clone humans.
+- disease | [dɪˈziːz] | n.疾病 | The entire population of this village was wiped out by the terrible disease.
+- detriment | [ˈdetrɪmənt] | n. 损害;损害物 | Smoking is now considered a detriment to health.
+- joint | [dʒɔɪnt] | n.接合处；关节 adj.共同的，联合的 | Our arms and legs bend at the joints, which are known as the elbows and knees.
+- biorhythm | [ˈbaɪəʊrɪðəm] | n.生物节律 | Living in a noisy environment for a long time might disturb one’s biorhythm.
+- lifestyle | [ˈlaɪfstaɪl] | n. 生活方式 | He was troubled by the lifestyle of his son.
+- dental | [ˈdent(ə)l] | adj. 牙的，牙科的 | Some hospitals in Ireland provide free dental treatment to certain citizens.
+- doze | [dəʊz] | v. 小睡，打盹儿 | He dozed away the whole afternoon.
+- stroke | [strəʊk] | n. 中风；击打；一笔｛画｝ | I know a doctor who is expert in curing stroke.
+- bleed | [bliːd] | v.流血；榨取；给......放血；放掉｛水或气体｝ | All the soldiers are ready to bleed for their country.
+- broken | [ˈbrəʊkən] | adj. 弄坏的;破碎的 | He likes to tinker with broken gadgets.
+- bruise | [bruːz] | n. 淤伤；伤痕 v. 擦伤 | Who remove stones bruise their fingers.
+- choke | [tʃəʊk] | v. （使）窒息；阻塞；说不出话 | She found it hard to choke down her anger.
+- death | [deθ] | n.死，死亡；毁灭 | The seedling was frozen to death.
+- disable | [dɪsˈeɪb(ə)l] | v.使丧失能力，使伤残 | He was disabled in an accident and couldn’t play football any more.
+- exhaust | [ɪɡˈzɔːst] | v. 使筋疲力竭；用完，耗尽 | The enemy troops were exhausted and demoralised.
+- faint | [feɪnt] | adj. 模糊的；微弱的；虚弱的 v. 晕倒 | He felt faint because of starvation.
+- fatigue | [fəˈtiːɡ] | n. 疲劳 v. （使｝疲劳 | The patient fatigues easily.
+- feeble | [ˈfiːbl] | adj ，虑弱的，无力的；微弱的 | Grandmother has been getting feebler lately.
+- fever | [ˈfiːvə(r)] | n. 狂热；发烧，发热 v. （使）发烧；｛使）狂热 | Football fever gripped the town when the local team reached the final.
+- flu | [fluː] | n. 流行性感冒 | The bird flu can spread quickly.
+- headache | [ˈhedeɪk] | n.头痛 | The aspirins eased my headache.
+- hurt | [hɜːt] | v.损害；伤害；｛使｝疼痛 | The rumours hurt his reputation badly.
+- injure | [ˈɪndʒə(r)] | v. 伤害，使遭受损伤；损害 | Don’t injure yourself with that tool.
+- injury | [ˈɪndʒəri] | n. 伤害；损害 | She still suffers considerable discomfort from her injury.
+- lump | [lʌmp] | n. 块；肿块 v. 使成块状 | There is a nasty lump on her neck.
+- scar | [skɑː(r)] | n. 疤痕，伤疤 | The wound left a scar.
+- swell | [swel] | v. 肿胀，膨胀；｛使）增加 | These small items help to swell the totalgreatly.
+- tire | [ˈtaɪə(r)] | v. （使｝感到疲劳；厌烦 | My legs began to tire after half an hour’s aerobic workout.
+- uncomfortable | [ʌnˈkʌmftəb(ə)l] | adj. 不舒服的；不自在的 | I have an uncomfortable feeling deep in my throat.
+- unconscious | [ʌnˈkɒnʃəs] | adj. 失去知觉的；无意识的 | This wounded soldier was unconscious from his loss of blood.
+- weary | [ˈwɪəri] | adj. 疲倦的；厌烦的 | After many hours in the saddle, he was very weary.
+- wound | [wuːnd] | n. 创伤，伤害；伤口 | I hope her emotional wound will heal with the passing of time.
+- plague | [pleɪɡ] | n. 瘟疫 | Plague came in the wake of earthquake.
+- dizzy | [ˈdɪzi] | adj. 头晕目眩的，眩晕的 v. 使眩晕 | The old woman was dizzied by the strongwind.
+- invalid | [ɪnˈvælɪd] | n.病弱者，伤残者 adj病弱的，伤残的 | The old lady resented being treated as an invalid.
+- doom | [duːm] | n. 厄运；毁灭 使注定失败（或死亡等） | Dissonance among the three partners doomed the project.
+- paralyse | [ˈpærəlaɪz] | v. 使麻痹；使瘫痪；使无助 | The electricity failure paralysed the train service.
+- demise | [dɪˈmaɪz] | n. 死亡；君权的转移或授予，禅让 ，遗赠；转让 | The land demised to a charitable institution.
+- patient | [ˈpeɪʃ(ə)nt] | n. 病人 adj. 有耐心的，能忍耐的 | He is a patient man, but not even he could sit down under that kind of provocation.
+- weaken | [ˈwiːkən] | v. 减弱，削弱；变软弱 | Because transplants weaken the immune system, they cannot be performed on sick patients.
+- allergy | [ˈælədʒi] | n. 敏感症；过敏性 | People with allergies and other respiratory andheart ailments may be more seriously affected.
+- trauma | [ˈtrɔːmə] | n. 外伤，身体上的伤；精神创伤；痛苦经历 | That trauma five years ago left more than 90,000 people dead or missing.
+- dysfunction | [dɪsˈfʌŋkʃn] | n. （身体｝功能障碍 | The neurological dysfunction disabled him.
+- diabetes | [ˌdaɪəˈbiːtiːz] | n.糖尿病 | The poor old man was afflicted with diabetes.
+- obesity | [əʊˈbiːsəti] | n.（过度）肥胖；肥胖症 | Obesity is a problem for many people in contemporary society.
+- overweight | [ˌəʊvəˈweɪt] | adj. 超重的，过胖的 n. 超重 v. 使超重；迫于重视 | Too many people in the United States are overweight.
+- hypertension | [ˌhaɪpəˈtenʃn] | n. 高血压 | They claim that hypertension has numerouscauses.
+- insane | [ɪnˈseɪn] | adj. 患精神病的；疯狂的 | He must be insane to drive his car so fast.
+- insomnia | [ɪnˈsɒmniə] | n.失眠，失眠症 | He suffered from insomnia and was taking sleeping pills each night.
+- cancer | [ˈkænsə(r)] | n.癌 | The patient finally died from cancer.
+- arthritis | [ɑːˈθraɪtɪs] | n. 关节炎 | The medicine can cure arthritis.
+- pimple | [ˈpɪmpl] | n. 粉刺，丘疹 | He has a lot of pimples on his face.
+- pain | [peɪn] | n. 痛苦；疼痛 使痛苦 | His leg was broken and he suffered great pain.
+- mortal | [ˈmɔːt(ə)l] | adj. 必死的；致命的 n. 凡人，人类 | It is an indisputable fact that man is mortal.
+- lethal | [ˈliːθ(ə)l] | adj. 致命的 | This pesticide is not only lethal to pests, but also dangerous for your pets.
+- corpus | [ˈkɔːpəs] | n.尸体；文集；本金 | He asked his children to have his corpus burnt after his death.
+- overwork | [ˌəʊvəˈwɜːk] | n. 过度操劳；适度工作 v. （使）适度工作 | I was completely knackered from overwork.
+- heart attack | [ˈhɑːrt ətæk] | n.心脏病发作 | Heart attack is a sudden severe instance of abnormal heart function.
+- common | [ˈkɒmən] | adj.共同的；普通的，平常的 | We have common topics to talk about.
+- check | [tʃek] | v. 检查，核对 n. ［美］账单 | Do look out for spelling mistakes when you checkyour homework.
+- cure | [kjʊə(r)] | v. 治好，治愈 n. 疗法；治疗 | What can’t be cured must be endured.
+- dose | [dəʊs] | n.（药物的）一剂 v.给......服药 | Take one dose of this cough syrup three times a day.
+- drug | [drʌɡ] | n.毒品；药 | His medicine is a drug that can be injected or taken by mouth.
+- hospital | [ˈhɒspɪt(ə)l] | n. 医院 | When I left the hospital I was completely cured.
+- injection | [ɪnˈdʒekʃn] | n. 注射；注射物；单射｛函数｝ | The doctor gave her an injection to alleviate the pain.
+- medicine | [ˈmedsn; ˈmedɪsn] | n. 药；医学 | I have a stomachache.May I have some medicine?
+- normal | [ˈnɔːm(ə)l] | adj.正常的；正规的，规范的 | The normal price of a ticket is 230 dollars!
+- operation | [ˌɒpəˈreɪʃ(ə)n] | n. 手术；操作；运转，经营 | The operation of this machine is simple.
+- physician | [fɪˈzɪʃn] | n. 内科医生 | He prefers to be a surgeon rather than a physician.
+- recovery | [rɪˈkʌvəri] | n.恢复，痊愈 | We are surprised by the speed of her recovery.
+- relax | [rɪˈlæks] | v.放松 | Relax for a while and take it easy.
+- relief | [rɪˈliːf] | n.宽慰，轻松；减轻，缓解 | I felt great relief when I heard I had passed the examination.
+- relieve | [rɪˈliːv] | v.救济；减轻，解除（痛苦、不快等） | The government acted quickly to relieve the widespread distress caused by the earthquake.
+- resume | [rɪˈzjuːm] | v.重新开始，（中断后）继续 | Please e-mail your personal résumé to us before sitting a written test.
+- sore | [sɔː(r)] | adj. 疼痛的；恼火的；严重的 | My legs are sore from all that running yesterday.
+- sorrow | [ˈsɒrəʊ] | n. 悲伤，悲痛 | He told me with sorrow that his mother was very ill.
+- treatment | [ˈtriːtmənt] | n. 治疗，疗法；待遇 | A proper treatment will do great good to both his body and his psychology.
+- medical | [ˈmedɪkl] | adj. 医学的，医疗的 | Before you join the company, you will have to have a medical examination.
+- isolate | [ˈaɪsəleɪt] | v.使隔离，使孤立，使脱离 | The farm is isolated and the nearest house is 30 kilometres away.
+- usual | [ˈjuːʒuəl] | adj.通常的，惯常的 | We have mainly adopted some usual international practices.
+- precaution | [prɪˈkɔːʃ(ə)n] | n. 预防，警惕；预防措施 | Safety first, precaution crucial.
+- prescription | [prɪˈskrɪpʃn] | n. 处方，药方；秘诀 | What’s your prescription for a happy marriage?
+- transplant | [trænsˈplɑːnt] | v. 移植 | The patient rejected the transplanted heart.
+- vaccinate | [ˈvæksɪneɪt] | v. 给......接种疫苗，预防接种 | Many people are vaccinated against smallpox as children.
+- heal | [hiːl] | v. 治愈；愈合 | The terrible wound took a long time to heal.
+- ease | [iːz] | v.减轻，放松，缓和 n.容易；悠闲 | He is expected to win the game with ease.
+- chronic | [ˈkrɒnɪk] | adj. 慢性的；长期的 | He is good at treating chronic diseased patients.
+- acute | [əˈkjuːt] | adj. （疾病｝急性的；敏锐的，深刻的 | He has given an acute analysis of the situation.
+- suffering | [ˈsʌfərɪŋ] | n. 苦难，折磨 | Inward suffering is the worst nemesis.
+- lament | [ləˈment] | n.悲伤，哀悼 v.哀悼；对......感到悔恨 | He lamented his thoughtless acts.
+- therapy | [ˈθerəpi] | n. 治疗 | Physical therapy will alternate with chemicaltherapy.
+- sanitary | [ˈsænətri] | adj. 卫生的；清洁的 | There was a small and not very sanitary innnearby.
+- curative | [ˈkjʊərətɪv] | adj. 治疗的 n. 药品 | This herb was once thought to be curative.
+- hygiene | [ˈhaɪdʒiːn] | n. 卫生（学）；保健（学） | Wash yourself regularly to ensure personalhy giene.
+- fitness | [ˈfɪtnəs] | n. 健康；适合 | The long climb tested our fitness and stamina.
+- clinic | [ˈklɪnɪk] | n. 诊所；门诊部 | The psychological clinic is located near the newly-built railway station.
+- surgeon | [ˈsɜːdʒən] | n. 外科医生 | The surgeon has performed an operation.
+- X-ray | [ˈeks reɪ] | n. 射线；用x射线避行的临床检查 v. x射线检查 | She went to the hospital for an X-ray yesterday.
+- quarantine | [ˈkwɒrəntiːn] | v. 对......避行隔离检疫； n. 检疫；隔离检疫期 | The quarantine is now abolished.
+- segregate | [ˈseɡrɪɡeɪt] | v. 隔离 | The doctor segregated the child sick with scarlet fever.
+- pharmacy | [ˈfɑːməsi] | n. 药店；药剂学 | In the West, you probably don’t go to the hospital to buy drugs; you go to the pharmacy ordrugstore.
+- remedy | [ˈremədi] | n.药物，治疗法；解决方法 | Your only remedy is to go to law.
+- pill | [pɪl] | n.药丸，丸剂 | The doctor told him to take six pills a day until he fully recovered.
+- antibiotic | [ˌæntibaɪˈɒtɪk] | n.抗生素 | The factory is specialised in the production of antibiotics.
+- acupuncture | [ˈækjupʌŋktʃə(r)] | n.针灸，中医针灸疗法 | Do you believe in Chinese acupuncture?
+- penicillin | [ˌpenɪˈsɪlɪn] | n.青霉素 | He gave me a second shot of penicillin.
+- morphine | [ˈmɔːfiːn] | n.吗啡 | Morphine, like cocaine, is addictive.
+- refresh | [rɪˈfreʃ] | v.使恢复精神 | A cool drink refreshed me after my long walk.
+- alleviate | [əˈliːvieɪt] | v.减轻（痛苦等），缓解 | The doctor gave her an injection to alleviatethe pain.
+- health care |  | n. 医疗保健 | I watched a programme about health care.
+- joke | [dʒəʊk] | n.笑话；玩笑 v.说笑话；开玩笑 | He closed his speech with a funny joke.
+- pleasure | [ˈpleʒə(r)] | n.愉快，高兴；荣幸（用于回答对方的感谢） | She took no pleasure in her work.
+- fun | [fʌn] | n.乐趣；玩笑 adj.有趣的 | I’m learning to cook, just for the fun of it.
+- cheer | [tʃɪə(r)] | v.使振作；（向……）欢呼 | They beat drums to cheer up the players.
+- positive | [ˈpɒzətɪv] | adj.肯定的；积极的；绝对的 | It was a positive delight to hear her sing sobeautifully.
+- delight | [dɪˈlaɪt] | v.（使）高兴；爱好 n.乐趣 | She delights in cooking lovely meals.
+- desirable | [dɪˈzaɪərəb(ə)l] | adj,可取的，值得拥有的，合意的 | It is most desirable that he should attend the conference.
+- enthusiastic | [ɪnˌθjuːziˈæstɪk] | adj.热心的，热情的 | You were so enthusiastic, so I couldn’t say “no” to your invitation.
+- exciting | [ɪkˈsaɪtɪŋ] | adj.令人兴奋的，使人激动的 | I like the exciting rhythm of African drummusic.
+- favour | [ˈfeɪvə(r)] | n.偏爱；赞同；恩惠，帮助 | Would you please do me a favour, Ben?
+- fond | [fɒnd] | adj.喜爱的；溺爱的 | A fond mother may spoil her children.
+- happiness | [ˈhæpinəs] | n.幸福，快乐；适当 | I desire happiness.
+- indifferent | [ɪnˈdɪfrənt] | adj.漠不关心的；无关紧要的；平庸的；中立的 | He is indifferent to the result of the exam.
+- joy | [dʒɔɪ] | n.欢乐，喜悦；乐趣 | He is in immeasurable joy.
+- keen | [kiːn] | adj.强烈的；敏锐的；渴望的；［尤英］有强烈兴趣的 | They are rather keen on your new-typewoollens.
+- laughter | [ˈlɑːftə(r)] | n•笑，笑声 | We couldn’t withhold our laughter.
+- lively | [ˈlaɪvli] | adj.活泼的；活跃的；栩栩如生的 | He is an outgoing and lively person.
+- lovely | [ˈlʌvli] | adj.可爱的；令人愉快的 | The girl’s rosy cheeks made her look very lovely.
+- merry | [ˈmeri] | adj.愉快的，欢乐的；微醉的 | There is a merry smile on her face.
+- optimistic | [ˌɒptɪˈmɪstɪk] | adj.乐观的，乐观主义的 | We are optimistic about its future.
+- passive | [ˈpæsɪv] | adj.被动的，消极的 | It lands the manager in a passive position.
+- pessimistic | [ˌpesɪˈmɪstɪk] | adj.悲观的，悲观主义的 | He is pessimistic about the future.
+- rejoice | [rɪˈdʒɔɪs] | v.（使）高兴，（使）欢喜 | We rejoiced at the good news.
+- startle | [ˈstɑːt(ə)l] | v.使大吃一惊 n.吃惊 | He was startled by the news.
+- surprising | [səˈpraɪzɪŋ] | adj.令人惊讶的，岀人意料的 | It is surprising that a man like that was elected.
+- thrill | [θrɪl] | n.激动 v.（使）激动；感到紧张 | It’s a sight that never fails to thrill me.
+- zeal | [ziːl] | n.热心，热情，热忱 | Jack served everyone with zeal.
+- daring | [ˈdeərɪŋ] | adj.勇敢的，大胆的 | He had proved himself a most daring adventurer.
+- direct | [dəˈrekt] | adj.直接的；直率的 | I’m in direct contact with the hijackers.
+- frank | [fræŋk] | adj.坦白的，直率的 | A frank discussion can help clear the air.
+- gentle | [ˈdʒent(ə)l] | adj.温和的；柔和的；文雅的；出身名门的 | Gentle music can relax me.
+- humble | [ˈhʌmb(ə)l] | adj.谦虚的；卑微的 | Being humble means that you do not allow your current opinions and beliefs to get in the way of new learning.
+- liberal | [ˈlɪbərəl] | adj.慷慨的，大方的；自由主义的 | My father gives me a liberal amount of money every week.
+- manly | [ˈmænli] | adj.有男子气概的；果断的 | He looks very manly in his uniform.
+- modest | [ˈmɒdɪst] | adj.谦虚的，谦逊的 | She is very modest about the prizes she haswon.
+- polite | [pəˈlaɪt] | adj.有礼貌的；客气的 | It is not polite of you to cut the speaker off.
+- negligible | [ˈneɡlɪdʒəb(ə)l] | adj.可以忽略的，微不足道的 | The damage to my car is negligible.
+- negative | [ˈneɡətɪv] | adj.怀疑的；消极的 | Petroleum extraction can have a negative impact on the environment.
+- satisfactory | [ˌsætɪsˈfæktəri] | adj.令人满意的 | The efficacy of the medicine is satisfactory.
+- humorous | [ˈhjuːmərəs] | adj.富于幽默感的，诙谐的 | I have plenty of humorous tales.
+- mysterious | [mɪˈstɪəriəs] | adj.神秘的；不可思议的 | That enchanter is very mysterious.
+- curious | [ˈkjʊəriəs] | adj.好奇的，好求知的 | It is good to be curious about the world around you.
+- astound | [əˈstaʊnd] | v.使大吃一惊，使惊骇 | He was astounded when he heard that his son had taken drugs.
+- amazing | [əˈmeɪzɪŋ] | adj.令人惊叹的，惊人的 | It’s amazing that human beings can always survive all kinds of difficulties.
+- apathetic | [ˌæpəˈθetɪk] | adj.无动于衷的，漠不关心的 | I cannot understand your apathetic attitude.
+- please | [pliːz] | v.使高兴。取悦 adv.请 | It’s difficult to please everybody.
+- agreeable | [əˈɡriːəb(ə)l] | adj.使人愉快的；（欣然）同意的 | My parents are quite agreeable to my decision to study abroad.
+- exhilarate | [ɪɡˈzɪləreɪt] | v.使高兴，使兴奋 | His bold designs always exhilarate the viewers.
+- hectic | [ˈhektɪk] | adj.兴奋活跃的，忙乱的，繁忙的 | The journalist lead a hectic life.
+- generous | [ˈdʒenərəs] | adj.慷慨的；宽厚的 | She was always very generous in making donations to charity.
+- sound | [saʊnd] | adj.健全的；（睡眠）酣畅的；合理的 n.声音 v.发出声音；听起来 | The book is full of sound advice.
+- childish | [ˈtʃaɪldɪʃ] | adj.孩子般的；幼稚的 | The little girl spoke in a high childish voice.
+- ready | [ˈredi] | adj.准备好的；愿意的 | They got ready to launch an attack.
+- liable | [ˈlaɪəb(ə)l] | adj.有责任的；有……倾向的，可能的 | He is liable to come today.
+- delicate | [ˈdelɪkət] | adj.精致的；微妙的；脆弱的 | Delicate plants must be protected from cold wind and frost.
+- prominent | [ˈprɒmɪnənt] | adj.突出的，显著的；重要的，杰出的 | A single tree in a field is prominent.
+- sincere | [sɪnˈsɪə(r)] | adj.真诚的，诚挚的 | Please accept my sincere congratulations.
+- tender | [ˈtendə(r)] | adj.脆弱的；温柔的；软弱的；疼痛的 v.（正式）提出；投标 | My finger is tender because I cut it on a piece of glass yesterday.
+- thoughtful | [ˈθɔːtf(ə)l] | adj.认真思考的；考虑周到的，体贴的 | It was thoughtful of you to inform me of yourarrival.
+- tough | [tʌf] | adj.艰难的；坚强的，坚韧不拔的；强硬的 | You need to be tough to survive in a society full of competition.
+- careful | [ˈkeəf(ə)l] | adj.仔细的，细致的；小心的，谨慎的 | He is careful in his speech.
+- concern | [kənˈsɜː(r)n] | n.关心；忧虑 v.涉及；使担忧；关心 | As far as I am concerned, I’m not against your plan.
+- considerate | [kənˈsɪdərət] | adj.考虑周到的，体谅的 | It was considerate of you to bring me my raincoat.
+- eager | [ˈiːɡə(r)] | adj.渴望的，热切的 | He is eager to take you to meet his friends.
+- earnest | [ˈɜːnɪst] | adj.认真的，诚恳的 | I’m sure he was earnest when he said he would come.
+- freedom | [ˈfriːdəm] | n.自由，独立自主 | By persistence, many countries won freedom.
+- grateful | [ˈɡreɪtf(ə)l] | adj.感激的；表示感激的 | She was grateful beyond words.
+- gratitude | [ˈɡrætɪtjuːd] | n.感激，感谢，感恩 | I am full of gratitude to you for helping me.
+- honesty | [ˈɒnəsti] | n.诚实，正直 | I respect you for your honesty.
+- mercy | [ˈmɜːsi] | n.仁慈，宽容，怜悯 | We were treated with mercy.
+- proud | [praʊd] | adj.骄傲的，自豪的；令人自豪的 | It was a proud day for us when we won the trophy.
+- remarkable | [rɪˈmɑːkəbl] | adj.值得注意的；非凡的，卓越的 | He has a remarkable memory.
+- romantic | [rəʊˈmæntɪk] | adj.浪漫的；充满传奇色彩的 | It is said that Frenchmen are among the most romantic peoples in the world.
+- seriously | [ˈsɪəriəsli] | adv.严肃地；认真地；严重地 | The judge appeared to weigh the matter seriously.
+- stern | [stɜːn] | adj.严厉的；坚定的 | She had a stern father who never praised her.
+- sympathetic | [ˌsɪmpəˈθetɪk] | adj.同情的；和谐的 | The volunteers felt sympathetic to the victims.
+- sturdy | [ˈstɜːdi] | adj.强健的；坚定的 | The child had sturdy legs.
+- arduous | [ˈɑːdʒuəs] | adj.辛勤的；费力的；陡峭的 | In those days, long-distance travel was slow and arduous.
+- promising | [ˈprɒmɪsɪŋ] | adj.大有希望的，有前途的 | The weather looks promising.
+- picturesque | [ˌpɪktʃəˈresk] | adj.如画的；独特的 | I was attracted by the picturesque scene on the West Lake.
+- temperate | [ˈtempərət] | adj.（气候）温和的；温带的；有节制的；心平气和的 | A temperate diet ought to be encouraged, especially among those with obesity.
+- awesome | [ˈɔːsəm] | adj.卓越的，引起敬畏的 | My Truth—and your surest help in time of need—is as awesome as the night sky, and assimply, incontrovertibly trustful as a baby’s gurgle.
+- mundane | [mʌnˈdeɪn] | adj.平凡的，世俗的；世界的 | Even the most mundane things can become objects of beauty in a Frenchman’s eyes.
+- admire | [ədˈmaɪə(r)] | v.赞美，钦佩，仰慕 | Everybody admires him for his fine sense of humour.
+- friendly | [ˈfrendli] | adj.友好的，友善的 | The meeting has a very friendly atmosphere.
+- hospitable | [hɒˈspɪtəb(ə)l] | adj.好客的；热情友好的 | Be hospitable. Sometimes cups of tea or even slices of toast can give you a head start in making friends.
+- confidence | [ˈkɒnfɪdəns] | n.自信；信任 | I have full confidence that you will succeed.
+- apology | [əˈpɒlədʒi] | n.道歉；辩解 | Please accept my apology.
+- robust | [rəʊˈbʌst] | adj.强壮的，强健的 | His robust strength was a counterpoise to the disease.
+- steadfast | [ˈstedfɑːst] | adj.坚定的 | He was a steadfast bachelor and intended to remain so.
+- naive | [naɪˈiːv] | adj.天真的；幼稚的 | He makes fun of her naive attitude.
+- trustworthy | [ˈtrʌstwɜːði] | adj.值得信赖的，可靠的 | The firm is one of our most trustworthy concerns.
+- enterprising | [ˈentəpraɪzɪŋ] | adj.有事业心的，有进取心的；有魄力的 | Some enterprising students are designing management software for the university.
+- sane | [seɪn] | adj.心智健全的；理智的 | He is a very sane person.
+- strenuous | [ˈstrenjuəs] | adj.发奋的；繁重的，艰苦的 | Sherry’s been making a strenuous effort to lose weight.
+- apologise | [əˈpɒlədʒaɪz] | v.道歉，赔罪 | He will apologise to her for not going to herparty.
+- rational | [ˈræʃnəl] | adj.理性的；合理的 | Man is a rational being.
+- anger | [ˈæŋɡə(r)] | n.怒，怒气 v.使发怒 | His face was inflamed with anger.
+- bore | [bɔː(r)] | v.烦扰；钻孔 n.讨厌的人；令人生厌的事 | Don’t bore me with these boring jokes!
+- bother | [ˈbɒðə(r)] | v.花费时间精力（做某事）；（使）苦恼 n.麻烦，困难 | We had a lot of bother finding our way to his house.
+- disgust | [dɪsˈɡʌst] | v.使厌恶，使作呕 n.厌恶，嫌恶 | The smell filled me with disgust.
+- furious | [ˈfjʊəriəs] | adj.狂怒的，暴怒的 | The furlous workers instigated a strike.
+- hate | [heɪt] | v.恨，憎恨不喜欢 | They hate each other.
+- hatred | [ˈheɪtrɪd] | n.憎恶，憎恨，仇恨 | His words stirred up my hatred.
+- indignant | [ɪnˈdɪɡnənt] | adj.愤慨的，义愤的 | He is indignant at the false accusation.
+- mad | [mæd] | adj.发疯的；恼火的 | She was almost mad with grief when her son died.
+- mourn | [mɔːn] | v.（因失去……而）哀痛，哀悼 | We mourn for our fallen soldiers.
+- nuisance | [ˈnjuːsns] | n.讨厌或麻烦的人（或事物） | Don’t make yourself a nuisance to others.
+- troublesome | [ˈtrʌb(ə)lsəm] | adj.令人烦恼的；麻烦的 | You must learn to rid yourself of such troublesome thoughts.
+- unpleasant | [ʌnˈplez(ə)nt] | adj.令人不愉快的，讨厌的 | It happened with unpleasant consequences.
+- vex | [veks] | v.使烦恼，使恼火 | She was vexed at her failure.
+- wicked | [ˈwɪkɪd] | adj.邪恶的，缺德的 | It is wicked of you to torment the poor dog.
+- hostile | [ˈhɒstaɪl] | adj.怀有敌意的，不友善的；敌对的 | Ever since I got better marks than Parker, he has been hostile to me.
+- vicious | [ˈvɪʃəs] | adj.邪恶的，不道德的 | She was shocked by the vicious criticism.
+- vulgar | [ˈvʌlɡə(r)] | adj.粗俗的，庸俗的 | Vulgar fashions filled the store windows.
+- wretched | [ˈretʃɪd] | adj.不幸的，可怜的，悲惨的；恶劣的 | I was shocked to see their wretched living conditions.
+- irritate | [ˈɪrɪteɪt] | v.激怒，使急躁；刺激 | The noise of the children was irritating me.
+- adverse | [ˈædvɜːs] | adj.敌对的，不友好的∶不利的 | This policy will have an adverse effect on out new project.
+- radical | [ˈrædɪk(ə)l] | adj.激进的；根本的 | His opinions are very radical.
+- frustrating | [frʌˈstreɪtɪŋ] | adj.令人灰心的，使人沮丧的 | After two hours of frustrating delay, the train at last arrived.
+- harass | [ˈhærəs] | v.烦扰 | A gang of delinquents harassed the storekeeper from time to time.
+- awful | [ˈɔːf(ə)l] | adj.令人不愉快的，极讨厌的 | It would be awful if he found out the truth.
+- crazy | [ˈkreɪzi] | adj.疯狂的；荒唐的 | Are you crazy?
+- frown | [fraʊn] | n.皱眉，不悦 v.皱眉，表示不悦 | We interpret a frown as a sign of disapproval.
+- rage | [reɪdʒ] | n.盛怒，狂怒 | My father was in a rage last night.
+- anxiety | [æŋˈzaɪəti] | n.焦虑，担心；渴望 | It proved difficult to disguise his anxiety.
+- confuse | [kənˈfjuːz] | v.使困惑，把（某人）弄糊涂混淆 | Don't confuse Austria with Australia.
+- doubt | [daʊt] | n.怀疑，疑问 v.怀疑，不信 | There is no doubt about it.
+- endure | [ɪnˈdjʊə(r)] | v.忍耐，忍受；持久 | I can't endure her endless complaints a moment longer.
+- fear | [fɪə(r)] | n.害怕；担心 | The thought of returning filled him with fear.
+- greedy | [ˈɡriːdi] | adj.贪吃的；贪婪的 | The greedy man is always needy.
+- hesitate | [ˈhezɪteɪt] | v.犹豫不决，踌躇；顾虑 | Please don't hesitate to do it.
+- ignorant | [ˈɪɡnərənt] | adj.无知的，没有学识的，愚昧的 | Wise men become wiser as they grow older，ignorant men more ignorant.
+- insult | [ɪnˈsʌlt] | v.侮辱，凌辱 n.侮辱，凌辱 | He insulted her by calling her an idiot.
+- jealous | [ˈdʒeləs] | adj.嫉妒的，妒忌的 | Guilt is always jealous.
+- nasty | [ˈnɑːsti] | adj.下流的；肮脏的；险恶的 | He is a nasty guy.
+- naughty | [ˈnɔːti] | adj.淘气的，顽皮的 | Those naughty boys have been acting upagain.
+- regret | [rɪˈɡret] | n.遗憾；抱歉；悲叹 v.后悔痛惜，惋惜 | You will regret it when you are older.
+- repent | [rɪˈpent] | v.忏悔；后悔 | He repented of his action.
+- restless | [ˈrestləs] | adj.不安定的，焦躁不安的，不耐烦的 | The audience was becoming restless.
+- ridiculous | [rɪˈdɪkjələs] | adj.荒谬的，可笑的 | Who made this ridiculous rule?
+- selfish | [ˈselfɪʃ] | adj.自私的，利己主义的 | He is possibly the most selfish man in the town.
+- sigh | [saɪ] | nv.叹息，叹气 | She let out a long sigh of despair.
+- unkind | [ˌʌnˈkaɪnd] | adj.不仁慈的，不和善的，刻薄的 | Don’t be so unkind to your brother.
+- unsatisfactory | [ˌʌnˌsætɪsˈfæktəri] | adj.不能令人满意的，不符合要求的，不足的 | They demand a refund on unsatisfactory goods.
+- unstable | [ʌnˈsteɪb(ə)l] | adj.不稳定的；易变的；不牢固的 | This bookcase is too unstable to hold so many books.
+- unsuitable | [ʌnˈsuːtəbl; ʌnˈsjuːtəbl] | adj.不合适的，不适宜的 | The dress is unsuitable for summer.
+- unwilling | [ʌnˈwɪlɪŋ] | adj.不愿意的，不情愿的；勉强的 | He is unwilling to give up the opportunity.
+- weep | [wiːp] | v.哭泣，流泪哀悼 n.哭泣 | Laugh and the world laughs with you； weep and you weep alone.
+- rigid | [ˈrɪdʒɪd] | adj.固执的；严格的；刚硬的 | The old man is very rigid in his ideas.
+- awkward | [ˈɔːkwəd] | adj.笨拙的；尴尬的；棘手的；不合适的 | The child is still awkward with his chopsticks.
+- careless | [ˈkeələs] | adj.粗心的；无忧无虑的；淡漠的 | This man was severely put down for his careless work.
+- cunning | [ˈkʌnɪŋ] | n.狡猾的；巧妙的 | You’re cunning, and I can’t work you out.
+- sly | [slaɪ] | adj.狡猾的，狡诈的 | She had a sly personality.
+- stupid | [ˈstjuːpɪd] | adj.愚蠢的；麻木的；乏味的 n.傻瓜，笨蛋 | The man in the post office was too stupid forwords.
+- timid | [ˈtɪmɪd] | adj.胆小的，羞怯的 | You are every inch as timid as a mouse. Just speakup!
+- uneasy | [ʌnˈiːzi] | adj.心神不安的，忧虑的 | Due to your injury,I feel uneasy.
+- rash | [ræʃ] | adj.草率的，鲁莽的 | May I remind you it was your own rash actions that got us into this predicament?
+- stubborn | [ˈstʌbən] | adj.顽固的，固执的 | She won't do what I ask. She is very stubborn.
+- excessive | [ɪkˈsesɪv] | adj.过分的，过多的 | Excessive patriotism can lead to xenophobia.
+- volatile | [ˈvɒlətaɪl] | adj.易变的，反复无常的；易挥发的 | People are afraid to change jobs in today’s volatile economy.
+- reluctant | [rɪˈlʌktənt] | adj.不情愿的；勉强的 | She was reluctant to leave the neighbourhood of Paris.
+- embarrass | [ɪmˈbærəs] | v.使尴尬，使窘迫，使局促不安 | I was embarrassed by their compliments.
+- fuss | [fʌs] | n.大惊小怪，无谓的纷扰 | There's sure to be a fuss when they find the window's broken.
+- weird | [wɪəd] | adj.怪诞的，古怪的 | Her weird dress attracted attention in the smalltown.
+- envy | [ˈenvi] | v.n.羡慕；嫉妒 | The boy’s new electronic toy train was the envy of his friends.
+- suspicion | [səˈspɪʃ(ə)n] | n.怀疑，嫌疑 | He is under suspicion of murder.
+- sceptical | [ˈskeptɪk(ə)l] | adj.怀疑的 | He has a sceptical attitude towards all religions。
+- guilty | [ˈɡɪlti] | adj.有罪的；内疚的 | Whenever I think of how hard my parents are saving for my education and how little I've learned, I feel guilty.
+- ashamed | [əˈʃeɪmd] | adj.惭愧的，感到难为情的；耻于……的 | You should be ashamed of yourself.
+- tolerance | [ˈtɒlərəns] | n.忍受，容忍，宽容 | We should always try to show tolerance to other people.
+- arbitrary | [ˈɑːbɪtrəri] | adj.武断的，专断的；任意的 | My choice was quite arbitrary.
+- clumsy | [ˈklʌmzi] | adj.笨拙的 | You are so clumsy! You’ve knocked over my cup of coffee!
+- oblivious | [əˈblɪviəs] | adj.不知道的，未注意的 | She was oblivious to our warnings.
+- obtrusive | [əbˈtruːsɪv] | adj.过分炫耀的，过分突出的，扎眼的 | Try to wear something less obtrusive.
+- slothful | [ˈsləʊθf(ə)l] | adj.偷懒的，懒散的 | Fatigue had made him slothful.
+- sluggish | [ˈslʌɡɪʃ] | adj.行动迟缓的 | If you don’t eat breakfast, you’ll feel tired and sluggish.
+- impulse | [ˈɪmpʌls] | n.冲动，心血来潮 | He bought the house on an impulse.
+- ego | [ˈiːɡəʊ] | n.自我，自尊；自负 | That promotion really boosted her ego.
+- stereotype | [ˈsteriətaɪp] | n.老一套，模式化观念，刻板印象 | This idea is an old-fashioned stereotype.

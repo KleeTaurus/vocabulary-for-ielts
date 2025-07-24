@@ -1,0 +1,80 @@
+### Chapter 06 文化历史
+- decorate | [ˈdekəreɪt] | v. 装饰 | Using extremely different decorating schemes in adjoining rooms may result in lack of unity in style.
+- soul | [səʊl] | n. 灵魂；心灵；精神 | No words can express the secret agony of my soul.
+- spirit | [ˈspɪrɪt] | n. 精神，心灵 | We need a spirit of enterprise if we are to overcome our difficulties.
+- foreigner | [ˈfɒrənə(r)] | n. 外国人 | Some foreigners assimilate easily into our way of life.
+- native | [ˈneɪtɪv] | adj. 本土的 n. 本地人 | He is a native of Beijing.
+- Bible | [ˈbaɪb(ə)l] | n. 基督教的《圣经》 | The Bible begins with the Genesis.
+- cathedral | [kəˈθiːdrəl] | n. 大教堂 | This cathedral was regarded as a miracle in architectural history.
+- holy | [ˈhəʊli] | adj. 神圣的；圣洁的，虔诚的 | A holy person is spiritually pure.
+- museum | [mjuˈziːəm] | n. 博物馆 | A visit to the museum is an unforgettable experience.
+- priest | [priːst] | n. 牧师；神父；教士 | The priest persuaded him to give up his badhabit.
+- religion | [rɪˈlɪdʒən] | n. 宗教，宗教信仰 | There are many religions in the world.
+- sacred | [ˈseɪkrɪd] | adj. 神圣的；宗教的 | This area was hallowed by sacred memories.
+- bishop | [ˈbɪʃəp] | n. 主教 | I’ve heard a whisper that the Bishop intends toleave.
+- Pope | [pəʊp] | n. 教皇 | The election of a new Pope is coming.
+- missionary | [ˈmɪʃənri] | n. 传教士 | The missionary was sent to India last year.
+- monk | [mʌŋk] | n. 僧侣 | The man was a monk from Mount Emei.
+- humanitarian | [hjuːˌmænɪˈteəriən] | n. 人道主义者 adj. 人道主义的，博爱的 | Hepburn is known as a great humanitarian.
+- alien | [ˈeɪliən] | n. 外侨；外星生物 adj. 外国的；陌生的 | I ran into an old friend in the alien land.
+- antique | [ænˈtiːk] | n. 古董 adj. 古董的 | He wears designer clothes and drives anantique car.
+- convention | [kənˈvenʃn] | n. 惯例；大型会议 | The handshake is a social convention.
+- culture | [ˈkʌltʃə(r)] | n. 文化，文明；教养 | China plays an important role in promoting Asian culture.
+- civilisation | [ˌsɪvəlaɪˈzeɪʃ(ə)n] | n. 文明 | Western civilisation was cradled in Ancient Greece.
+- renaissance | [rɪˈneɪs(ə)ns] | n. [the R~] 文艺复兴时期 | The Renaissance was an epoch of unparalleled cultural achievement.
+- epic | [ˈepɪk] | n. 史诗 adj. 宏大的 | Their epic fight is the subject of a new film.
+- ideology | [ˌaɪdiˈɒlədʒi] | n. 意识形态，思想体系 | An obsolete ideology can hamper an economy.
+- tradition | [trəˈdɪʃ(ə)n] | n. 传统 | Asia has a long tradition of tea-drinking. China is no exception.
+- custom | [ˈkʌstəm] | n. 习俗；（个人的）习惯 | The custom prevails over the whole area.
+- feudalism | [ˈfjuːdəlɪzəm] | n. 封建主义；封建制度 | Feudalism was not abolished in England until 1660.
+- slavery | [ˈsleɪvəri] | n. 奴隶制 | They thought slavery was morally wrong.
+- ethical | [ˈeθɪk(ə)l] | adj. 伦理的，道德的 | You can’t divorce science from ethical questions.
+- moral | [ˈmɒrəl] | adj. 道德上的；有道德的 n. [~s] 道德 | The old gentleman claimed himself to be a very moral man, who had never told a lie in his life.
+- tribe | [traɪb] | n. 部落 | The tribe’s development was more primitive than that of their neighbours.
+- aboriginal | [ˌæbəˈrɪdʒən(ə)l] | n. [A~] 澳大利亚土著人 adj. 本土原有的；土著的 | Many Aboriginals do not like the idea of a day to celebrate the British landing.
+- inhabitant | [ɪnˈhæbɪtənt] | n. 居民 | The local inhabitants do not like noisy tourists in summer.
+- local | [ˈləʊk(ə)l] | adj. 当地的 n. 当地人 | He provided local delicacies for his guests.
+- exotic | [ɪɡˈzɒtɪk] | adj. 外来的；异国情调的 | The exotic atmosphere will fascinate you.
+- anthropologist | [ˌænθrəˈpɒlədʒɪst] | n. 人类学家 | The anthropologist contrasted two cultures in his lecture.
+- heritage | [ˈherɪtɪdʒ] | n.（国家的）遗产 | They take great pride in their cultural heritage.
+- inherit | [ɪnˈherɪt] | v. 继承（财产等）；经遗传获得 | He inherited a house from his father.
+- archaeology | [ˌɑːkiˈɒlədʒi] | n. 考古学 | Archaeology is the study of ancient civilisations.
+- excavate | [ˈekskəveɪt] | 挖掘，发掘 | It took a long time to excavate the ancient city of Troy.
+- pottery | [ˈpɒtəri] | n. 陶器 | Modern pottery is usually ornamental.
+- engrave | [ɪnˈɡreɪv] | v. 在……上雕刻 | The jeweller will engrave the inside of the ring with her name.
+- ritual | [ˈrɪtʃuəl] | n. 仪式 | The scientists found that personal involvement in aritual is necessary.
+- etiquette | [ˈetɪkət] | n. 礼仪，礼节 | He felt very sorry for his breach of etiquette.
+- belief | [bɪˈliːf] | n. 信念；信仰 | His firmness in his beliefs supported him through difficulties.
+- hallowed | [ˈhæləʊd] | adj. 神圣的；受尊崇的 | The Ganges is hallowed as a sacred, cleansing river.
+- church | [tʃɜːtʃ] | n. 教堂 | I’m just going to the church to see the priest.
+- choir | [ˈkwaɪə(r)] | n. 唱诗班 | The choir sang the Amens beautifully.
+- temple | [ˈtemp(ə)l] | n. 寺院，庙宇 | The temple has been considered an example of classic design.
+- pagoda | [pəˈɡəʊdə] | n. 佛塔 | The pagoda perches on top of the hill.
+- king | [kɪŋ] | n. 国王 | The king is the most important person in a kingdom.
+- queen | [kwiːn] | n. 王后；女王 | They were bowing as the king and queen walked in.
+- background | [ˈbækɡraʊnd] | n. 背景；（个人出身、受教育）经历 | He is a man with a special cultural background.
+- accident | [ˈæksɪdənt] | n. 事故；意外，偶然的事 | His left knee was hurt in a traffic accident.
+- thrive | [θraɪv] | v. 繁荣，兴旺发达；茁壮生长 | First thrive and then wive.
+- emperor | [ˈempərə(r)] | n. 皇帝 | The emperor unified the country by the sword.
+- lord | [lɔːd] | n.（英国）贵族；[L~] 阁下，大人；[the L~] 上帝 | The young lord with the red-gold hair bowed, “As you command, Lord Edward.
+- prince | [prɪns] | n. 王子；亲王 | The prince fell in love with a fair young maiden.
+- princess | [ˌprɪnˈses] | n. 公主；王妃 | The princess was ostracised for marrying a rich bourgeois man.
+- experience | [ɪkˈspɪəriəns] | n. 经验；（一次）经历，体验 | It was a truly memorable experience.
+- incident | [ˈɪnsɪdənt] | n.（尤指不寻常的、重要的或暴力的）事件；（两国间的）冲突 | A serious incident along the border increased our fears of war.
+- majesty | [ˈmædʒəsti] | n. 威严，壮观；陛下 | I enjoyed all the majesty of royal ceremonies.
+- knight | [naɪt] | n. 骑士 v. 封（某人）为爵士 | He was knighted for his war services.
+- empire | [ˈempaɪə(r)] | n. 帝国 | The empire had for years been falling intodecadence.
+- imperial | [ɪmˈpɪəriəl] | adj. 帝国的 | They made an objection to the imperial system with resolution.
+- royal | [ˈrɔɪəl] | adj. 皇家的；高贵的 | Britain has always had a large navy, called the Royal Navy.
+- dynasty | [ˈdɪnəsti] | n. 朝代 | The Tang Dynasty is a period remarkable for its liberality.
+- chronology | [krəˈnɒlədʒi] | n. 年表，事件发生顺序表；年代学 | It seems that the paper has confused the chronology of these events.
+- nobility | [nəʊˈbɪləti] | n. 高尚的品质；贵族 | Virtue is the only true nobility.
+- guardian | [ˈɡɑːdiən] | n. 保卫者；监护人 adj. 守护的 | He became the legal guardian of his brother’s daughter.
+- nostalgia | [nɒˈstældʒə] | n. 思乡之情；怀旧之情 | The soldiers were filled with nostalgia.
+- homesick | [ˈhəʊmsɪk] | adj. 思乡的 | My American friend tells me, she is never as homesick as during this time of year, around Thanksgiving.
+- celebrity | [səˈlebrəti] | n. 名人；名誉 | Celebrity, money and possessions are too often the touchstones for teenagers.
+- status | [ˈsteɪtəs] | n. 地位，身份 | Being an engineer gives him a high social status.
+- anecdote | [ˈænɪkdəʊt] | n. 轶事，奇闻 | He preceded his lecture with a humorous anecdote.
+- prosperity | [prɒˈsperəti] | n. 繁荣，兴旺 | The empire was on the wane after its period of prosperity.
+- setback | [ˈsetbæk] | n. 挫折，阻碍 | This setback has drained away my keenness.
+- adversity | [ədˈvɜːsəti] | n. 逆境 | Hardship disposes man to meet adversity.

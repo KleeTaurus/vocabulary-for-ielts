@@ -1,0 +1,242 @@
+### Chapter 01 自然地理
+- atmosphere | [ˈætməsfɪə(r)] | n. 大气层，大气圈；气氛 | The approaching examination created a tense atmosphere on the campus.
+- hydrosphere | [ˈhaɪdrəʊsfɪə(r)] | n. 水圈；大气中的水汽 | All the water of the earth’s surface is included in the hydrosphere.
+- lithosphere | [ˈlɪθəsfɪə(r)] | n. 岩石圈 | The hydrosphere and the lithosphere together form the earth’s surface.
+- oxygen | [ˈɒksɪdʒən] | n. 氧气 | Hydrogen and oxygen are gases.
+- oxide | [ˈɒksaɪd] | n. 氧化物 | Oxide is a part of our daily life.
+- carbon dioxide | [ˌkɑːbən daɪˈɒksaɪd] | n. 二氧化碳 | Soft drinks usually contain carbon dioxide.
+- hydrogen | [ˈhaɪdrədʒən] | n. 氢气 | Two parts hydrogen, one part oxygen, you’ll get water every time.
+- core | [kɔː(r)] | n. 中心，核心；地核 | He is the core of the working group.
+- crust | [krʌst] | n. 地壳；外壳 | The crust on the snow was thick enough for us to walk on it.
+- mantle | [ˈmæntl] | n. 地幔；斗篷，披风 v. 覆盖 | Parents often use mantles for their babies to keep warm.
+- longitude | [ˈlɒŋɡɪtjuːd] | n. 经度 | The captain determines the latitude and longitude of his ship.
+- latitude | [ˈlætɪtjuːd] | n. 纬度 | Our position is 40 degrees north latitude.
+- horizon | [həˈraɪz(ə)n] | n. 地平线；[~s] 眼界，见识 | I could see a ship on the horizon.
+- altitude | [ˈæltɪtjuːd] | n. 高度，海拔 | We are currently flying at an altitude of 8,000metres.
+- disaster | [dɪˈzɑːstə(r)] | n. 灾难 | There was a great flood disaster in East China.
+- mishap | [ˈmɪshæp] | n. 小灾难 | A mishap prevented him from attending the routine company meeting.
+- catastrophic | [ˌkætəˈstrɒfɪk] | adj. 灾难性的 | If the forecast had been wrong, the consequences could have been catastrophic.
+- calamity | [kəˈlæməti] | n. 灾难，不幸的事 | A hurricane would be a calamity for this low- lying coastal region.
+- endanger | [ɪnˈdeɪndʒə(r)] | v. 使遭受危险，危及 | If you work hard without rest, you will endanger your health.
+- jeopardise | [ˈdʒepədaɪz] | v. 危害，危及 | If you are rude to the boss, your chances of success may be jeopardised.
+- destructive | [dɪˈstrʌktɪv] | adj. 破坏性的，有害的 | Jealousy is an extremely destructive emotion.
+- El Niño | [el 'ni:njau] | n. 厄尔尼诺现象（赤道附近东太平洋水域大范围海水反常增温、鱼群大量死亡的现象） | What changed the equation that year was ElNiño.
+- greenhouse | [ˈɡriːnhaʊs] | n. 温室，暖房 | The flowers are grown in the greenhouse.
+- phenomenon | [fəˈnɒmɪnən] | n. 现象 | Snow is an almost unknown phenomenon in Egypt.
+- pebble | [ˈpeb(ə)l] | n. 鹅卵石 | The boy put his hand into the money bag and drew out a pebble.
+- magnet | [ˈmæɡnət] | n. 磁铁，吸铁石 | He picked all the pins up with a magnet.
+- ore | [ɔː(r)] | n. 矿石；矿 | This mountain area is rich in iron ore.
+- mineral | [ˈmɪnərəl] | n. 矿物，矿物质；矿产 | China is rich in mineral resources.
+- marble | [ˈmɑːb(ə)l] | n. 大理石；（玩具）弹球 | They used marble to build the steps.
+- quartz | [kwɔːts] | n. 石英 | Have you bought the quartz clock?
+- granite | [ˈɡrænɪt] | n. 花岗岩 | His grave is made of granite.
+- gust | [ɡʌst] | n. 一阵狂风；（感情的）迸发 | A gust of wind blew the leaves off the trees.
+- breeze | [briːz] | n. 微风，和风 | We are enjoying the cool breeze that comes from the lake.
+- monsoon | [ˌmɒnˈsuːn] | n. 季风；雨季 | The monsoon brings rain to us.
+- gale | [ɡeɪl] | n. 大风 | We got our roof blown off in a gale last night.
+- hurricane | [ˈhʌrɪkən] | n. 飓风；暴风 | The hurricane flung their motorboat upon the rocks.
+- tornado | [tɔːˈneɪdəʊ] | n. 龙卷风 | When a tornado touches the ground, it does a lot of damage.
+- typhoon | [taɪˈfuːn] | n. 台风 | The typhoon is gathering strength.
+- volcano | [vɒlˈkeɪnəʊ] | n. 火山 | The volcano erupted and two small towns were buried under metres of hot ash, mud and bits of molten rock.
+- erupt | [ɪˈrʌpt] | v. 爆发，喷发；（斑疹等）突然出现 | Hot lava erupted from the crust.
+- magma | [ˈmæɡmə] | n. 岩浆 | Some types of minerals are made when magma cools and solidifies.
+- thermodynamic | [ˌθɜːməʊdaɪˈnæmɪk] | adj. 热力的；热力学的 | His theory violates current thermodynamiclaws.
+- smog | [smɒɡ] | n. 烟雾，雾霾 | The smog was so bad that schoolchildren were advised to stay indoors.
+- fume | [fjuːm] | n. [~s]（难闻且常为有害的）烟，气体 v. 冒烟；发怒 | Petrol fumes from cars are poisoning the atmosphere.
+- mist | [mɪst] | n. 薄雾；水汽；使视线模糊的东西 | She could hardly recognise her son through amist of tears.
+- tsunami | [tsuːˈnɑːmi] | n. 海啸 | A terrible tsunami followed the earthquake.
+- drought | [draʊt] | n. 干旱，旱灾 | Many areas in Africa have suffered severe drought this year.
+- flooding | [ˈflʌdɪŋ] | n. 洪水泛滥 | Since the flooding began last month, 16 people have died statewide.
+- torrent | [ˈtɒrənt] | n. 激流，洪流 | A torrent of water poured down the mountain.
+- earthquake | [ˈɜːθkweɪk] | n. 地震 | Several countries in eastern Europe are counting the losses caused by yesterday’s earthquake.
+- seismic | [ˈsaɪzmɪk] | adj. 地震的，地震引起的 | The discovery of seismic activity suggests geological activity could provide large amounts of heat and minerals.
+- avalanche | [ˈævəlɑːnʃ] | n. 雪崩 | Yesterday’s avalanche destroyed several trees.
+- terrain | [təˈreɪn] | n. 地形 | He climbed a tree to view the surrounding terrain.
+- landscape | [ˈlændskeɪp] | n. 风景，地貌 v. 对……进行景观美化 | The trees and the mountains made the landscape very beautiful.
+- continent | [ˈkɒntɪnənt] | n. 大陆；洲 | It is generally thought that Columbus discovered the American continents.
+- cave | [keɪv] | n. 洞穴，山洞 | This cave was used by smugglers in the eighteenth century.
+- cliff | [klɪf] | n. 悬崖，峭壁 | The narrow path leads to a wooden hut on the cliff.
+- glacier | [ˈɡlæsiə(r)] | n. 冰河，冰川 | The glacier dislocated the great stones.
+- swamp | [swɒmp] | n. 沼泽，湿地 | In the swamp, we were beset by mosquitoes.
+- delta | [ˈdeltə] | n. 三角洲 | The Nile Delta used to be a fertile land.
+- plain | [pleɪn] | n. 平原 adj. 简朴的；明白的 | Once there were 70 million buffalo roaming the Great Plains.
+- plateau | [ˈplætəʊ] | n. 高原 | The atmosphere is thin on the plateau.
+- oasis | [əʊˈeɪsɪs] | n. 绿洲；宜人之地 | Oasis symbolises a hope in desert areas.
+- vertical | [ˈvɜːtɪk(ə)l] | adj. 垂直的，直立的 | In some places the cliff was almost vertical, and too dangerous to climb.
+- steep | [stiːp] | adj. 陡峭的，陡直的 | A long steep path leads to a teahouse with a grand view of the sea.
+- parallel | [ˈpærəlel] | n. 平行线；相似之物；相似之处 adj. 平行的 v. 与…… 相似；比得上 | There are few parallels between American football and European football.
+- narrow | [ˈnærəʊ] | adj. 狭窄的；有局限的 n. [~s] 海峡 v. 变窄 | The only access to the garden is by a narrow path at the side of the house.
+- globe | [ɡləʊb] | n. 球体；地球仪；[the ~] 地球 | There are people in almost every habitable part of this globe.
+- hemisphere | [ˈhemɪsfɪə(r)] | n. 半球 | In the northern hemisphere, you can hardly see the Magellanic Clouds.
+- equator | [ɪˈkweɪtə(r)] | n. 赤道 | The equator is an imaginary line around the middle of the earth.
+- arctic | [ˈɑːktɪk] | adj. 极冷的；[A~] 北极的 n. [the A~] 北极地区，北极 | The polar bear’s habitat is the icy waters of the Arctic.
+- Antarctic | [ænˈtɑːktɪk] | adj. 南极的 n. [the ~] 南极地区，南极洲 | Because of the extreme cold, the environment in the Antarctic is uniquely fragile.
+- pole | [pəʊl] | n.（地）极；截然相反的两极之一 | English is spoken from pole to pole.
+- polar | [ˈpəʊlə(r)] | adj. 极地的，近极地的；对立的 | In these polar regions, the balance of nature has already been disrupted.
+- axis | [ˈæksɪs] | n. 轴，轴线 | The earth’s axis is the line between the North and South Poles.
+- deteriorate | [dɪˈtɪəriəreɪt] | v. 恶化，变坏 | Relations between the two countries have deteriorated sharply in recent weeks.
+- aggravate | [ˈæɡrəveɪt] | v. 加重，加剧，使恶化 | Grief aggravated her illness.
+- degrade | [dɪˈɡreɪd] | v. 降解；降低……的身份；使恶化，使退化 | A dishonest action like that will degrade you.
+- erode | [ɪˈrəʊd] | v. 侵蚀，腐蚀 | The waves erode the rocks on the shore.
+- Mediterranean | [ˌmedɪtəˈreɪniən] | adj. 地中海的；地中海地区的 n. 地中海；地中海地区 | This dish is a cross between Asian and Mediterranean food.
+- Atlantic | [ətˈlæntɪk] | adj. 大西洋的 n. [the ~] 大西洋 | The Atlantic coast is within sight of the hotel.
+- pacific | [pəˈsɪfɪk] | adj. 平静的，和平的；[P~] 太平洋的 n. [the P~] 太平洋 | What a beautiful and pacific place this is!
+- ocean | [ˈəʊʃ(ə)n] | n. 海洋；（五大洋之一的）洋 | These creatures live in the depth of the Pacific Ocean.
+- marine | [məˈriːn] | adj. 海生的，海洋的；海事的 n. 水兵 | It is true that a lot of people like marine plants as their food.
+- navigation | [ˌnævɪˈɡeɪʃn] | n. 航行；航海 | Navigation is a game for brave people.
+- gulf | [ɡʌlf] | n. 海湾 | The gulf extends northward.
+- beach | [biːtʃ] | n. 海滩，河滩 | They walked along the beach, talking and laughing.
+- coast | [kəʊst] | n. 海岸，海滨 | He is going to live by the coast for the sake of his health.
+- shore | [ʃɔː(r)] | n.（海、湖等大水域的）岸，滨 | His ship pulled in to the shore at midnight.
+- tide | [taɪd] | n. 趋势，潮流；潮汐 | The gravitational attraction between the moon and the earth causes tides.
+- current | [ˈkʌrənt] | n. 水流，潮流；电流；气流 | He was swept away by the current.
+- brook | [brʊk] | n. 小河，溪 | Before we drink at a brook, it is good to know its source.
+- stream | [striːm] | n. 小河，溪；流 v. 流动，流出 | On either bank of the stream stand rows of willow trees.
+- source | [sɔːs] | n. 河的源头；根源 | I’ve heard from reliable sources that the company is in trouble.
+- shallow | [ˈʃæləʊ] | adj. 浅的；肤浅的，浅薄的 | The sea is shallow here.
+- flat | [flæt] | adj. 平坦的；扁平的；单调的 | In flat open country, there is plenty of grass for the cattle to feed on.
+- smooth | [smuːð] | adj. 光滑的；平稳的；流畅的 | The process of negotiation was not entirely smooth.
+- rough | [rʌf] | adj. 粗糙的；粗略的 | You’d better give us a rough idea of your price.
+- sandy | [ˈsændi] | adj. 铺满沙的；含沙的 | We walked across the fields on the sandy path.
+- stony | [ˈstəʊni] | adj. 石头的；多石的 | The ground in this part of the country is poor and stony.
+- upgrade | [ˌʌpˈɡreɪd ] | V. 使升级；提高，改善 | The antivirus software should often be upgraded.
+- superficial | [ˌsuːpərˈfɪʃl] | adj. 表皮的，表层的 | Superficial scratches can be easily removed .
+- shower | [ˈʃaʊə(r)] | n. 阵雨；（一）阵；淋浴 | The weatherman predicts showers this afternoon.
+- Oceania | [ˌəʊsiˈɑːniə] | n. 大洋洲 | Oceania is a separate landmass, but it is separated from Asia by very shallow water.
+- mainland | [ˈmeɪnlənd; ˈmeɪnlænd] | n. 大陆，本土 | Hawaii and Alaska are not on the mainland of the United States.
+- peninsula | [pəˈnɪnsjələ] | n. 半岛 | His house is located on the tip of the peninsula.
+- climate | [ˈklaɪmət] | n. 气候；风气，思潮，环境 | The current political climate in that country is favourable for foreign investment.
+- weather | [ˈweðə(r)] | n. 天气，气象 | In warm weather, you should wear clothing that is cool and comfortable.
+- meteorology | [ˌmiːtiəˈrɒlədʒi] | n. 气象学 | Nowadays,few people like to study meteorology.
+- mild | [maɪld] | adj. 温和的；不严重的 | The weather is mild today; it is neither hot nor cold.
+- heating | [ˈhiːtɪŋ] | n. 供暖；暖气装置 | The workers are installing a heating system.
+- moderate | [ˈmɒdərət ]/[ˈmɒdəreɪt] | adj.适度的；温和的；中等的 v.（使）缓和 | The wind was strong all day, but it moderated in the evening.
+- warm | [wɔːm] | adj. 温暖的 v（使）变暖 | The blood of a warm-blooded animal remains around the same temperature both on warm and cold days.
+- thermal | [ˈθɜːm(ə)l] | adj. 热量的 | The thermal energy has become more and more important.
+- tropics | [ˈtrɒpɪks] | n. [the ~] 热带地区 | He lives in the tropics.
+- arid | [ˈærɪd] | adj. 干燥的，干旱的；枯燥的 | It is difficult to grow fruit in arid desert areas.
+- moist | [mɔɪst] | adj. 潮湿的，湿润的 | His eyes were moist with tears.
+- damp | [dæmp] | adj. 潮湿的，湿气重的 | The damp match won’t strike.
+- humid | [ˈhjuːmɪd] | adj. 潮湿的，湿热的 | The milk powder has lumped together because my home is so humid.
+- snowy | [ˈsnəʊi] | adj. 下雪多的；被雪覆盖的 | The snowy weather lasted the whole time we were there.
+- frost | [frɒst] | n. 霜；霜冻；严寒 | Sweet potatoes decayed after the frost.
+- hail | [heɪl] | n. 雹，冰雹 v. 赞扬；招呼；下雹 | It hailed during the night.
+- thaw | [θɔː] | v. 解冻，融解，融化 n. 解冻时期 | The sun thawed the ice and melted the snow.
+- chill | [tʃɪl] | v.（使）变冷；使恐惧 n. 寒冷；害怕 | The bad news cast a chill over the wholefamily.
+- freeze | [friːz] | v. 结冰 n. 霜冻；严寒期 | The weatherman predicted a freeze for tonight.
+- frigid | [ˈfrɪdʒɪd] | adj. 寒冷的 | Hohhot is a frigid city in winter.
+- tremble | [ˈtremb(ə)l] | v.n. 战栗，颤抖 | There was a tremble in her voice.
+- shiver | [ˈʃɪvə(r)] | v. 颤抖，哆嗦，发抖 | She shivered because she was worried and afraid.
+- thunder | [ˈθʌndə(r)] | n. 雷；雷声 v. 打雷；轰隆隆地快速移动 | An express train thundered through the station.
+- lightning | [ˈlaɪtnɪŋ] | n. 闪电 adj. 闪电般的，极快的 | During the storm, flashes of lightning appeared in the sky.
+- stormy | [ˈstɔːmi] | adj. 有暴风雨的；争吵激烈的；（大海）波涛汹涌的 | Our ship was tossed about on the stormy sea.
+- downpour | [ˈdaʊnpɔː(r)] | n. 倾盆大雨 | For the past six hours, the downpour had been continuous.
+- rainfall | [ˈreɪnfɔːl] | n. 降雨量 | There have been four years of below-average rainfall.
+- sprinkle | [ˈsprɪŋk(ə)l] | v. 撒，洒；下小雨 n. 少量；小雨 | We’ve only had a few sprinkles of rain recently.
+- rainbow | [ˈreɪnbəʊ] | n. 虹，彩虹 | A rainbow is usually seen after a heavy rain.
+- Celsius | [ˈselsiəs] | adj. 摄氏的 n. 摄氏温度 | The maximum temperature in July may be 36 degrees Celsius.
+- temperature | [ˈtemprətʃə(r)] | n. 气温；体温；温度 | After the storm, there will be a sharp drop in temperature.
+- forecast | [ˈfɔːkɑːst] | n. 预测，预报 v. 预测，预言 | The recent statement of the president forecasts a change in the situation.
+- peak | [piːk] | n. 山峰；顶点 v. 达到最大值 | The mountain peaks are covered with snow all year round.
+- mount | [maʊnt] | v. 渐渐增加；爬上，登上 n. [M~] 山 | The old lady can only mount the stairs with difficulty.
+- mountain | [ˈmaʊntən] | n. 山，山岳，高山 | The northern side of the mountain is almost vertical.
+- ridge | [rɪdʒ] | n. 山脊，山脉 v. 使隆起 | The sky above the ridge of the mountains brightened.
+- slope | [sləʊp] | v. 倾斜；有坡度 n. 山坡；斜坡 | He ran up the slope to the top of the hill.
+- valley | [ˈvæli] | n. 山谷，溪谷 | The valley was hidden from view in the mist.
+- hillside | [ˈhɪlsaɪd] | n.（小山的）山腰，山坡 | The path steepened as they climbed the hillside.
+- overlook | [ˌəʊvəˈlʊk] | v. 俯瞰，远眺；未注意到 | The house on the hill overlooks the village.
+- southern | [ˈsʌðən] | adj. 南部的；南方的 | Only in the southern part of Taiwan have I seen such scenery.
+- southeast | [ˌsaʊθˈiːst] | n. 东南方；东南部 adj. 东南方的；东南部的 | Austria lies to the southeast of Germany.
+- southwest | [ˌsaʊθˈwest] | n. 西南方；西南部 adj. 西南方的；西南部的 | Ireland is in the southwest of the British Isles.
+- northeast | [ˌnɔːθˈiːst] | n. 东北方；东北部 adj. 东北方的；东北部的 | Snow in October is nothing strange in northeast China.
+- northwest | [,nɔ:θ'west] | n. 西北方；西北部 adj. 西北方的；西北部的 | There is a large hilly area in the northwest.
+- eastern | [ˈiːstən] | adj. 东部的；东方的 | The eastern situation is similarly intense.
+- oriental | [ˌɔːriˈent(ə)l] | adj. 东方的（尤指中国和日本的） | She has studied the cultures of oriental countries.
+- range | [reɪndʒ] | n. 山脉；范围 | A range of hills rose on our left.
+- rural | [ˈrʊərəl] | adj. 农村的，乡村的；田园的 | The disease occurs most frequently in rural areas.
+- suburb | [ˈsʌbɜːb] | n. 郊区，郊外，近郊 | They proposed setting up a school in the suburbs.
+- outskirts | [ˈaʊtskɜːts] | n. 郊区，市郊 | We live on the outskirts of the city.
+- remote | [rɪˈməʊt] | adj. 遥远的；偏僻的；疏远的 | She came from a remote village.
+- desolate | [ˈdesələt] | adj. 荒凉的 | So how should they escape from these desolate canyons?
+- distant | [ˈdɪstənt] | adj. 疏远的；遥远的 | It snows all year round in that distant little village.
+- adjacent | [əˈdʒeɪs(ə)nt] | adj. 邻近的，毗连的 | We stayed in adjacent rooms.
+- toxic | [ˈtɒksɪk] | adj. 有毒的 | All medicines are toxic.
+- pollution | [pəˈluːʃ(ə)n] | n. 污染 | Waste water from the factory is the main cause of pollution in local rivers.
+- pollutant | [pəˈluːtənt] | n. 污染物质 | Coal is a heavy pollutant.
+- contaminate | [kənˈtæmɪneɪt] | v. 弄脏，污染 | The river was contaminated with waste.
+- geology | [dʒiˈɒlədʒi] | n. 地质学；地质状况 | He devoted all his life to the research of the agricultural geology.
+- border | [ˈbɔːdə(r)] | n. 边界；边界地区；镶边 v. 和……毗邻；形成……的边界 | The border incident lead to the war between the two countries.
+- margin | [ˈmɑːdʒɪn] | n. 边缘；页边空白；余地 | There is no margin for error in our plan.
+- fringe | [frɪndʒ] | n. 边缘；刘海儿 adj. 次要的；非主流的 | We feel it’s pretty good and we also offer some good fringe benefits.
+- plate | [pleɪt] | n.（地质学中的大陆）板块；盘 | It is generally accepted that earthquakes are caused by two tectonic plates bumping into each other.
+- debris | [ˈdebriː] | n. 碎片，残骸 | We are searching for his corpse among the debris after the explosion.
+- crack | [kræk] | v. 破裂；发出爆裂声 n. 裂缝；缝隙 | The door opened just a crack.
+- gap | [ɡæp] | n. 缺口，裂缝；差距；空白 | There are wide gaps in my knowledge of history.
+- splendid | [ˈsplendɪd] | adj. 极好的；壮观的 | You’re all doing a splendid job; keep up the good work!
+- grand | [ɡrænd] | adj. 宏大的；豪华的，宏伟的；极好的 | He was born in the purple and was brought up in the grand palace.
+- magnificent | [mæɡˈnɪfɪs(ə)nt] | adj. 壮丽的，宏伟的；令人印象深刻的 | The king lived in this magnificent palace.
+- super | [ˈsuːpə(r)] | adj. 超级的，极好的 | I’ve discovered a super restaurant near here!
+- interesting | [ˈɪntrəstɪŋ] | adj. 有趣的；引人入胜的 | There is an interesting programme on television tonight.
+- dramatic | [drəˈmætɪk] | adj. 戏剧的；引人注目的 | She made a dramatic speech at the meeting.
+- wilderness | [ˈwɪldənəs] | n. 荒野 | From his attic window, he looked out over a beautiful wilderness.
+- desert | [ˈdezət] | n. 沙漠 v. 离弃，遗弃；擅离 | The baby’s mother deserted him soon after giving birth.
+- deforest | [ˌdiːˈfɒrɪst] | v. 毁掉……森林 | The land is severely eroded as a result of widespread deforesting and intensive farming.
+- barren | [ˈbærən] | adj. 贫瘠的，荒芜的；不结果实的 | That remote barren land has blossomed into rich granaries.
+- fertile | [ˈfɜːtaɪl] | adj. 肥沃的，富饶的 | There’s enough to transform barren coral atolls into fertile groves.
+- fertilise | [ˈfɜːtəlaɪz] | v. 施肥于 | I fertilised the lawn and pulled out the weeds.
+- solar | [ˈsəʊlə(r)] | adj. 太阳的，日光的 | This toy is operated by solar energy.
+- lunar | [ˈluːnə(r)] | adj. 月亮的，月球的 | All traditional Chinese festivals are lunar calendar festivals.
+- calendar | [ˈkælɪndə(r)] | n. 日历；历法 | The Islamic calendar has fewer days than the Gregorian calendar.
+- inevitable | [ɪnˈevɪtəbl] | adj. 不可避免的，必然的 | Such a difficult operation may not succeed, but it’s an inevitable gamble.
+- irreversible | [ˌɪrɪˈvɜːsəb(ə)l] | adj. 不可逆转的；不可挽回的 | He suffered irreversible brain damage from the incident.
+- irregularly | [ɪˈreɡjələli] | adv. 不规则地；不合常规地 | The patient is breathing irregularly.
+- inappropriate | [ˌɪnəˈprəʊpriət] | adj. 不合适的 | Your bright red coat would be quite inappropriate for a funeral.
+- abnormal | [æbˈnɔːm(ə)l] | adj. 不正常的，反常的；变态的 | El Niño will result in the abnormal weather.
+- sediment | [ˈsedɪmənt] | n. 沉淀物；沉积物 | The sediment of coffee will settle.
+- silt | [sɪlt] | n. 淤泥，泥沙 v.（使）淤塞 | River sediments gradually silted up the harbour.
+- muddy | [ˈmʌdi] | adj. 泥泞的；浑浊的 | We left the car and struck out along the muddy track.
+- clay | [kleɪ] | n. 黏土，陶土 | Bricks and dishes are made from various kinds of clay.
+- dirt | [dɜːt] | n. 污垢，灰尘；［尤美］泥土 | The children were outside, playing happily in the dirt.
+- sunrise | [ˈsʌnraɪz] | n. 日出 | The beauty of the sunrise is beyond description.
+- sunset | [ˈsʌnset] | n. 日落 | By sunset we had covered thirty miles.
+- eclipse | [ɪˈklɪps] | n. 日食；月食 | It will take about an hour to reach full eclipse stage.
+- dusk | [dʌsk] | n. 黄昏，傍晚 | The street lights go on at dusk.
+- heaven | [ˈhevn] | n. 天堂；极乐（之地）；[the ~s] 天空 | Our week on the tropical island was heaven.
+- paradise | [ˈpærədaɪs] | n. 天堂；乐园，福地 | This club is a sportsman’s paradise.
+- sunshine | [ˈsʌnʃaɪn] | n. 阳光，日光 | I was sitting in the garden, enjoying the sunshine.
+- shade | [ʃeɪd] | n. 阴影部分；背阴处 v. 给……遮挡（光线） | He tried to shade his house with thick trees.
+- shadow | [ˈʃædəʊ] | n. 影子，阴影 | The willow’s shadow falls on the lake.
+- vapour | [ˈveɪpə(r)] | n. 蒸气；水汽 | When water changes to water vapour, we say it evaporates.
+- evaporate | [ɪˈvæpəreɪt] | v.（使）蒸发；消失 | The pool of water on the playground evaporated in the sun.
+- circulate | [ˈsɜːkjəleɪt] | v.（使）循环，（使）流通；（信息等）传播 | Circulating blood helps transfer the body heat out to the air.
+- precipitate | [prɪˈsɪpɪteɪt] | v.（水汽等）凝结；沉淀 | Clouds usually precipitate as rain or snow.
+- reservoir | [ˈrezəvwɑː(r)] | n. 水库，蓄水池 | This reservoir gives water to the whole city.
+- waterfall | [ˈwɔːtəfɔːl] | n. 瀑布 | They were filled with wonder at the new waterfall.
+- fountain | [ˈfaʊntən] | n. 喷泉；源泉 | Social life is the fountain of wisdom for writers.
+- spring | [sprɪŋ] | n. 春天；泉水 | It can be quite windy there, especially inspring.
+- dew | [djuː] | n. 露水 | Dew dripped from the leaves.
+- pour | [pɔː(r)] | v. 倾泻；倒；（雨）倾盆而下 | Tears poured from her eyes.
+- drain | [dreɪn] | v. 排空；（使）流出 n. 耗竭 | They drain the swamp and turn it into fertile land.
+- drip | [drɪp] | v. 滴出（液体）；滴下 | Be careful! Your paintbrush is dripping.
+- drown | [draʊn] | v.（使）淹死；浸泡 | She attempted to drown herself in the river.
+- blow | [bləʊ] | v. 吹；（风）吹；吹动 n. 用力的一击；打击，挫折 | Now, Peter, make a wish and blow out the candles.
+- puff | [pʌf] | v. 喷出；喘息 n.（吹出的）一股，一缕 | Don’t puff cigarette smoke in my face.
+- gush | [ɡʌʃ] | v.n. 涌出 | In a moment more, the crowd began to gush forth from the doors of the church.
+- dense | [dens] | adj. 密集的；稠密的 | There will be dense fog in northern parts of the country tomorrow.
+- intensity | [ɪnˈtensəti] | n. 强度；强烈 | I was surprised by the intensity of his anxiety.
+- intensive | [ɪnˈtensɪv] | adj. 加强的，集中的，密集的 | Intensive care in hospitals is given to the seriously ill.
+- emerge | [ɪˈmɜːdʒ] | v. 浮现，露出；摆脱出来；暴露 | The sun emerged from behind the clouds.
+- flash | [flæʃ] | v.（使）闪光；（使）闪现；（通过计算机、卫星等）快速发送 n. 闪光（灯）；闪现 | The good news was flashed across the country.
+- float | [fləʊt] | v. 漂浮；飘浮 | The smell of roses floated around.
+- environment | [ɪnˈvaɪrənmənt] | n. 自然环境；环境，周围状况 | An increasing number of people are concerned about the pollution of the environment.
+- surrounding | [səˈraʊndɪŋ] | adj. 周围的，附近的 | The polluted waste is often dumped unceremoniously, making the surrounding land infertile.
+- condition | [kənˈdɪʃn] | n. 条件；情况，状态 | I had almost decided to accept their conditions at that time.
+- situation | [ˌsɪtʃuˈeɪʃ(ə)n] | n. 情况，处境，形势 | Due to poor management, they finally got into a difficult financial situation.
+- nature | [ˈneɪtʃə(r)] | n. 大自然；本性；性质 | In fact, nature is much better at recycling than we humans are.
+- natural | [ˈnætʃrəl] | adj. 自然的；天然的 | It is natural that he should fall in love with such a beautiful girl.
+- artificial | [ˌɑːtɪˈfɪʃl] | adj. 人造的 | This fruit juice contains absolutely no artificial flavourings or colourings.
+- synthetic | [sɪnˈθetɪk] | adj. 人造的，合成的 n. [~s] 合成物 | Nylon is a synthetic material; it is not from nature.
+- petrol | [ˈpetrəl] | n. [ 英 ] 汽油 | My new car really eats up petrol.
+- gas | [ɡæs] | n. 气体；[ 美 ] 汽油 | There are reports that some gas stations have run out of gas.
+- gasoline | [ˈɡæsəliːn] | n. [ 美 ] 汽油 | The price of gasoline is unstable.
+- petroleum | [pəˈtrəʊliəm] | n. 石油 | Petroleum is an important natural resource.

@@ -1,0 +1,77 @@
+### Chapter 20 太空探索
+- galaxy | [ˈɡæləksi] | n.星系；［theG－］银河系 | The sun is only a very small star in the Galaxy.
+- cosmos | [ˈkɒzmɒs] | n.宇宙 | Our world is but a small partof the cosmos.
+- universe | [ˈjuːnɪˌvɜːs] | n.宇宙；万物，世界 | The depth of the universe is immeasurable.
+- interstellar | [ˌɪntəˈstɛlə] | adj.星际的 | These elements become part of the interstellar gas and dust.
+- terrestrial | [təˈrɛstrɪəl] | adj.地球的；｛动植物）陆地的 | Forests are home to over 80% of terrestrial biodiversity.
+- celestial | [sɪˈlɛstɪəl] | adj.天上的 | The rosy light beamed like a celestial dawn.
+- astronomy | [əˈstrɒnəmi] | n天文学 | Physics and astronomy are cognate sciences.
+- astrology | [a'strnlad3i] | n.占星学；占星术 | Some who follow Chinese astrology expect it to be a good year.
+- astronaut | ['restram:t] | n.宇航员 | An American astronaut is beginning a year-long trip in space.
+- comet | [ˈkɒmɪt] | n.彗星 | The probes will travel with the comet for a full year.
+- meteorite | [ˈmiːtɪəˌraɪt] | n陨石 | He discovered an unusual meteorite.
+- crater | [ˈkreɪtə] | n. （撞击或爆炸形成的）坑 | They came to the lip of a dead volcanic crater.
+- dust | [dʌst] | n.尘土，灰尘，粉尘 | The mirror is covered with a film of dust.
+- ash | [æʃ] | n.灰烬 | Don’t drop your cigare ash on the carpet. Use an ashtray.
+- envelope | [ˈenvələʊp] | n.外襄物，外层 | The surface of the sun is a glowing gas envelope.
+- chunk | [ [tʃʌŋk]] | n厚块 | My mother bought a chunk of meat.
+- spacecraft | [ˈspeɪsˌkrɑːft] | n.宇宙飞船 | The spacecraft is orbiting the moon.
+- spaceship | ['spe1s,f 1p] | n.宇宙飞船 | The scientists are able to calculate accurately when the spaceship will reach the moon.
+- probe | [prəʊb] | n.太空探测器；详尽调查 | Their probe into the cause of the fire proved futile.
+- module | [ˈmɒdjuːl] | n. （航天器上各个独立的｝舱；模块 | A module is part of a space vehicle that can work independently.
+- propulsion | [prəˈpʌlʃən] | n.推进力 | This aircraft works by jet propulsion.
+- pressure | [ˈpreʃə] | n.压力 | We will never capitulate to pressure from outside.
+- dynamics | [daɪˈnæmɪks] | n.动力学；动态 | And our goal is to find out the dynamics of this problem.
+- motion | [ˈməʊʃən] | n.动作；移动 | Parts of the film were shown again in slow motion.
+- vent | [vent] | n.排气口 V.排放；发泄 | When gases and steam can get vented from a volcano’s cracks, it’s probably not about to erupt.
+- tail | [te1l] | n.尾部 | He drove into the back of my truck and smashed the tail light.
+- curve | [k3:v] | n曲线，弧线 | The stairs ascended in a graceful curve.
+- exploration | [ˌekspləˈreɪʃ(ə)n] | n.探索 | The Elizabethan age was a time of exploration and discovery.
+- expedition | [ˌɛkspɪˈdɪʃən] | n.远征，探险 | This is an expedition to find the beginning of the Yangtze River.
+- flyby | [ ˈflaɪbaɪ] | n. （航天器对行星或卫星的）飞掠 | Because of the flyby height, the plane resembles an increasingly big bird.
+- observatory | [ əbˈzɜːvətri] | n.天文台 | According to the observatory, there will be a total solar eclipse tomorrow.
+- telescope | [ ˈtelɪskəʊp] | n.望远镜 | What is the range of this telescope？
+- spectacle | [ ˈspektək(ə)l] | n.壮观的景象；奇观；［－s］眼镜 | The sunrise was a splendid spectacle.
+- orbit | [ˈɔːbɪt] | n.轨道 | The earth moves in an approximately circular orbit around the sun.
+- ecliptic | [ɪˈklɪptɪk] | n.黄道 | Five bright planets move among the stars near the ecliptic.
+- diameter | [daɪˈæmɪtə(r)] | n.直径 | The earth is slightly flat at the poles, so that the polar diameter is slightly less than the equatorial diameter.
+- radius | [ˈreɪdiəs] | n.半径 | They searched within one mile radius of the school.
+- substance | ['sAbstans] | n.物质；实质，要旨 | Is there a basic substance that everything else is made of？
+- composition | [ˌkɒmpəˈzɪʃ(ə)n] | n.成分，构成；作晶；创作 | Scientists study the composition of the soil.
+- compound | ['kɒmpaund] | n.混合物；化合物 adj.复合的，组合的 | English loves compound words:“washing machine
+- fossil | [ˈfɒsl] | n. 化石 | I know that the majority of the energy we consume comes from fossil fuel energy sources.
+- sample | [ˈsɑːmp(ə)l] | n.样品，样本 | I need nothing but a sample.
+- specimen | [ˈspesɪmən] | n.样品，标本 | The biologist brought out a specimen box and showed the items one by one.
+- particle | [ˈpɑːtɪk(ə)l] | n.颗粒，微粒；极小量 | There are particles of dust everywhere.
+- molecule | [ˈmɒlɪkjuːl] | n.分子 | There is a molecule separator in the lab.
+- atom | [ˈætəm] | n.原子 | A molecule of water is made up of two atoms of hydrogen and one atom of oxygen.
+- ion | [ˈaɪən] | n.离子 | Both of these particles can produce ion pairs.
+- electron | [ɪˈlektrɒn] | n.电子 | Electrons are negatively charged with electricity.
+- quantum | ['kwontgJn] | n.量子 | In this example, we employed the quantum mechanice principle.
+- circumstance |  | n.情况: 环境:条件 | 
+- liquid | [ˈlɪkwɪd] | adj.液态的 | If you add too much liquid, the mixture will not be thick enough.
+- fluid | [ˈfluːɪd] | n.液体，流体 adj.流动的 | When you are sick, you should drink plenty of fluids.
+- solid | [ˈsɒlɪd] | adj.固体的；牢固的 | The new office building has a very solid construction.
+- synthesise | [ˈsɪnθɪsaɪz] | v. 合成；综合 | Darwinian theory has been synthesised with modern genetics.
+- formation | [fɔːˈmeɪʃn] | n.形成 | In planet formation, as in adolescence, you’ve got your late bloomers.
+- method | [ˈmeθəd] | n.方法 | New methods of teaching foreign languages are adopted in this institute.
+- spectrum | [ˈspektrəm] | n.光谱；范围 | A spectrum is formed by a ray of light passing through a prism.
+- dimension | [daɪˈmenʃn] | n.范围；维（度） | A line has one dimension and a square has two.
+- frequency | [ˈfriːkwənsi] | n.频率；发生次数 | This radio signal has a frequency of 800 kilohertz.
+- signal | [ˈsɪɡnəl] | n.信号 | Her speech yesterday was a signal that her view has changed.
+- antenna | [ænˈtenə] | n.天线 | You should fix the television antenna before receiving programmes.
+- circuit | [ˈsɜːkɪt] | n.线路，电路；巡回 | For many years, he was top banana on the circuit.
+- refraction | [rɪˈfrækʃn] | n.折射 | Over water the diurnal change in refraction is likely to be small.
+- ultraviolet | [ˌʌltrəˈvaɪələt] | n.紫外辐射 adj.紫外线的 | The ozone layer absorbs most of the sun’s ultraviolet radiation.
+- radioactive | [ˌreɪdiəʊˈæktɪv] | adj.放射性的 | Nuclear energy gives millions heat, light, and power, just as it creates unwanted radioactive side effects.
+- distinct | [dɪˈstɪŋkt] | adj.明显的；截然不同的 | Those two ideas are quite distinct from each other.
+- discernible | [dɪˈsɜːnəb(ə)l] | adj.可辩别的，看得清的 | Night fell, but the outline of the factory buildings was still discernible.
+- invisible | [ɪnˈvɪzəb(ə)l] | adj.看不见的 | Some stars are invisible to the naked eye.
+- collision | [kəˈlɪʒ(ə)n] | n.碰撞事故；冲突 | He is responsible for the rear-end collision.
+- squash | [skwɒʃ] | v.压扁 n.璧球 | I sat on my hat and squashed it.
+- fragment | [ˈfræɡmənt] / [fræɡˈment] | n.. 碎片，片断 v.(使)破裂 | He was still in bad condition and could give only a fragmented account of the accident.
+- cataclysmic | [ˌkætəˈklɪzmɪk] | adj.剧变的；灾难性的 | One can readily trace the disappearance of dinosaurs to a cataclysmic event.
+- overwhelming | [ˌəʊvəˈwelmɪŋ] | adj.压倒性的 | The flood was overwhelming and the city was soon flooded.
+- despair | [dɪˈspeə(r)] | v.n.绝望 | This boy is his mother’s last despair.
+- desperate | [ˈdespərət] | adj.绝望的；极需要的 | The man lost in the desert was desperate for water.
+- hopeless | [ˈhəʊpləs] | adj.无望的；极差的 | He feels that his chances of winning the contest a re hopeless.

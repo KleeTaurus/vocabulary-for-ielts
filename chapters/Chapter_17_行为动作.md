@@ -1,0 +1,268 @@
+### Chapter 17 行为动作
+- bear | [beə(r)] | v.生（孩子）；窑忍；承担（责任） | They must bear most of the blame.
+- tap | [tæp] | v.轻拍，轻叩；开发 | He rigged a rubber hose to the tap in the kitchen.
+- respond | [rɪˈspɒnd] | v.回答：晌应，作出反应 | I offered him a drink but he didn’t respond.
+- react | [riˈækt] | v.作出反应，反应 | An acid can react with an alkali to form a salt.
+- reflect | [rɪˈflekt] | v.反映；反射 | Her look reflected the thought passing through her mind.
+- behave | [bɪˈheɪv] | v.表现；（机器等）运转 | The children must behave in a way which will be socially acceptable.
+- clap | [klæp] | v.拍手；轻拍 n.鼓掌 | Let’s give the children a big clap.
+- deed | [diːd] | n.行为；功绩；契约 | The primacy of the deed is over word and thought.
+- gaze | [ɡeɪz] | V.凝视，注视 | The child gazed at the toys in the shop window.
+- glance | [ɡlɑːns] | v.瞥，迅速看一眼 n.一瞥 | The man glanced at the burglar climbing out of the window.
+- glare | [ɡleə(r)] | V.怒目而视；发出强光 n.刺眼的光；怒视 | The glare of the oncoming headlights temporarily blinded me.
+- glimpse | [ɡlɪmps] | V.瞥见n一瞥 | I caught a glimpse of our new neighbour.
+- hasten | [ˈheɪsn] | v赶紧；促避 | It was now obvious that she was hastening to restore the car to its owner.
+- hurry | [ˈhʌri] | V.赶紧；催促 n.匆忙 | I’m in no hurry to get back to school.
+- peep | [piːp] | V.窥视，偷看n偷偷一瞥 | I peeped through the window to see if she wasthere.
+- reply | [rɪˈplaɪ] | vn.回答，答复 | He tried to reply and then stopped.
+- whistle | [ˈwɪs(ə)l] | n.口哨；哨子；汽笛声 v.吹口哨；吹哨子 | The referee blew the whistle at the end of thegame.
+- preach | [priːtʃ] | V.宣扬 | He was always preaching about the benefits of exercise and fresh air.
+- oath | [əʊθ] | n.誓言；宣誓 | He swore an oath to support and protect theking.
+- vow | [vaʊ] | n.誓约 v.发誓 | The couple made their wedding vows at St. Paul’sChurch.
+- pledge | [pledʒ] | n.保证，誓言 | The conflicts continued in spite of a no-strike pledge by the unions.
+- revive | [rɪˈvaɪv] | v. （使）苏醒；（使）复兴，（使）复活 | The fresh air soon revived him.
+- tease | [tiːz] | v取笑，嘲弄 | If you always tease others like that, you’ll forfeit the good opinion of your friends.
+- applaud | [əˈplɔːd] | v.鼓掌；称赞，赞许 | Everyone applauded when the play ended.
+- mock | [mɒk] | v.嘲笑，嘲弄 adj.模拟的,假装的 | They mocked at my timidity.
+- hug | [hʌɡ] | v.n.拥抱 | He hugged his daughter tightly.
+- nourish | [ˈnʌrɪʃ] | v.滋养，给......提供营养 | Milk could nourish a baby.
+- notify | [ˈnəʊtɪfaɪ] | v.通知，告知 | I notified him that the meeting had beenpostponed.
+- survive | [səˈvaɪv] | v.幸存；生存 | The man was very ill, but he survived.
+- adopt | [əˈdɒpt] | v.收养；采取，采用 | They adopted our effective methods.
+- urge | [ɜːdʒ] | V.催促，敦促n冲动 | They urged Washington to reconsider itsdecision.
+- argument | [ˈɑːɡjumənt] | n.辩论，争论；论点，论据 | We accepted the agreement without argument.
+- dispute | [dɪˈspjuːt] | vn.争论，辩论 | A long dispute means that both parties arewrong.
+- accustom | [əˈkʌstəm] | v.使习惯（于） | They had to accustom themselves to the hotweather.
+- assert | [əˈsɜːt] | v断言，坚称；坚持（自己）的主张 | Justice will assert itself.
+- peer | [pɪə(r)] | V.凝视，盯着看 n.同等地位的人，同辈 | The new postman peered through the mist, trying to find the right house.
+- support | [səˈpɔːt] | v.支撑；支持；供养 n.支持；帮助 | We should encourage and support them to participate in collective activities with friends, family, colleagues and support groups.
+- provoke | [prəˈvəʊk] | V.激怒，挑拨；引起 | Mind you. That dog is very dangerous when provoked.
+- explain | [ɪkˈspleɪn] | v.说明，解释 | He explained his plan in detail.
+- swear | [sweə(r)] | v诅咒，咒骂；发苔，保证 | He had to swear that his story was true.
+- mow | [məʊ] | n.干草堆 | I want to have my garden mowed.
+- exhale | [eksˈheɪl] | v.呼气，呼出 | Take a deep breath, then exhale slowly.
+- intake | [ˈɪnteɪk] | n吸入；摄取量；新招收者 | He heard a sharp intake of breath.
+- stare | [steə(r)] | v.凝视，盯着看 | He stared at the word, trying to remember what it meant.
+- contemplate | [ˈkɒntəmpleɪt] | v.凝视；沉思；考虑 | The young surgeon contemplated the difficult operation of kidney transplant.
+- quarrel | [ˈkwɒrəl] | vn.吵架，争论 | We had a quarrel about the price.
+- mention | [ˈmenʃn] | vn.提及，说起 | As for that film you mention, not my scene.
+- scold | [skəʊld] | V.责骂，斥责 | Don’t scold the child without reason.
+- curse | [kɜːs] | V.诅咒；咒骂n咒语：咒骂话 | A light purse is a heavy curse.
+- boast | [bəʊst] | v.n.自夸，吹嘘 | Nobody should boast of his knowledge.
+- touch | [tʌtʃ] | v.触摸；触动 n.触觉；接触 | By the way, you don’t want to touch the onion and then touch your eyes.
+- act | [ækt] | v.行动 n.行为 | Dreaming is one thing but acting is another.
+- kneel | [niːl] | V.跪，跪下 | The man knelt down to say his prayer.
+- penetrate | [ˈpenətreɪt] | V.刺入，穿透；渗透；洞察 | Western ideas penetrate slowly through the East.
+- pierce | [pɪəs] | V.刺穿，刺破，穿透；使心如刀割 | The needle pierced the material.
+- trail | [treɪl] | V. （使）拖在后面；跟踪n踪迹 | The carriage drove along a dirt road and left a trail of dust.
+- wrap | [ræp] | V.裹，包；用......缠绕 | Over her shoulders was a much-mended wrap.
+- promise | [ˈprɒmɪs] | n.诺言 v.承诺 | I hope you’ll keep your promise to come for a long visit.
+- combine | [kəmˈbaɪn] | V. （使｝联合，（使）结合 | Carbon, hydrogen and oxygen can combine to form carbohydrates and fats.
+- rotate | [rəʊˈteɪt] | v. （使）旋转，（使）转动 | You can rotate the wheel with your hand.
+- stake | [steɪk] | n.赌注；桩 v.以……打赌 | I’d stake my all on it.
+- peel | [piːl] | V. 剥落；掉漆；脱皮 | She threw the banana peel into the trash can.
+- loosen | [ˈluːsn] | v解开，松开；放宽（限制等） | My belt is too tight. I must loosen it.
+- catch | [kætʃ] | v捉住；赶上；领会 | It is natural for a cat to catch mice.
+- connect | [kəˈnekt] | v.（使｝连接；（使）接通（电源等） | Has the phone been connected yet?
+- fasten | [ˈfɑːs(ə)n] | v.拍牢，系牢，缚紧 | Please fasten your seat belts while the plane is taking off.
+- follow | [ˈfɒləʊ] | v.跟随；是......的必然结果；遵循 | You are to follow his advice.
+- grip | [ɡrɪp] | n.紧握，抓牢；理解，了解 | She has a fragile grip on reality.
+- insert | [ɪnˈsɜːt] | v插入，嵌入n插入物 | He inserted the key into the lock but could not open the door.
+- polish | [ˈpɒlɪʃ] | V.擦光，擦亮；使完美，改选 | Silver can be easily polished with this special cloth.
+- scatter | [ˈskætə(r)] | v.撒；（使）散开 | The crowd scattered when a dustbin suddenly exploded.
+- scrape | [skreɪp] | n.刮；擦伤 | The family has to scrape by on social security.
+- scratch | [skrætʃ] | v.擦破，刮坏；搔 n.乱涂；划痕，擦伤 | He scratched the insect bite on his arm.
+- shake | [ʃeɪk] | v.摇动，（使）颤动 n.摇动，颤动 | The movie didn’t give me any kind of shake.
+- split | [splɪt] | V. （使）开裂；（使）分裂；（使）分开 | The crowd split into several groups.
+- sway | [sweɪ] | V. （使）摇摆，（使）摆动，｛使｝摇晃 | Swaying hips properly is the basis of the heel- and-toe walking race.
+- twist | [twɪst] | v.拧，扭；使缠绕 n.拧，扭动 | Twist the lid to open it.
+- vibrate | [vaɪˈbreɪt] | V. （使）振动，（使）摇摆 | Some insects’ wings vibrate so fast that the movement is invisible to the human eye.
+- whirl | [wɜːl] | V. （使）回旋n回旋 | He whirled about in the yard.
+- wipe | [waɪp] | V.揩，擦 | She wiped off the dust with a rag.
+- smash | [smæʃ] | V.打碎；（使）猛烈撞击；（打球时）扣球 | Although the bed was smashed to pieces, theman was miraculously unhurt.
+- nightmare | [ˈnaɪtmeə(r)] | n.噩梦，梦魔 | This midterm exam is a nightmare.
+- collide | [kəˈlaɪd] | V.碰撞；抵触 | In running round the corner, he collided with another man.
+- grab | [ɡræb] | V.抓住，攫取；（匆忙地）取 | She grabbed the seat near the fire before Icould.
+- tow | [təʊ] | n.牵引 | We towed the car to the garage.
+- arrange | [əˈreɪndʒ] | v.安排，整理，使有条理 | Contact your local branch to arrange an appointment.
+- overtake | [ˌəʊvəˈteɪk] | v.追上，超过；（情感等）压倒 | I had to drive very fast to overtake you.
+- manipulate | [məˈnɪpjuleɪt] | V. （熟练地操作；操纵 | He uses his credit to manipulate his supporters.
+- tilt | [tɪlt] | V. （使｝倾斜，（使）歪斟 | I tilted the cup to drink out of it.
+- contact | [ˈkɒntækt] | n.v.接触，联系 | This remote tribe had little contact with the outsideworld.
+- attract | [əˈtrækt] | v.吸引；引起 | She was attracted by the novel advertisement.
+- steer | [stɪə(r)] | v.为（船）操舵，驾驶（船、车等）；操纵 | He steered the ship carefully among the reefs.
+- mess | [mes] | n.混乱，脏乱 V.弄乱 | Your books and magazines are all in a mess; go and put them in order.
+- bond | [bɒnd] | n.戳合；（感情的）纽带 | A company issues a bond to collect money and will pay back with interest.
+- baptise | [ˌbæpˈtaɪz] | v.给......施行洗礼（或浸礼） | It transpired that Mark had been baptised a Catholic.
+- bet | [bet] | V.下注，打赌；敢说 n.打赌；赌注 | I bet our team will win.
+- gamble | [ˈɡæmb(ə)l] | vn.赌博；冒险 | Don’t gamble with your future.
+- obsess | [əbˈses] | v. （使）痴迷，（使）心神不宁 | He became absolutely obsessed with the girl inred.
+- mesmerise | [ˈmezməraɪz] | v.吸引，迷住 | I stood by the lake, mesmerised by the flashing colours of the fish.
+- snatch | [snætʃ] | v.一把抓住，迅速夺取 | He snatched the book from my hands.
+- grasp | [ɡrɑːsp] | v，抓牢，握紧；完全理解，全面领会 | Your books and magazines are all in a mess; go and put them in order.
+- shuffle | [ˈʃʌf(ə)l] | n.洗牌 | With sore legs and aching chest, he shuffled over to the bathroom.
+- integrate | [ˈɪntɪɡreɪt] | V. （使）成为一体，｛使）合并 | Little attempt was made to integrate the parts into a coherent whole.
+- fold | [fəʊld] | v.折叠，对折 | She folded the letter so that it would fit into her bag.
+- reel | [riːl] | v. 眩晕，混乱 | My head reeled with the facts and figures.
+- assure | [əˈʃʊə(r)] | V.向......保证；保证；保险 | I can assure you of the reliability of the news.
+- convince | [kənˈvɪns] | v使确信，使信服；说服 | He finally convinced us of his innocence.
+- amaze | [əˈmeɪz] | v.使惊奇，使惊愕 | John amazed his friends by suddenly gettingmarried.
+- annoy | [əˈnɔɪ] | v.使恼怒；打扰 | Sometimes, we annoy or upset others unintentionally.
+- astonish | [əˈstɒnɪʃ] | v.使惊讶 | We were astonished to hear that their football team had won the championship.
+- contempt | [kənˈtempt] | n.轻视，藐视 | A liar is held in contempt.
+- desire | [dɪˈzaɪə(r)] | n.愿望，欲望 v.渴望，期望 | He desired a college education.
+- neglect | [nɪˈɡlekt] | v.n.忽视，忽略 | In course of time, old customs and observances tend to fall into neglect.
+- distribute | [dɪˈstrɪbjuːt] | v.分发，分配 | His part-time job on Sunday was to distribute leaflets on the street.
+- disguise | [dɪsˈɡaɪz] | v.掩饰；假扮，伪装 n.假扮；伪装物 | The spy disguised herself as a nurse.
+- tempt | [tempt] | v. 引诱，诱惑；怂恿 | Apply generous amounts of sunscreen 15 minutes before you go out—don’t allow impatience to tempt you into sunburn.
+- undertake | [ˌʌndəˈteɪk] | V.承担；许诺，保证 | The developed countries should undertake the main responsibilities of global warming.
+- undo | [ʌnˈduː] | v.解开，打开；取消 | He finally managed to undo this knot.
+- wish | [wɪʃ] | v.想要（某事发生） n.希望 | I wish it to be clearly understood.
+- intervene | [ˌɪntəˈviːn] | v插话；干扰；平涉 | I shall leave on Sunday if nothing intervenes.
+- deviate | [ˈdiːvieɪt] | V.偏离，背离 | His statement deviates from the truth.
+- designate | [ˈdezɪɡneɪt] | v.指明；选派，指派 | He designated Smith as his successor.
+- smuggle | [ˈsmʌɡ(ə)l] | v.走私，偷运 | He was caught smuggling cameras into the country.
+- marvel | [ˈmɑːvl] | n.奇迹 | I marvel at how it can be so.
+- yearn | [jɜːn] | v.渴望，向往 | The children who had been abducted and sold yearned to return to their homes.
+- bewilder | [bɪˈwɪldə(r)] | v.使迷惑，使不知所措 | A new environment can be wilder and frighten a child.
+- flee | [fliː] | v.逃避，逃离 | Follow love and it will flee, flee love and it will follow thee.
+- induce | [ɪnˈdjuːs] | v.引诱，劝说 | Nothing shall induce me to join their club.
+- kidnap | [ˈkɪdnæp] | v.绑架，劫持 | A businessman has been kidnapped.
+- disregard | [ˌdɪsrɪˈɡɑːd] | v.不顾，漠视 n.忽视，漠视 | Disregarding all difficulties, we succeeded in bringing them around in the end.
+- expel | [ɪkˈspel] | v.驱逐；开除；排出 | The pupil was expelled for stealing.
+- massacre | [ˈmæsəkə(r)] | n.v.残杀，屠杀 | The massacre of Jews by Nazi in World War II was appalling.
+- bait | [beɪt] | n.诱饵；诱惑物 | He is known for baiting his opponents.
+- conceal | [kənˈsiːl] | V.隐藏，掩盖 | He was unable to conceal his surprise.
+- reverse | [rɪˈvɜːs] | v.颠倒，彻底改变；撤销 n.相反的情况；反面 adj.相反的 | He reversed the judgement and set the prisoner free.
+- refuse | [rɪˈfjuːz] | v.拒绝；回绝 | Jonah’s mother refused to let him go abroad.
+- assign | [əˈsaɪn] | V.布置；分配；指定；确定 | It is not possible to assign this building an exact date.
+- invoke | [ɪnˈvəʊk] | v.唤起（感情等）；向......祈求帮助；恳求 | The man despaired and invoked the gods.
+- exclude | [ɪkˈskluːd] | v把......排除在外；拒 | They excluded people under 18 from joining the club.
+- convict | [kənˈvɪkt] | n. 8决犯 | He was convicted of murder.
+- panic | [ˈpænɪk] | n.惊恐，惊慌 v.（使）惊恐，（使）惊慌 | When the theatre caught fire, there was apanic.
+- bias | [ˈbaɪəs] | v.使有偏见，使偏心 n.偏见，俑，心 | His experiences bias him against businessmen.
+- irony | [ˈaɪrəni] | n反话；有讽刺意昧的情形 | The irony is that some of the poorest countries have the richest natural resources.
+- involve | [ɪnˈvɒlv] | v. （使｝参加；牵涉 | This forum will involve people with specialistknowledge.
+- upset | [ˌʌpˈset] | v.使心烦意乱，使生气；搅乱；打翻 | I hope I haven’t said anything to upset you.
+- indignity | [ɪnˈdɪɡnəti] | n.侮辱，轻蔑 | The soldiers who were captured had to endure many indignities at the hands of the enemy.
+- ignorance | [ˈɪɡnərəns] | n.无知，愚昧 | Where ignorance is bliss, ’tis (= it is) folly to be wise.
+- stipulate | [ˈstɪpjuleɪt] | v规定，明确要求；保证 | We have stipulated a date of payment and aprice.
+- reassure | [ˌriːəˈʃʊə(r)] | v.使安心，使放心 | When the child was afraid in the storm, his parents reassured him.
+- aspire | [əˈspaɪə(r)] | v.有志于，渴望 | These college graduates aspire to careers infinance.
+- terrify | [ˈterɪfaɪ] | v.使恐惧，使非常害怕 | Her husband’s violence terrified her.
+- revenge | [rɪˈvendʒ] | n.报仇，复仇 v.向......报仇 | Hamlet took revenge for his father’s murder.
+- hijack | [ˈhaɪdʒæk] | v.劫持（飞机或真他交通工具） | The terrorists hijacked the plane and held all the passengers hostage.
+- strangle | [ˈstræŋɡl] | v.扼杀，压制；勒死，扼死 | The economist argues that high taxation strangles the economy.
+- decimation | [ˌdesɪˈmeɪʃn] | n.大批杀死，大量毁灭；大大削弱 | Those policies resulted in a decimation of essential services used by the poor.
+- impede | [ɪmˈpiːd] | v.妨碍，阻止 | Nothing can impede his progress.
+- allure | [əˈlʊə(r)] | v. 吸引，引诱 | Those unwary investor s are allured by promises of quick profits.
+- despatch | [dɪˈspætʃ] | v.派遣，调派；迅速处理 | He despatched his breakfast and left.
+- detach | [dɪˈtætʃ] | v. （使｝分开，｛使）分离；派遣 | He had to detach himself from social activities for the time being in order to concentrate on his studies.
+- bully | [ˈbʊli] | v. 恐吓，欺凌 n. 恃强凌弱者 | He’s always bullying smaller boys.
+- range | [reɪndʒ] | v.（在一定幅度内）变动 | A range of hills rose on our left.
+- restore | [rɪˈstɔː(r)] | v.恢复；归还；修复 | It’s hard to restore a broken mirror.
+- clear | [klɪə(r)] | adj.清晰的；明显的v清除 | It seems clear that he has no reasonable alternative.
+- exaggerate | [ɪɡˈzædʒəreɪt] | v.夸张，夸大 | A painter may exaggerate or distort shapes and forms.
+- explore | [ɪkˈsplɔː(r)] | v.勘查，考察；探讨 | We must explore all the possibilities to find the solution to the problem.
+- cope | [kəʊp] | v.应付，处理 | I’m afraid I can’t cope with these troubles.
+- amplify | [ˈæmplɪfaɪ] | v.增强；扩大（声音）；充实（陈述等） | The student amplified his new findings with drawings and figures.
+- conduct | [kənˈdʌkt; ˈkɒndʌkt] | v.避行，实施 n.举止，行为 | His conduct contradicts his words.
+- effort | [ˈefət] | n.努力；努力的成果 | Our efforts were unavailing.
+- enlarge | [ɪnˈlɑːdʒ] | v.扩大，扩展；放大（照片或文件｝ | This photograph probably won’t enlarge well.
+- exert | [ɪɡˈzɜːt] | v.运用，行使；施加 | For college students, to do a part-time job will exert a profound influence on their personality andlife.
+- fulfil | [fʊlˈfɪl] | v.履行，实现；完成；满足 | We are determined to fulfil the task.
+- gain | [ɡeɪn] | v.获得；增加 n.增加；改造 | Every time they reap gains from their investment, more people wish to join them.
+- offer | [ˈɒfə(r)] | n.给予（物）；提议 v.提供；出（价） | They reject all our offers to help.
+- raise | [reɪz] | v.举起；引起；抚养；提高；筹募 | Please raise your hand if you’ve been told you’re too aggressive at work.
+- resort | [rɪˈzɔːt] | v.求助于，采取，诉诸 n.(度假）胜地 | I’m sorry you have resorted to deception.
+- supply | [səˈplaɪ] | v.供给，供应，提供 n.供应量；［supplies］补给晶 | Domestic consumers were supplied enough necessities by those companies.
+- cancel | [ˈkæns(ə)l] | v.取消；废除 | The match had to be canceled due to the badweather.
+- delete | [dɪˈliːt] | v.删除，删掉 | References to places of battle were deleted from soldiers’letters during the war.
+- omit | [əˈmɪt] | v.遗漏；省略；删去 | The secretary omitted the date when typing the contract.
+- sort | [sɔːt] | n.种类，类别 v.把......分类 | We must sort out the good apples from the badones.
+- dispose | [dɪˈspəʊz] | v.布置，安排 | I have to dispose of this pile of old papers and magazines.
+- rectify | [ˈrektɪfaɪ] | v纠正，矫正，改正 | I hope I can find a way to rectify your opinion of my behaviour.
+- commence | [kəˈmens] | v开始，着手 | I will commence a round of visits.
+- offset | [ˈɒfset] | v.n.补偿；抵消 | He offset his small salary by living economically.
+- uphold | [ʌpˈhəʊld] | v.支持，维护；维持 | The appeal court upheld the sentence.
+- propel | [prəˈpel] | v.推动，驱使；推进 | His addiction to drugs propelled him towards a life of crime.
+- magnify | [ˈmæɡnɪfaɪ] | v.放大；夸大 | Fame is a magnifying glass.
+- prolong | [prəˈlɒŋ] | v.延长 | We must prolong the runway of the airfield.
+- replenish | [rɪˈplenɪʃ] | v.重新装满，补充 | Your body is in survival mode and needs food to replenish its energy.
+- obtain | [əbˈteɪn] | v获得，得到 | It is wise to obtain an independent valuation.
+- recover | [rɪˈkʌvə(r)] | v.重新拿回；恢复健康；（从不愉快的经历申）复原 | She soon recovered and stopped crying.
+- exploit | [ɪkˈsplɔɪt] | v.开发，开采，开拓 | They plan to exploit oil under the sea.
+- attempt | [əˈtempt] | v.尝试，试图 n.尝试，企图 | He studied hard in an attempt to pass the exam.
+- launch | [lɔːntʃ] | v.发射；发布，推出；发起（运动等） | Full market research is needed before a new product is launched.
+- tackle | [ˈtæk(ə)l] | v.处理，应对，解决 n.用处，器材 | Everyone has their own problems to tackle.
+- erase | [ɪˈreɪz] | v.清除；抹去 | Jim tried to erase the idea from his mind.
+- itch | [ɪtʃ] | v.发痒；渴望 n.痒；渴望 | I’ve got an itch on my back.
+- strive | [straɪv] | v.努力，奋斗 | With the power of will and wisdom, we can strive for victory.
+- loom | [luːm] | v.（庞然大物或形状模糊之物）隐现；逼近 n.织布机 | A hard struggle looms ahead.
+- redeem | [rɪˈdiːm] | v.赎回；挽回，补偿；兑现 | You botched the last job but can redeem yourself on this one.
+- render | [ˈrendə(r)] | v.给予，提供；翻译 | You have rendered great service.
+- augment | [ɔːɡˈment] | v.扩大，增加，加强，提高 | With the birth of his third son, he found it necessary to do something to augment his income.
+- backup | [ˈbækʌp] | n.后援，支持；（文件等的）备份 adj.备用的 | Make a backup of any work you do on the computer.
+- update | [ˌʌpˈdeɪt] | v.更新；使现代化 | Our e-mail addresses are unlikely to be updated every day.
+- rescue | [ˈreskjuː] | v.n. 营救，救援 | They rescued the boy who fell into the river.
+- celebrate | [ˈselɪbreɪt] | v，庆祝（节目、事件等） | They all passed the exam and celebrated with a party.
+- seek | [siːk] | v.寻找；寻求 | They are seeking the most reasonable diet which will do good to their health.
+- specify | [ˈspesɪfaɪ] | V.具体指定，详细说明 | Can you specify the reasons?
+- objective | [əbˈdʒektɪv] | n.宗旨；目标 adj.客观的 | My objective this summer is to learn to swim.
+- welcome | [ˈwelkəm] | int.n. v.欢迎 | We welcome constructive criticism.
+- regard | [rɪˈɡɑːd] | n.尊重；问候 v.看待 | You can’t regard him as a friend but a business associate.
+- worship | [ˈwɜːʃɪp] | n. （对上帝或棉的）崇拜，礼拜；爱慕 v.做礼拜 | There is no excuse for trespassing on private property.
+- accord | [əˈkɔːd] | v. （与.....，）－致；给予n协议 | The government and the rebels are in accord on one point.
+- arouse | [əˈraʊz] | v唤起，激起，引起 | The young man’s behaviour aroused the suspicions of the police.
+- bless | [bles] | v.祝福，为......析求上帝保佑 | It is more blessed to give than to receive.
+- congratulate | [kənˈɡrætʃəleɪt] | V祝贺，向……道贺 | We must congratulate you on your engagement.
+- correspond | [ˌkɒrəˈspɒnd] | v.符合，相一致；通信 | These goods don’t correspond with my order.
+- deserve | [dɪˈzɜːv] | v. 应得；应受 | You deserve a reward for being so helpful.
+- drop | [drɒp] | v. （使）落下；（使）降低；和“…·断绝联系 n.滴 | In the winter, the temperature often drops below freezing.
+- greet | [ɡriːt] | V，向……问好，迎接；对......作出反应 | The audience greeted his speech with a greatcheer.
+- impress | [ɪmˈpres] | v.给......深刻印象；使铭记 | His courage and determination impressed his rivals.
+- incline | [ɪnˈklaɪn] | v. （使）倾向于；（使）倾斜 n.斜坡；倾斜 | What he said inclines me to think that he will agree to our plan.
+- leak | [liːk] | v.泄漏 n.漏洞,裂缝 | A small leak will sink a great ship.
+- lean | [liːn] | v.（使）倚靠；倾斜 adj.瘦的；贫乏的 | She leaned against his shoulder.
+- recall | [rɪˈkɔːl] | v.回忆，回想起 | Recall the misery of the past and contrast it with the happiness of today.
+- recollect | [ˌrekəˈlekt] | v.记起，想起 | I can recollect hearing his speech.
+- replace | [rɪˈpleɪs] | V.代替，取代 | We’ll get someone or other to replace him.
+- retell | [ˌriːˈtel] | v.重新讲述，复述 | The student was asked to retell the story in his own words.
+- salute | [səˈluːt] | V. （向……）行礼；致敬 n.行礼；致敬 | They saluted each other by raising their hats.
+- sideways | [ˈsaɪdweɪz] | adv.向（或从、往）一侧 | The dog swatted the hedgehog sideways.
+- sink | [sɪŋk] | v. （使）下沉；下降 | The captain of the sinking ship used flares to attract the attention of the coastguard.
+- substitute | [ˈsʌbstɪtjuːt] | v.替换 n.代用品；代替者；替补（运动员） | We recommend this brand as a good substitute.
+- verify | [ˈverɪfaɪ] | v证实；核实，查清 | He tried in every way to verify this theory.
+- testify | [ˈtestɪfaɪ] | v.作证；证明 | I won’t testify against my friend.
+- trigger | [ˈtrɪɡə(r)] | v. 引发，触发 n.（枪等的）扳机 | He accidentally triggered his revolver.
+- enlighten | [ɪnˈlaɪt(ə)n] | V.启发，开导，启迪 | For all my effort to enlighten her, she was still all adrift.
+- Trench | [trentʃ] | v. 掘沟于；砍除 n. 沟，渠，壕沟 | The firemen successfully trenched the roof, preventing the fire from spreading further down theblock.
+- saturate | [ˈsætʃəreɪt] | v.使饱和，使充满；浸透 | The air was saturated with the perfume of the flowers.
+- distinguish | [dɪˈstɪŋɡwɪʃ] | v.区别，拂别；使出众，使著名 | Some people cannot distinguish between some colours.
+- attribute | [əˈtrɪbjuːt] | v.把……归因于 n.属性，特性 | David attributed his company’s success to theunity of the staff and their persevering hard work.
+- purpose | [ˈpɜːpəs] | n.目的 | Their purpose is to build a fair society and a strong economy.
+- retrieve | [rɪˈtriːv] | v.取回；挽回 | Henry did his best to retrieve the situation.
+- differentiate | [ˌdɪfəˈrenʃieɪt] | v.区分，区别；差别对待 | This company does not differentiate between men and women—they employ and pay both equally.
+- remind | [rɪˈmaɪnd] | v.提醒，使想起 | These photos remind me of my childhood.
+- seep | [siːp] | v.渗出，渗漏 | Rain seeped through the roof.
+- plummet | [ˈplʌmɪt] | v.垂直掉下；（价格、水平等）骤然下跌 | The damaged aircraft plummeted down toearth.
+- sake | [seɪk] | n.理由，目的 | You should take care of your niece for the sake of your sister.
+- evacuate | [ɪˈvækjueɪt] | v.疏散，撤离 | The village was evacuated because of the threat of a flood.
+- flatter | [ˈflætə(r)] | v.奉承，讨好，向......滔媚 | He flattered her on her cooking.
+- forgive | [fəˈɡɪv] | v.原谅，宽恕，饶恕 | I’ll never forgive you for what you have done wrong to my friend.
+- cause | [kɔːz] | n原因,理由；事业 | Police are investigating the likely cause of theexplosion.
+- impart | [ɪmˈpɑːt] | v.传授；透露 | She imparted the secret to her boyfriend.
+- muffle | [ˈmʌfl] | V.使（声音）减弱 | The sound of the bell was muffled by the curtains.
+- overshadow | [ˌəʊvəˈʃædəʊ] | v遮蔽；使黯然失色 | He overshadowed all his competitors.
+- invite | [ɪnˈvaɪt] | v. 邀请 | She invited us to her party.
+- participate | [pɑːˈtɪsɪpeɪt] | v，参加，参与 | If only I could participate in your good fortune.
+- farewell | [ˌfeəˈwel] | int.再会n告别 | The girl had come on the pretext of bidding him farewell.
+- assort | [əˈsɔːt] | v.把......分类；相配，协调 | His actions do not assort with his promises.
+- repeat | [rɪˈpiːt] | v.重复 adj.再次光顾的 | A large proportion of our bookings come from repeat business and personal recommendation.
+- retrospect | [ˈretrəspekt] | n. [in－］回顾 | It was, in retrospect, the happiest day of herlife.
+- surmount | [səˈmaʊnt] | v.克服；置于......顶端 | The hill is surmounted by a church.
+- mortify | [ˈmɔːtɪfaɪ] | v.使难堪，使羞愧 | He was mortified by his inability to answer thequestion.
+- pervade | [pəˈveɪd] | v.弥漫，渗透，遍及 | The smell of cooking pervaded the entirehouse.
+- spill | [spɪl] | v.使）溢出 | The teacup is so full that the tea might spillover.
+- ooze | [uːz] | v.渗出；洋溢着 | Blood oozed from his wound.
+- contain | [kənˈteɪn] | v.包含，容纳；抑制（感情） | The speech contained some interesting ideas.

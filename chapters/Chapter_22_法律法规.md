@@ -1,0 +1,118 @@
+### Chapter 22 法律法规
+- law | [lɔː] | n. 法律；规律；定理 | Those who break the law are subjected to justice.
+- legal | ['li:gal] | adj. 法律的；合法的 | When you are 18, you are a legal voter.
+- rule | [ ˌreɡjuˈleɪʃn ] | n. 规则 v. 统治 | It’s against the rules to pick up the ball.
+- regulation | [ ˌreɡjuˈleɪʃn ] | n. 规则，规定；管理 | The rules and regulations should be made clear to all employees.
+- treaty | [ˈtriːtɪ] | n. 条约；协议 | In the treaty, both sides pledge to respect human rights.
+- agreement | [əˈɡriːmənt] | n. 协定；同意 | The agreement has raised hopes that the war may end soon.
+- charter | [ˈtʃɑːtə] | n. 宪章 v. 租，包（船、军、飞机等） | The rights of our citizens are granted by the charter.
+- protocol | [ˈprəʊtəˌkɒl] | n. 议定书，协议；礼仪 | Do we need to sign a contract or follow any protocol？
+- norm | [nɔːm] | n. 标准；［～s］行为准则，规范 | You must adapt to the norms of the society you live in.
+- benchmark | [ˈbɛntʃˌmɑːk] | n. 基准，水准点 | Her performances set a new benchmark for dancers throughout the world.
+- criteria | [kraɪˈtɪərɪə] | n. [criterion 的复数形式］标准，准则 | We each have our own criteria for success.
+- standard | [ˈstændəd] | n. 标准 | This piece of work does not come up to your usual standard.
+- allow | [əˈlaʊ] | v. 允许，准许 | They did not allow the slaves any freedom.
+- admission | [ədˈmɪʃ(ə)n] | n. 承认；入场费；准许进入 | He gained admission into the association.
+- perform | [pəˈfɔːm] | v. 履行，执行 | They always perform their duties faithfully.
+- enforce | [ɪnˈfɔːs] | v. 强制执行，强行实施；迫使 | The police are there to enforce the law.
+- default | [dɪˈfɔːlt] | v. 不支付，不履行 n. 违约；默认值 | The company has already been in default on its loans.
+- reject | [rɪˈdʒekt] | v.拒绝接受；摒弃 | The board of directors rejected the proposal as a non-starter.
+- constraint | [kənˈstreɪnt] | n. 约束，限制；克制 | He felt constraint when in her presence.
+- official | [əˈfɪʃ(ə)l] | adj. 正式的，官方的 | The mass media demanded that all the official documents concerning the product in question be made public.
+- mandatory | [ˈmændətəri] | adj. 法定的，强制的 | A reply to this letter is mandatory.
+- potent | [ˈpəʊtnt] | adj. 很有效的，强有力的 | The medicine had a potent effect on your disease.
+- bound | [baʊnd] | adj. [be ~ to］一定会，很可能会，有义务 | You are not legally bound to answer these questions.
+- obligation | [ˌɒblɪˈɡeɪʃ(ə)n] | n. 义务，责任 | We are under an obligation to help.
+- court | [kɔːt] | n.法院；庭院 | The company is anxious to keep the whole case out of court.
+- supreme | [suːˈpriːm] | adj. 最高的；最大的 | He was the supreme leader of that fascist dictatorship.
+- enact | [ɪˈnækt] | v. 通过（法律）；表演 | This country has just enacted a law allowing same-sex marriage.
+- legislate | [ˈledʒɪsleɪt] | v. 立法，制定（或通过）法律 | The government will legislate against discrimination in the workplace.
+- equity | [ˈekwəti] | n. 公平 | They call for laws to promote gender equity.
+- fair | [feə(r)] | adj. 公平的，公正的 | He won the game fair and square.
+- just | [dʒʌst] | adj. 公正的；正义的 adv. 刚刚；仅仅 | Our aim is a just and lasting peace.
+- prejudice | [ˈpredʒədɪs] | n. 偏见，成见 | A judge must be free from prejudice.
+- discrimination | [dɪˌskrɪmɪˈneɪʃn] | n. 歧视 | He is opposed to racial discrimination.
+- accuse | [əˈkjuːz] | v.控告，指责 | The police accused him of murder.
+- sue | [suː] | v. 控告，提起诉讼；提出请求 | The company is suing the former president.
+- prosecute | [ˈprɒsɪkjuːt] | v.检举，起诉 | He was prosecuted for robbery.
+- condemn | [kənˈdem] | v.谴责，指责 | Most people would condemn violence of any sort as evil.
+- complain | [kəmˈpleɪn] | v.抱怨；投诉 | She complained that the room is too cold.
+- boycott | [ˈbɔɪkɒt] | n.v. 抵制，拒绝购买 | They boycott all products tested on animals.
+- session | [ˈseʃ(ə)n] | n. 会议；会期 | The general session approved the report of the investigation committee.
+- mediate | [ˈmiːdieɪt] | v. 斡旋，调解 | He mediated a settlement between labour and management.
+- plea | [pliː] | n. 辩解理由，借口；请求 | His plea was that he did not see the stop signal.
+- appeal | [əˈpiːl] | v.n. 呼吁；申诉 | The response to our appeal was encouraging.
+- contradict | [ˌkɒntrəˈdɪkt] | v.反驳；与......矛盾 | Your actions contradict your belief.
+- persuade | [pəˈsweɪd] | v. 说服；使相信 | The woman persuaded the robber to turn himself in.
+- controversy | [ˈkɒntrəvɜːsi] | n. 争议；辩论 | The new traffic regulations caused much controversy among drivers.
+- whisper | [ˈwɪspə(r)] | v. 低声说；私下谈论 | The children were whispering in the corner.
+- mutter | [ˈmʌtə(r)] | v.轻声低语；小声抱怨 | That man muttered his dissatisfaction.
+- murmur | [ˈmɜːmə(r)] | v. 低声说 n. 咕哝，低语 | There was a low murmur of conversation in the hall.
+- silent | [ˈsaɪlənt] | adj. 沉默的；寂静无声的 | He couldn’t speak English and was completely silent during the visit.
+- mute | [mjuːt] | adj. 缄默的；哑的；无声的 n. 哑巴 | She kept herself mute at the meeting.
+- investigate | [ɪnˈvestɪɡeɪt] | v. 调查 | To investigate a problem is, indeed, to solve it.
+- witness | [ˈwɪtnəs] | n. 目击者，见证人 v. 目击 | Children in regions of chaos and bloodshed are witnessing a disturbing amount of violence.
+- justify | [ˈdʒʌstɪfaɪ] | v. 为......辩护，证明……正当 | Don’t try to justify your mistakes.
+- reasonable | [ˈriːznəbl] | adj. 合理的；理智的 | At first sight, their reaction was reasonable.
+- suitable | [ˈsuːtəb(ə)l] | adj. 合适的，适宜的 | The authorities must provide suitable accommodation for the family.
+- item | [ˈaɪtəm] | n. 一项项目，条目 | This is the next item on the agenda.
+- permit | [pəˈmɪt] | v. 允许，准许 | Those words hardly permit doubt.
+- judge | [dʒʌdʒ] | n. 法官；裁判员 | The defence counsel said his client was too tired, so the judge called a recess.
+- jury | [ˈdʒʊəri] | n.陪审团；（比赛的）评判委员会 | The jury will retire to consider its verdict today.
+- trial | [ˈtraɪəl] | n. 试验；审判 | I noticed that his report was highly critical of the trial judge of this case.
+- suspect | [səˈspekt] | n. 嫌疑犯 v. 怀疑 | The police couldn’t prove that the suspect is guilty.
+- sentence | [ˈsentəns] | n. 判决 v. 宣判 | He stood emotionless as he heard the judge sentence him to 20 years in prison.
+- arrest | [əˈrest] | v. 逮捕；吸引（注意） n. 逮捕 | You shouldn’t arrest him without an arrest warrant.
+- jail | [dʒeɪl] | n.监狱 v.监禁 | A bunch of prisoners broke loose from jail.
+- prison | [ˈprɪz(ə)n] | n.监狱；监禁 | Many people believe that prison isn’t a cure for crime.
+- confine | [kənˈfaɪn] | n. [~s] 边界，范围 v.限制；监禁 | This is outside the confines of human knowledge.
+- oversee | [ˌəʊvəˈsiː] | v. 监督，监管 | You must employ someone to oversee the project.
+- supervise | [ˈsuːpəvaɪz] | v.监督，管理，指导 | This kind of project ought to be supervised by management.
+- restrict | [rɪˈstrɪkt] | v. 限制，限定；约束 | Don’t restrict their proper activities.
+- restrain | [rɪˈstreɪn] | v. 抑制；制止 | I can’t restrain my anger when I hear of someone being cruel to animals.
+- commit | [kəˈmɪt] | v. 犯（罪），做（坏事） | He who commits a fault thinks everyone speaks ofit.
+- sin | [sɪn] | n. 罪孽 v. 犯戒律 | She was baptised and she was pure and clean of sin.
+- crime | [kraɪm] | n.罪行；犯罪活动 | There is no proof that he was on the crime scene.
+- vice | [vaɪs] | n. 恶行；缺点 | Virtue and vice are two different things: the former leads to peace, the latter to misery.
+- bribe | [braɪb] | n. 贿赂 v. 向......行贿 | The counterfeiter bribed the police officer to let him go free.
+- rob | [rɒb] | v.抢劫；夺走 | They were scheming to rob the bank.
+- pirate | [ˈpaɪrət] | n.海盗；盗版者 v. 盗印，窃用 | The terrible pirates attacked a merchant ship.
+- steal | [stiːl] | n. 偷，窃取；剽窃 | The young man was sent to prison for stealing.
+- thief | [θiːf] | n.窃贼，偷窃犯 | The thief got in through the open window.
+- murder | [ˈmɜːdə(r)] | n.v. 谋杀 | There have been several murder cases this year.
+- suicide | [ˈsuːɪsaɪd] | n. 自杀 | He attempted to commit suicide after his firm had gone bankrupt.
+- deceive | [dɪˈsiːv] | v.欺骗；蒙蔽，误导 | Nobody can deceive me.
+- cheat | [tʃiːt] | v. 欺骗；作弊 n. 作弊者 | She always cheats at cards.
+- fraud | [frɔːd] | n. 骗子；赝品；欺诈 | People who try to sell you something that can treat all diseases are frauds.
+- liar | [ˈlaɪə(r)] | n. 说谎的人 | Why did they call him a liar？
+- trap | [træp] | n. 陷阱；诡计 ，诱骗 | The police set a trap for the thieves.
+- trick | [trɪk] | n.诡计 v.哄骗 | The children played a trick on their teacher.
+- pretend | [prɪˈtend] | v. 假装；假扮 | The children pretended to be different animals and danced to the music.
+- fool | [fuːl] | n. 蠢人，傻子 v. 欺骗 | A fool’s haste is no speed.
+- stigma | [ˈstɪɡmə] | n. 耻辱， 污名 | It’s a stigma to ask for money.
+- confess | [kənˈfes] | v. 供认；忏悔 | The suspect confessed to the armed robbery.
+- conform | [kənˈfɔːm] | v.遵守； 顺从；相符合 | A coat must conform to the figure of the wearer.
+- reconcile | [ˈrekənsaɪl] | v. 使和解；调和 | The estranged couple were reconciled after a year.
+- obey | [əˈbeɪ] | v. 服从， 顺从 | The students obeyed the new teacher without hesitation.
+- succumb | [səˈkʌm] | v. 屈服，屈从 | The president said his country would never succumb to pressu「efrom other countries.
+- penalty | [ˈpenəlti] | n. 惩罚，处罚 | What is the penalty for dangerous driving?
+- fine | [faɪn] | n.罚款 adj. 美好的 | The judge imposed a fine of 20 pounds on him.
+- mortgage | [ˈmɔːɡɪdʒ] | v. 抵押（房屋、土地）借款 n. 房屋抵押贷款 | It is easy to get a mortgage on a house.
+- ownership | [ˈəʊnəʃɪp] | n. 所有权，物主身份 | The equity ownership ought to be protected.
+- copyright | [ˈkɒpiraɪt] | n.版权 | He retained the copyright of his book.
+- privilege | [ˈprɪvəlɪdʒ] | n. 特权 | The privilege was abused.
+- accredit | [əˈkredɪt] | V. 把……归于；委任 | The invention of the electric light is accredited to Edison.
+- clue | [kluː] | n.线索；提示 | The police found a clue which helped them catch the robber.
+- access | [ˈækses] | n. 通路，入径：查阅（或使用、接近）的机会（或权利） | Citizens have free access to the library.
+- anonymous | [əˈnɒnɪməs] | adj. 匿名的 | He received an anonymous letter.
+- genuine | [ˈdʒenjuɪn] | adj. 真诚的；真正的 | This medal is made of genuine gold.
+- procedure | [prəˈsiːdʒə(r)] | n. 手续；程序 | The new work procedure is a great improvement on the old one.
+- routine | [ruːˈtiːn] | n. 例行公事；需规 adj. 惯例的 | Our department holds a routine meeting every month.
+- consequence | [ˈkɒnsɪkwəns] | n. 后果 | Your behaviour is of no great consequence.
+- demand | [dɪˈmɑːnd] | v. 要求；需要 n. 要求；需求；需求量 | This work demands your patience.
+- request | [rɪˈkwest] | n.v. 要求，请求 | We shall give your request our carefulconsideration.
+- require | [rɪˈkwaɪə(r)] | v. 需要；命令，规定 | You are required by law to wear a seat belt.
+- petition | [pəˈtɪʃn] | v. 请求 n. 请愿书；上诉 | The villagers all signed a petition for a hospital to be built.
+- command | [kəˈmɑːnd] | v. 命令；指挥，统率 n. 命令；指挥，控制；运用能力 | The army is under the king’s command.
+- instruct | [ɪnˈstrʌkt] | v.指导，讲授；通知；命令 | The tour guide instructed the tourists in customs regulations.
+- false | [fɔːls] | adj. 不正确的；虚假的；伪造的 | Cutting down on libraries seems a false economy to me.

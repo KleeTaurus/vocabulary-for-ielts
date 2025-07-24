@@ -1,0 +1,214 @@
+### Chapter 15 沙场争锋
+- beat | [biːt] | v打；打败；（心脏等）跳动n节拍；击鼓声；(心脏等的）跳动 | If we don’t prepare for the debate, they will beat us.
+- missile | [ˈmɪsaɪl] | n.导弹；投掷物 | A hand-grenade is a missile weapon.
+- punch | [pʌntʃ] | n.打孔机；重拳击打 V.给......打孔；拳打 | Spectators cheered at his KO punch.
+- arrow | [ˈærəʊ] | n.箭；箭头 | The arrow pierced her shoulder.
+- ax | [æks] | n.斧子 | He cut a hole through the wall with an ax.
+- blade | [bleɪd] | n.刃，锋；(螺旋浆的）叶片 | The blades of the electric fan are covered withdust.
+- blast | [blɑːst] | n.爆炸 V.爆炸，炸毁 | It’s thought that the blast occurred when volatile chemicals exploded.
+- bomb | [bɒm] | n.炸弹 V.轰炸 | The terrorists planted a bomb in the post office.
+- bow | [bəʊ] | n.弓；蝴蝶结 | At that time, people hunted with bows andarrows.
+- burst | [b3:st] | v.（使）爆裂；（使）胀开 n.迸发；爆裂 | Prices went up and up in those years, before the housing bubble burst.
+- cannon | [ˈkænən] | n.大炮，加农炮；（飞机上的）自动机关炮 | Their fighter planes are all armed with cannons.
+- chop | [tʃɒp] | v.切碎（禽物）；劈(木头） | Onions must be chopped up to make a salad.
+- equip | [ɪˈkwɪp] | V.配备，装备 | He equipped himself for an expedition to the jungle.
+- flame | [fleɪm] | n.火焰；强烈的感情 | It’s been dry for so long that the forest could burst into flames at any moment.
+- flare | [fleə(r)] | n. （闪耀的）火光；闪光信号灯 v. （火光）闪耀 | The flare of the match lit up the little girl’s face.
+- glitter | [ˈɡlɪtə(r)] | v.闪烁；闪现n发光小物 | The diamond ring on her finger glittered in the moonlight.
+- hammer | [ˈhæmə(r)] | v.用锤击 | He hammered a nail into the wall with ahammer.
+- hit | [hɪt] | n.击，打；击中 | They insisted that food and medical supplies should be given to the worst hit areas.
+- mission | [ˈmɪʃn] | n.使命；重要任务 | He has been on confidential missions to Berlin.
+- spear | [spɪə(r)] | n.矛；标枪 V.周尖物刺穿 | The athlete is trying to launch a spear.
+- stab | [stæb] | v.n. （用刀等）刺，戳 | She stabbed him in the leg with a knife.
+- sword | [sɔːd] | n.刀，剑 | Fame can be a double-edged sword.
+- twinkle | [ˈtwɪŋk(ə)l] | n.v.闪烁，闪耀 | We could see the distant twinkle of the harbour lights.
+- deflect | [dɪˈflekt] | v .（使）偏斜，（使）偏转：转移 | The bullet struck a wall and was deflected from its course.
+- plight | [plaɪt] | n.困境；誓约 | This article drew attention to the plight of the unemployed.
+- target | [ˈtɑːɡɪt] | n.靶子；目标，对象 | The hunter’s target was a wild beast.
+- explosion | [ɪkˈspləʊʒ(ə)n] | n.爆发；迸发；爆炸；激增 | The explosion was caused by a burst gas pipe.
+- bombard | [bɒmˈbɑːd] | v.轰击，轰炸；连珠炮般质问（或批评） | The speaker was bombarded with questions.
+- strike | [straɪk] | v.打，击；突击；罢工 n.罢工；打击 | The strike has delivered a heavy blow to the management.
+- campaign | [kæmˈpeɪn] | n.战役；（社会、政治）运动v参加（或领导）运动 | Those people are campaigning for equal rights for women.
+- dilemma | [dɪˈlemə] | n. （避退两难的）困境 | The man has a scheduling conflict, so now he is in a dilemma.
+- provide | [prəˈvaɪd] | v.供给，提供 | The hotel provides a reservation of tickets for its residents.
+- pitfall | [ˈpɪtfɔːl] | n.陷阱；危险，困难 | The lawyer gave me advice on how to avoid the pitfall of the legal process.
+- tank | [tæŋk] | n.坦克；罐，槽，缸 | The tank got bogged down in the mud.
+- shield | [ʃiːld] | n.盾；防护物 V.保护 | The shield protected the warrior from the blows of his enemy.
+- spark | [spa:k] | n.火花，火星 | A single spark can start a prairie fire.
+- weapon | [ˈwepən] | n.武器，兵器；手段 | Their ultimate weapon was the threat of an all- out strike.
+- pistol | [ˈpɪst(ə)l] | n.手枪 | The robber took a pistol out of his pocket and pointed it at the shop keeper.
+- rifle | [ˈraɪfl] | n.步枪 | He accidentally triggered his rifle.
+- bullet | [ˈbʊlɪt] | n.子弹，枪弹 | The bullet hit him in the leg.
+- glow | [ɡləʊ] | V.发出微弱稳定的光n，微弱稳定的光 | Maple leaves glowed red in the sunlight.
+- helmet | [ˈhelmɪt] | n.头盔，防护帽 | All visitors to the site must wear safety helmets.
+- prepare | [prɪˈpeə(r)] | V.使预备好；为......做准备 | The defence lawyers asked for another week to prepare for their case.
+- deploy | [dɪˈplɔɪ] | v.部署 | The general ordered his men to deploy in order to meet the offensive of the enemy.
+- violence | [ ˈvaɪələns] | n.暴力 | The French government today called for an end to the violence.
+- raid | [reɪd] | n.v.突袭；突然搜查 | We launched a bombing raid on enemy bases.
+- enormity | [ɪˈnɔːməti] | n.巨大；滔天大罪 | The enormity of the crime has shocked even experienced policemen.
+- battle | [ˈbæt(ə)l] | n.战斗战役 V.与战斗 | Life is a battle from cradle to grave.
+- struggle | [ˈstrʌɡ(ə)l] | v.n.挣扎；奋力；奋斗 | His father struggled to control his temper.
+- gunpowder | [ˈɡʌnpaʊdə(r)] | n.火药 | Gunpowder was used for military pu「posesin China as far back as the 10th century.
+- conspiracy | [kənˈspɪrəsi] | n.阴谋，密谋，合谋 | The conspiracy of the assassination of the president was brought to light in time.
+- conflict | [ ˈkɒnflɪkt] | n.斗争，冲突 | Many people feel that religion conflicts with science.
+- counter | [ˈkaʊntə(r)] | v.抵消；反击，反驳 adv.相反地 n.柜台；工作台 | My colleague countered my proposal with one of his own.
+- turbulent | [ˈtɜːbjələnt] | adj.动荡的，混乱的；汹涌的 | The sea was too turbulent for us to set sail.
+- alarm | [əˈlɑːm] | n.惊恐，忧虑；警报；警报器 | The instant they heard the alarm, they fell in for action.
+- blame | [bleɪm] | v.责备，指责 n.（对坏事应负的)责任 | Bad workmen often blame their tools.
+- cease | [siːs] | V.终止，停止 | At last, they ceased working for lack of capital.
+- dread | [dred] | v.极为害怕，非常担心 n.恐惧，忧虑 | I dread to think what will happen if she finds out the truth.
+- enclose | [ɪnˈkləʊz] | V.围住，包围；把……封入信封，随信附上 | The writer’s house is enclosed by a wall.
+- frighten | [ˈfraɪtn] | v.使害怕，使惊恐 | He frightened the old man into giving him all the money.
+- oppress | [əˈpres] | v.压迫，压制；使压抑 | The king oppressed his people with terrible taxes and punishments.
+- pause | [pɔːz] | n.v.暂停，停顿 | After she ran up the hill, she paused for a minute to rest.
+- reproach | [rɪˈprəʊtʃ] | n.v.责备，指责 | His manners are beyond reproach.
+- terrible | [ˈterəb(ə)l] | adj.可怕的，糟糕的；极严重的 | The earthquake was a terrible catastrophe.
+- terrific | [təˈrɪfɪk] | adj.极好的；很大的，很强的 | The ceiling came down with a terrific crash.
+- terror | [ˈterə(r)] | n.恐惧，恐慌 | His terror is so intense that he can’t do anything.
+- threat | [θret] | n.威胁，恐吓 | The United Nations is trying to free the world from the threat of war.
+- famine | [ˈfæmɪn] | n.饥荒 | Many people died of famine that year.
+- patriot | [ˈpætriət] | n.爱国者 | A true patriot will never betray his country.
+- siege | [siːdʒ] | n包围，围攻 | The TV station has been under siege from irate viewers phoning in to complain.
+- surround | [səˈraʊnd] | v.包围；环绕 | They have surrounded the town with troops.
+- tension | [ˈtenʃ(ə)n] | n.紧张；拉紧状态 | Tension mounted as we waited for the exam results to be published.
+- evidence | [ˈevɪdəns] | n.证据；根据 | Can you show me any evidence for your statement?
+- prevent | [prɪˈvent] | v.预防，防止；阻止，阻碍 | Scientists are trying to find ways to prevent the disease from spreading.
+- starve | [stɑːv] | v .（使）挨饿，饿死 | They besieged the town and tried to starve the army into surrender.
+- scenario | [səˈnɑːriəʊ] | n.可能发生的情况；剧情梗棚，脚本 | Imagine a scenario where only 20% of people have a job.
+- challenge | [ˈtʃælɪndʒ] | n.挑战 v.向……挑战 | He challenged me to play another tennis game.
+- invade | [ɪnˈveɪd] | v.入侵，侵略；侵扰 | They are determined to resist the invadingarmies.
+- aggressive | [əˈɡresɪv] | adj.侵略的；好斗的；积极进取的 | The world dooms itself to war because man is aggressive at heart.
+- oppose | [əˈpəʊz] | v.反对，抵制 | The employees opposed their company’s new policies.
+- seize | [siːz] | v.抓住；夺取 | Uncontrollable laughter seized us up.
+- pursue | [pəˈsjuː] | v.追赶；追查；追求 | Why should we even have to decide whether to pursue truth?
+- prohibit | [prəˈhɪbɪt] | v.禁止，不允许 | Smoking is strictly prohibited in the process of handling explosive materials.
+- violate | [ˈvaɪəleɪt] | v.违反，违背；侵犯；搅扰 | The sound of guns violated the usual calm of a Sunday morning.
+- proof | [pruːf] | n.证明，证据 | Have you got any proof that you own thishandbag?
+- deter | [dɪˈtɜː(r)] | V.阻止，威慑住 | The security camera was installed to deter people from stealing.
+- forbid | [fəˈbɪd] | v.禁止；阻止 | Lack of time forbids any further discussion on this issue.
+- revolt | [rɪˈvəʊlt] | nv.叛乱；反抗 | Autocracy often causes the people to revolt.
+- betray | [bɪˈtreɪ] | v.背叛，出卖；（无意中｝泄露，流露出 | They have promised never to betray the organisation.
+- treason | [ˈtriːz(ə)n] | n.叛国罪，通敌罪 | They have committed treason against the state.
+- rebel | [ˈrebl , rɪˈbel] | n.反叛者；叛逆者 v.造反；反抗，反对 | The rebels made regular attacks on the railways.
+- traitor | [ˈtreɪtə(r)] | n.叛徒，卖国贼 | He stuck a knife into the traitor’s heart.
+- horrible | [ˈhɒrəb(ə)l] | adj.可怕的，恐怖的 | There was a horrible accident here yesterday.
+- turmoil | [ˈtɜːmɔɪl] | n.混乱，骚乱 | The demonstration turned into turmoil.
+- occasion | [əˈkeɪʒ(ə)n] | n.场合；时机，机会 | A wedding is a very happy occasion.
+- destitute | [ˈdestɪtjuːt] | adj.赤贫的，一无所有的；缺乏的 | The floods left many people destitute.
+- deprive | [dɪˈpraɪv] | v.剥夺 | Sickness deprived me of the pleasure of travelling overseas.
+- offend | [əˈfend] | V.冒犯；犯罪；违反 | We mustn’t offend the local customs.
+- trespass | [ˈtrespəs] | V.非法侵入 n.罪过；非法侵入 | The farmer said we were trespassing on private land.
+- intrude | [ɪnˈtruːd] | V.闯入，侵入；侵扰 | Employers should not intrude into the private lives of their employees.
+- attack | [əˈtæk] | v.n.攻击，避政 | The police are launching a major attack on drug dealers.
+- assault | [əˈsɔːlt] | n.猛攻；（身体）侵犯 V.袭击 | He was accused of sexual assault.
+- halt | [hɔːlt] | v. （使）停止，（使）停住n停止，停住 | The cab rolled to a halt before the hotel.
+- enemy | [ˈenəmi] | n.敌人，仇敌；敌兵，敌军 | Disease is an enemy of mankind.
+- order | [ˈɔːdə(r)] | n.次序；整齐 v.命令 | He gave his order to the waiter.
+- matter | [ˈmætə(r)] | n.事情；物质 v.要紧 | He reconsidered his decision on this matter because something unexpected happened.
+- comfort | [ˈkʌmfət] | n.安慰；舒适 v.安慰，抚慰 | A father is a treasure; a brother is a comfort; but a friend is both.
+- devil | [ˈdev(ə)l] | n.魔鬼；恶棍 | That enemy officer is the devil incarnate.
+- event | [ɪˈvent] | n，事件，大事；公开活动 | There will be a fund-raising event in the library tomorrow.
+- evil | [ˈiːv(ə)l] | n.邪恶；祸害 adj.邪恶的 | Money is thought to be the root cause of allevils.
+- fierce | [fɪəs] | n.凶猛的；猛烈的；（天气或温度）恶劣的 | They launched a fierce attack against the enemy position.
+- happen | [ˈhæpən] | v发生，出现；碰巧 | It is impossible to anticipate when it will happen.
+- might | [maɪt] | n力量，威力 | We fear the military might of the enemy.
+- oblige | [əˈblaɪdʒ] | v.迫使，强迫；帮忙 | The law obliges parents to send their children to school.
+- proceed | [prəˈsiːd] | V.接下来做；继续避行；行避 | The building of the largest bridge across a river in that country is in progress.
+- refute | [rɪˈfjuːt] | V.反驳，驳斥；否认 | He had hardly finished when someone rose torefute his points.
+- rein | [reɪn] | n.缰绳；控制权 v.用缰绳勒马；管束 | The horse responds to the slightest pull on the rein.
+- reckless | [ˈrekləs] | adj.鲁莽的，不计后果的 | He is very reckless when he is drunk.
+- hover | [ˈhɒvə(r)] | V.盘旋，悬浮；徘徊；处于不确定状态 | The helicopter is hovering over the crowd.
+- contend | [kənˈtend] | v.竞争；争辩，主张 | He contended that it was not his fault.
+- troop | [truːp] | n.－群，一队；［－s）军队E结队前行 | The troops made good their retreat from the occupied city.
+- boundary | [ˈbaʊndri] | n.分界线，边界；界限 | The river is the boundary between the two countries.
+- limit | [ˈlɪmɪt] | n.眼度；界限 v.限制，眼定 | I’ll help as much as I can, but there is a limit to what I can do.
+- foul | [faʊl] | adj.恶臭的；恶劣的；邪恶的 V.弄脏；对……犯规 | The foul weather spoiled our vacation.
+- rival | [ˈraɪv(ə)l] | n.竞争者，对手 v.与……匹敌 | She and I are rivals for the swimming prize.
+- strategy | [ˈstrætədʒi] | n.策略；战略 | Mao Zedong was a great strategist and skilled in developing military strategies.
+- tactic | [ˈtæktɪk] | n.策略，战术 | Reducing prices is a common sales tactic.
+- punishment | [ˈpʌnɪʃmənt] | n.惩罚，处罚 | Punishment had very little effect on him.
+- grave | [ɡreɪv] | n.坟墓；死亡 adj.庄重的，严肃的 | The lady’s grave is made of granite.
+- hang | [hæŋ] | n.悬挂；悬浮(在空中）；｛被）绞死 | He was hanged for murder.
+- compete | [kəmˈpiːt] | v.竞争；参加（比赛｝ | If the election is one-sided, it is really no contest.
+- competitor | [kəmˈpetɪtə(r)] | n.竞争者，对手 | That company is a strong competitor of ours.
+- sacrifice | [ˈsækrɪfaɪs] | n牺牲；献祭1牺牲；以…··圄作祭晶 | I would never dream of asking you to make such a sacrifice.
+- tomb | [tuːm] | n.坟墓，冢 | Many things left by the ancient people in tombs haven’t been brought to light.
+- execute | [ˈeksɪkjuːt] | v.实行，执行；处死 | We can execute the big volume of orders in 20 days.
+- compel | [kəmˈpel] | v强迫，迫使 | I was compelled to find a part-time job because I needed money.
+- protest | [ˈprəʊtest] | n.抗议；申明 v.抗议；申辩 | The diners protested about the bad service at the restaurant.
+- mitigate | [ˈmɪtɪɡeɪt] | v. 减轻，缓和 | Nothing could mitigate the cruelty with which she had treated him.
+- force | [fɔːs] | n力量；武力v强迫，迫使；用力使......移动 | We’ll settle the problem by force if necessary.
+- casualty | [ˈkæʒuəlti] | n.伤亡人员 | In the Iran-Iraq war, both sides incurred heavy casualties.
+- bury | [ˈberi] | v.埋葬；埋藏 | He felt lonely after he buried his good friend.
+- funeral | [ˈfjuːnərəl] | n.葬礼 | Funeral customs vary with different religions.
+- hell | [hel] | n.地狱；苦境 | The priest said they would go to hell for their sins.
+- maritime | [ˈmærɪtaɪm] | adj.海的，海上的，海事的 | That maritime peril happened at night.
+- naval | [ˈneɪv(ə)l] | adj.海军的 | He took part in a great naval battle.
+- fleet | [fliːt] | n. 舰队，船队；机群，车队 | The general ordered the fleet to remain where they were and wait for the further instructions.
+- landing | [ˈlændɪŋ] | n.着陆；登陆 | The plane circled over the airport before landing.
+- manoeuvre | [məˈnuːvə(r)] | n.策略，巧计；［－s］军事演习 | The army is doing manoeuvres at sea.
+- blueprint | [ˈbluːprɪnt] | n.蓝图；行动计划 | The construction of a concert hall is still in the blueprint stage.
+- warn | [wɔːn] | v.警告；告诫 | They warned her that if she did it again she would be sent to prison.
+- reinforce | [ˌriːɪnˈfɔːs] | v增援；增强，加强；加固 | If concrete has steel bars inside it, it is known as reinforced concrete.
+- impair | [ɪmˈpeə(r)] | v削弱；妨碍 | If a witness is allowed to withhold information, it impairs the legal process.
+- occur | [əˈkɜː(r)] | v.发生，出现 | The accident occurred at six o’clock in the morning.
+- savage | [ˈsævɪdʒ] | adj.野蛮的，凶猛的v，凶狠地攻击n，野蛮人 | Elephants are tame most of the time, but they can be very savage.
+- contest | [ˈkɒntest , kənˈtest] | v.争取赢得；争辩 n.竞争；比赛 | If the election is one-sided, it is really no contest.
+- progress | [ˈprəʊɡres] | n.前进；进步；进程 | he building of the largest bridge across a river in that country is in progress.
+- guard | [ɡɑːd] | n.卫兵，警卫员 v.看守；守卫，保卫 | The dog guarded the house against strangers.
+- risk | [rɪsk] | n.危险，风险阻冒着......的危险 | If you don’t warm up before taking exercise, you risk injuring yourself.
+- victory | [ˈvɪktəri] | n.胜利，成功 | The school football team has had three victories this month against other schools.
+- rid | [rɪd] | adj. [get -of］摆脱，丢弃 | If you get rid of the water, you get rid of the mosquitoes.
+- nuclear | [ˈnjuːkliə(r)] | adj.原子核的；核能的；核武器的 | Nowadays more and more people prefer a nuclear family to an extended family.
+- abandon | [əˈbændən] | v.放弃；抛弃，丢弃 | Do not abandon yourself to despair.
+- discard | [dɪˈskɑːd] | v.丢弃，抛弃 | Outdated theory should be discarded.
+- glorious | [ˈɡlɔːriəs] | adj.光荣的，荣糙的 | Our country has a glorious past.
+- adventure | [ədˈventʃə(r)] | n.冒险，冒险经历v，去(某地)探险 | All the children were listening to her adventures with eager attention.
+- avoid | [əˈvɔɪd] | v避免；躲开 | He’ll look for any excuse to avoid doing thedishes.
+- collapse | [kəˈlæps] | n.v.倒塌；崩溃 | The man lost all his money in the collapse of the stock market.
+- compromise | [ˈkɒmprəmaɪz] | V.妥协 | They cannot compromise with the terrorists on such terms.
+- damage | [ˈdæmɪdʒ] | n.v.损害；伤害 | An earthquake sometimes causes extensive damage to a town.
+- devote | [dɪˈvəʊt] | v.献身；投入 | After she graduated, she continued to devote herself to research.
+- disturb | [dɪˈstɜːb] | v.打扰；使焦虑；弄乱 | A soft breeze gently disturbed the surface of the pool.
+- harmful | [ˈhɑːmf(ə)l] | adj.有害的 | A freezing winter is harmful to orange trees.
+- honour | [ˈɒnə(r)] | n.尊敬，敬意；荣誉 v.尊敬；给予表扬 | He’s won an Academy Award and a host of other honours.
+- interfere | [ˌɪntəˈfɪə(r)] | V.干涉；妨碍 | Don’t allow pleasure to interfere with duty.
+- medal | [ˈmedl] | n勋章，奖章 | It was an unbelievable moment when Victoria won the gold medal.
+- mislead | [ˌmɪsˈliːd] | v.误导，欺骗，使误入歧途 | A description about a product should not mislead the consumers.
+- monument | [ˈmɒnjumənt] | n纪念碑；历史遗迹；典范 | This work is one of the great monuments of French literature.
+- owe | [əʊ] | V.欠；应把……归功于；欠(情），感激 | I owe a lot to my wife and children.
+- quit | [kwɪt] | v放弃，停止；辞去；离开 | She has not quit smoking, but is holding down to three cigarettes a day.
+- resist | [rɪˈzɪst] | v.抵制，反对；抵御；忍住 | She could hardly resist laughing.
+- retreat | [rɪˈtriːt] | n.v.撤退；退避 | He immediately sounded a retreat.
+- statue | [ˈstætʃuː] | n.雕像，塑像 | The Statue of Liberty was presented to the United States of America in the nineteenth century by the people of France.
+- surrender | [səˈrendə(r)] | n.v.投降；（被迫｝放弃 | Thousands of illegal immigrants have surrendered to police.
+- tablet | [ˈtæblət] | n.碑，匾；药片 | The doctor told him to take two tablets before every meal.
+- withdraw | [wɪðˈdrɔː; wɪθˈdrɔː] | v.收回；(使）撤退；提｛款） | She withdrew all her savings from the bank.
+- patrol | [pəˈtrəʊl] | n.v.巡逻，巡查 | Every hour a policeman patrolled our street.
+- safeguard | [ˈseɪfɡɑːd] | v.保护，保卫 n.保护措施 | To safeguard the peace is one of the important tasks of the army.
+- peril | [ˈperəl] | n.重大危险；险情，危险 | Preparedness averts peril.
+- scout | [skaʊt] | V.侦察，搜寻 | The scout was searching through the woods.
+- contribute | [kənˈtrɪbjuːt] | v. 捐献；（为···）作贡献；（为书、报刊等）撰稿 | She seldom contributes to the discussion.
+- withstand | [wɪðˈstænd; wɪθˈstænd] | v.承受，顶住，经受住 | The bridge is built to withstand an earthquake of 8.0 magnitude.
+- interrupt | [ˌɪntəˈrʌpt] | v.打断；中断 | Excuse me, I wonder if I could interrupt you?
+- military | [ˈmɪlətri] | adj.军事的，军用的 | According to the constitution of the country, all the young men should do a year’s military service.
+- conquer | [ˈkɒŋkə(r)] | V.征服；克服，战胜 | To conquer or to die.
+- obstacle | [ˈɒbstəkl] | n.障碍；障碍物 | Her father’ s disapproval remained their obstacle.
+- capture | [ˈkæptʃə(r)] | n.战利品 v.捕获；夺得 | The fraudster was captured when trying to escape from the city.
+- defeat | [dɪˈfiːt] | v.战胜，击败 n.失败 | They were defeated in the football match.
+- triumph | [ˈtraɪʌmf] | n.伟大胜利，非凡的成功 v.获得胜利 | It was a great triumph when our team won therace.
+- Camouflage | [ˈkæməflɑːʒ] | v.n. 伪装 | Many animals have natural camouflage which hides them from the predators.
+- devastate | [ˈdevəsteɪt] | v.毁坏，摧毁 | They intended to devastate the town at astroke.
+- general | [ˈdʒen(ə)rəl] | n..将军 adj.总的；一般性的 | As a general rule, prices follow demands.
+- escape | [ɪˈskeɪp] | n.v.逃跑；逃脱；逃避 | To my surprise, he managed to escape from that big fire.
+- humiliate | [hjuːˈmɪlieɪt] | V.羞辱，使蒙羞 | The team was humiliated in the recent game.
+- burrow | [ˈbʌrəʊ] | n.地洞，地道 V.掘地洞 | The prairie dog stores food in its burrow.
+- defend | [dɪˈfend] | v.防御，保护；为......辩护 | She demonstrated the best way to defend oneself.
+- shrink | [ʃrɪŋk] | v.退缩；收缩，缩水；(使）减少 | The dress shrank when I washed it.
+- poison | [ˈpɔɪz(ə)n] | n.毒物，毒药 v.毒害 | Spiritual rubbish can poison the children’s pure minds.
+- catastrophe | [kəˈtæstrəfi] | n.重大灾难，大祸 | Their party turned out to be a catastrophe.
+- torture | [ˈtɔːtʃə(r)] | n拷问；痛苦，折磨v拷问；使痛苦 | She suffered the torture of toothache.
+- forgo | [fɔːˈɡəʊ] | v.放弃 | We’ll have to forgo our rest hour to gather in the wheat before the storm begins.
+- spy | [spaɪ] | n.间谍，特务 V.搜集情报，从事间谍活动 | She hired a detective to spy on her husband.
+- soldier | [ˈsəʊldʒə(r)] | n.战士，士兵 | The soldier received a serious wound on the chest.
+- veteran | [ˈvetərən] | n..老兵；老手 | The baseball veteran loved to coach young players.

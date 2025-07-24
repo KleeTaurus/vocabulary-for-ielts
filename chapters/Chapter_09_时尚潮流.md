@@ -1,0 +1,114 @@
+### Chapter 09 时尚潮流
+- model | [ˈmɒd(ə)l] | n.模型；模范；模特儿 v.使模仿 | After a brief spell as a model, she got into singing.
+- dress | [dres] | n.衣服；连衣帽 | She wears a beautiful evening dress.
+- jacket | [ˈdʒækɪt] | n.夹克衫 | He wore a pair of dark glasses and a jacket all day long.
+- sweater | [ˈswetə(r)] | n.毛衣，线衣 | This woollen sweater may keep you warm in winter.
+- trousers | [ˈtraʊzəz] | n. ［尤英］裤子 | This pair of trousers is too tight for me.
+- jeans | [dʒiːnz] | n.牛仔裤 | Jeans are made of jean, denim, or other durable fabrics.
+- skirt | [skɜːt] | n.裙子 | How many skirts do you have?
+- perfect | [ˈpɜːfɪkt] | adj. 完美的 | No one expects you to be perfect, but we do expect you to do your best always.
+- beautiful | [ˈbjuːtɪf(ə)l] | adj.美丽的 | Looking at a beautiful painting always gives one satisfaction.
+- pretty | [ˈprɪti] | adj.漂亮的 adv.相当地 | All the pretty women wore their smartest dresses.
+- handsome | [ˈhænsəm] | adj.数量大的；英俊的 | The waitress received a handsome tip.
+- ugly | [ˈʌɡli] | adj.丑陋的 | You can’t persuade me to buy this ugly vase!
+- current | [ˈkʌr(ə)nt] | n. 潮流，趋势 adj. 当前的 | Newspapers influence the current of thought.
+- appearance | [əˈpɪər(ə)ns] | n.外貌；出现 | Don't judge by appearances.
+- clasp | [klɑːsp] | n.搭扣 v.扣住 | The button won't clasp.
+- clothe | [kləʊð] | v. 给......穿衣；为……提供衣服 | He had to work hard to feed and clothe the large family.
+- dye | [daɪ] | n.染料；（染上的）颜色 v.染 | My roommate has dyed her hair red—it looks so unnatural.
+- fashion | [ˈfæʃ(ə)n] | n. 时尚 v.制作，制成 | Loose trousers are the latest fashion.
+- gown | [ɡaʊn] | n. 长外衣；女礼服 | She put on her silk gown and went to the ball.
+- jewel | [ˈdʒuːəl] | n.宝石 | That jewel has a beautiful shimmer.
+- overall | [ˌəʊvərˈɔːl; ˈəʊvərɔːl] | n. ［英］（工作时穿的）罩衣， adj.全面的 | The shop assistant was wearing a white overall.
+- overcoat | [ˈəʊvəkəʊt] | n.大衣 | He turned his overcoat collar up.
+- robe | [rəʊb] | n.长袍；浴袍 | She was simply dressed in a plain white robe.
+- uniform | [ˈjuːnɪfɔːm] | n.制服 adj.一致的 | Do you have to wear a uniform if you work at McDonald’s?
+- tendency | [ˈtend(ə)nsɪ] | n. 趋势；倾向，偏好 | There is a growing tendency for people to work at home instead of in offices.
+- trend | [trend] | n.趋势，倾向 | The youth like to follow the latest trends in fashion.
+- charming | [ˈtʃɑːmɪŋ] | adj.迷人的 | Her colourful character makes her very charming.
+- grace | [greɪs] | n.优美，优雅 | She was a beautiful girl with the grace and poise of a natural model.
+- garment | [ˈɡɑːmənt] | n. （一件）衣服 | This garment should be washed carefully.
+- jewellery | [ˈdʒuːəlri] | n.珠宝，首饰 | This piece of jewellery is priceless.
+- veil | [veɪl] | n.面纱；遮蔽物 | The bride’s face was covered with a white veil.
+- wardrobe | [ˈwɔːdrəʊb] | n.衣柜；（某人的）全部服装 | Can you hang these in the wardrobe, please?
+- ornament | [ˈɔːnəmənt] | n.装饰晶 v.装饰 | Clearness ornaments profound thought.
+- extravagant | [ɪkˈstrævəɡənt] | adj. 奢侈的；过分的 | She’s very extravagant—she spends all her money on clothes.
+- fascinate | [ˈfæsɪneɪt] | v.迷住 | This city fascinates him.
+- style | [staɪl] | n. 风格；样式；时尚 | The style of this skirt is just in season.
+- popularity | [pɒpjʊˈlærətɪ] | n. 流行 | That record made the singer’s popularity boom.
+- vogue | [vəʊɡ] | n.流行 | Long hair for men and high boots for ladies are no longer in vogue.
+- prevail | [prɪˈveɪl] | v.盛行；获胜 | Truth will ultimately prevail.
+- icon | [ˈaɪkɒn] | n.偶像；图标 | That singer is one of the pop culture icons of 1980s.
+- idol | [ˈaɪdl] | n.偶像，受到崇拜的人或物；神像 | That football player is the idol of many young people.
+- luxury | [ˈlʌkʃ(ə)rɪ] | n. 奢侈；奢侈品 | The increasing sales of luxuries are an indication of the country's prosperity.
+- gem | [dʒem] | n. 宝石；珍品 | This picture is the gem of the collection.
+- jade | [dʒeɪd] | n.玉石，黄翠 | I have a pair of jade bracelets.
+- adorn | [əˈdɔːn] | v.装饰，装扮 | She likes to adorn herself with jewels.
+- embellish | [ɪmˈbelɪʃ] | v.修饰 | The door of the old church was embellished with intricate carvings.
+- embroider | [ɪmˈbrɔɪdə(r)] | v.对（故事等）加以渲染；在......上刺绣 | Her shirt is embroidered with roses.
+- hairdressing | [ˈheədresɪŋ] | n美发，理发 | She has spent much money and time on hairdressing.
+- pigment | [ˈpɪɡmənt] | n.色素；颜料 | This pigment is a good and common food additive.
+- masquerade | [ˌmɑːskəˈreɪd; ˌmæs-] | n. 化装舞会 v. 化装；假扮 | She masqueraded as a shepherdess.
+- costume | [ˈkɒstjuːm] | n. 戏服；（某历史时期或某地的）服装 | Her national costume showed which country she came from.
+- decent | [ˈdiːs(ə)nt] | adj. 得体的；尚好的 | He made a decent record.
+- exquisite | [ɪkˈskwɪzɪt] | adj.精歇的；雅致的 | He has exquisite taste and decent manners.
+- elegance | [ˈelɪg(ə)ns] | n.文雅，典雅 | He is admired for the elegance of his writing.
+- cosmetics | [kɒzˈmetɪks] | n.化妆品 | We have many types of cosmetics for sale.
+- make-up | [meɪk ʌp] | n. 化妆品；组成成分；性格 | I cannot tell who's who when the women take off their make up.
+- laundry | [ˈlɔːndri] | n.洗衣店；要（或正在）洗的衣物，刚洗好的衣物 | There’s a lot of laundry in the basket.
+- button | [ˈbʌt(ə)n] | n. 纽扣；按钮 v.扣上......的纽扣 | One of the buttons has come off my coat.
+- sock | [sɒk] | n.短袜 | There is a hole in my sock.
+- cap | [kæp] | n.（有帽舌的）帽子（经费等的）最高限额 | The cap goes well with your suit.
+- hat | [hæt] | n.（常指带惰的）帽子 | She bought a hat yesterday.
+- scarf | [skɑːf] | n.围巾，头巾 | The price of this scarf is below ten dollars.
+- glove | [ɡlʌv] | n.手套 | It’s getting cold and I have to take out my woollen gloves.
+- colour | [ˈkʌlə] | n.颜色颜料 | Due to the use of natural pigments，these folk paintings retain their colour well.
+- grey | [ɡreɪ] | adj.灰色的 n.灰色 | He dressed in grey.
+- white | [waɪt] | adj.白的 n.白色 | He was white with fury.
+- pink | [pɪŋk] | adj.粉红色的 n.粉红色 | She carried a spray of pink roses.
+- yellow | [ˈjeləʊ] | adj.黄的 n.黄色 | The leaves turn yellow in autumn.
+- brown | [braʊn] | adj.褐色的 n.褐色 | He had brown skin.
+- purple | [ˈpɜːp(ə)l] | adj.紫的 n.紫色 | That girl like to wear purple dresses.
+- wallet | [ˈwɒlɪt] | n.钱包，皮夹子 | She placed the receipt in her wallet.
+- belt | [belt] | n.腰带，皮带；地带，地区 | A belt of trees grew between the two fields.
+- boot | [buːt] | n.靴子 | My foot won’t go into this boot.
+- brim | [brɪm] | n.边缘；帽檐 | He drank at the fountain’s brim.
+- cloak | [kləʊk] | n.斗篷；覆盖物 | She picked up the old brown cloak and handed it to him.
+- collar | [ˈkɒlə] | n.衣领；项圈 | He turned up his coat collar against the chilly wind.
+- handkerchief | [ˈhæŋkətʃɪf] | n.手帕 | He was playing with his handkerchief all the while during the speech.
+- necklace | [ˈneklɪs] | n.项链 | I value this necklace at 5，000 dollars.
+- needle | [ˈniːd(ə)l] | n.针 | The needle pierced her finger.
+- patch | [pætʃ] | n.补丁；（与周围不同的）小片 v.补缀 | She sewed a patch onto the knee of the trousers.
+- pin | [pɪn] | n. 别针，大头针 v.别住，钉住 | Pin the bills together so you won’t lose them.
+- purse | [pɜːs] | n. ［尤英］钱包；［美］小手提包 | The loss of her purse caused her much inconvenience.
+- rag | [ræg] | n.破布 | She wrapped the box with an old rag.
+- sew | [səʊ] | v.缝制，缝补 | The skirt is finished and I'm now going to sew a pocket.
+- sleeve | [sliːv] | n.袖子 | A stranger pulled at my sleeve as I was leaving.
+- slender | [ˈslendə(r)] | adj.苗条的；微弱的 | All of us admired her slender figure.
+- slight | [slaɪt] | adj.纤细的；轻微的 | Our army suffered a slight reverse.
+- slipper | [ˈslɪpə(r)] | n.拖鞋 | No slipper is allowed in the laboratory.
+- spin | [spɪn] | v.纺；（使）旋转 n.高速旋转；（乘车）兜风 | We took a spin around the town.
+- stain | [steɪn] | v.染污 | The coffee stained his shirt brown.
+- stitch | [stɪtʃ] | n.针脚 v.缝 | My mother is stitching a new dress.
+- stocking | [ˈstɒkɪŋ] | n. （女式）长筒袜 | The thief masked his face with a stocking.
+- strap | [stræp] | n.带子 v.用带子系（或捆、扎） | A safety strap is used to prevent falling.
+- string | [strɪŋ] | n.线；一串 | We have had a string of complaints about the programme.
+- stripe | [straɪp] | n.条纹 | The body of a zebra is marked by black and white stripes.
+- tan | [tæn] | adj.棕黄色的 n.棕黄色；晒成的棕褐色 | It took me all summer to get this tan.
+- textile | [ˈtekstaɪl] | adj.纺织的 n.纺织品 | He intends to retail textile goods.
+- tight | [taɪt] | adj.紧的 | This drawer is too tight for me to open it.
+- velvet | [ˈvelvɪt] | n.丝绒，天鹅绒 | The lawn looks like green velvet.
+- vest | [vest] | n. ［英］汗衫；［美］西装背心 | One button on the vest is loose.
+- wool | [wʊl] | n.（羊等的）毛毛线 | He found a job of shearing wool from sheep.
+- figure | [ˈfɪgə] | n.身材；身影；重要人物；数字 v.认为 | I could see a tall figure near the door.
+- wrap | [ræp] | n. 披肩 | Over her shoulders was a much-mended wrap.
+- lace | [leɪs] | n.鞋带；花边 | He stopped to tie the laces of his sneakers.
+- shabby | [ˈʃæbɪ] | adj.破旧的衣衫褴褛的 | His shabby appearance creates a bad impression.
+- bead | [biːd] | n.珠子；（液体的）小滴 v.形成珠状 | She wore a string of beads round her neck.
+- chain | [tʃeɪn] | n. 链子，链条 | She wore a silver chain around her neck.
+- bracelet | [ˈbreɪslət] | n.手镯 | I’d like you to take this bracelet as a gift.
+- fade | [feɪd] | v.逐渐消失；（使）褪色 | Beauty fades like a flower.
+- blot | [blɒt] | n.污点 | he new power station is a blot on the landscape.
+- tailor | [ˈteɪlə(r)] | n.裁缝 v.专门制作 | The tailor can alter your new coat to fit you.
+- thread | [θred] | n.线；螺纹 | She is looking for threads which match the cloth.
+- ribbon | [ˈrɪbən] | n.缎带，丝带 | Her hair was tied up with a ribbon.

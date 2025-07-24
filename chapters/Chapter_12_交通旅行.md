@@ -1,0 +1,135 @@
+### Chapter 12 交通旅行
+- pilot | [ˈpaɪlət] | n.飞行员 | A pilot must stay alert for the changes in the weather.
+- traffic | [ˈtræfɪk] | n.交通，车流 | Traffic reaches a peak between 8 and 9 in the morning.
+- passenger | [ˈpæsɪndʒə(r)] | n.乘客 | The baggage allowance per passenger is 25 kg.
+- truck | [trʌk] | n. 卡车；敞篷货运火车 | They transported the goods by truck.
+- wheel | [wiːl] | n.方向盘；车轮 | The driver slumped over the steering wheel.
+- travel | [ˈtræv(ə)l] | n.v. 旅行 | During his travels, he met many interesting people.
+- journey | [ˈdʒɜːni] | n.旅行；历程 | I wish a pleasant journey to you!
+- way | [weɪ] | n. 路；方式 | I am on my way to the grocery.
+- avenue | [ˈævənjuː] | n.大街；途径 | One of the world’s most beautiful avenues is the Champs-Élysées in Paris.
+- lane | [leɪn] | n.小巷；车道 | There are many small lanes in the quaint town.
+- airline | [ˈeəlaɪn] | n.航空公司 | The airline launched a European route for the first time.
+- airplane | [ˈeəpleɪn] | n.飞机 | An airplane engine is a complex mechanism.
+- ambulance | [ˈæmbjələns] | n.救护车 | An ambulance was racing by with its siren wailing.
+- brake | [breɪk] | n. 车闸；刹车 v. 刹车 | The car in front of me stopped suddenly and I had to brake sharply.
+- carriage | [ˈkærɪdʒ] | n. 四轮马车；［英］（客运火车的）车厢 | The carriage which he had ordered arrived, and we drove off.
+- cart | [kɑːt] | n. 运货马车；［美］（超市等提供的）手推车，购物车 | A heavy cart rumbled down the street.
+- coach | [kəʊtʃ] | n.［英］长途汽车；教练；［英］私人教师 v. 训练 | We went to New York City by coach.
+- crew | [kruː] | n. （轮船、飞机等上的）全体工作人员；（有专门技术的） 一组工作人员 | I’d like to thank you on behalf of the crew.
+- flight | [flaɪt] | n.飞行；航班 | I’ll book a direct flight to Shanghai for you.
+- freight | [freɪt] | n.货运；货物 v.运送｛货物） | We can send these goods by air freight or by sea freight.
+- garage | [ˈɡærɑːʒ] | n.汽车修理厂；车库 | My car broke down and has been towed to a garage.
+- helicopter | [ˈhelɪkɒptə(r)] | n.直升机 v.用直升机载送；乘直升机旅行 | The president helicoptered to that city yesterday.
+- highway | [ˈhaɪweɪ] | n. ［尤美］公路 | A four-lane highway connects the two towns.
+- horsepower | [ˈhɔːspaʊə(r)] | n.马力 | The horsepower of the engine is not very impressive.
+- jet | [dʒet] | n. 喷气式飞机；喷射口 | Developing the supersonic jet was quite an accomplishment.
+- lorry | [ˈlɒri] | n. ［英］卡车 | A heavy lorry is floundering in deep snow.
+- motor | [ˈməʊtə(r)] | n.发动机 adj.机动的 | If the battery is dead, the motor won’t be started.
+- passage | [ˈpæsɪdʒ] | n.通过；通道，走廊 | The bridge is not strong enough to allow for the passage of vehicles.
+- path | [pɑːθ] | n.小路 | We bumped up and down along the gravel path.
+- pave | [peɪv] | V.铺（路或地面） | The road was paved with cobblestones.
+- port | [pɔːt] | n.港口；左舷 | The boy often watched the boats return to port in the late afternoon.
+- rack | [ræk] | n搁物架，挂物架 | He put his bag on the luggage rack.
+- route | [ruːt] | n.路线 | We came by a longer route than usual.
+- steward | [ˈstjuːəd] | n.男乘务员；管家 | He is the steward of that great mansion.
+- tractor | [ˈtræktə(r)] | n拖拉机；牵引车 | The tractor has been damaged owing to rough usage.
+- tyre | [ˈtaɪə(r)] | n.轮胎 | My uncle jacked up his car to fix a flat tyre.
+- van | [væn] | n.厢式货车；客货车 | As the car turned the corner, it collided with a van.
+- vehicle | [ˈviːəkl] | n.车辆，交通工具；工具，手段 | Subway is a convenient vehicle for white-collar workers.
+- captain | [ˈkæptɪn] | n.船长；队长 | The captain of the sinking ship used flares to attract the attention of the coastguard.
+- cycle | [ˈsaɪk(ə)l] | v. 骑（自行车） n. 周期；自行车 | In many universities, students cycle from their dorms to the classroom or library.
+- memorial | [məˈmɔːriəl] | n.纪念碑 adj.纪念的，悼念的 | A memorial for victims of the blast was built.
+- suitcase | [ˈsuːtkeɪs] | n.手提箱 | Her suitcase is stuffed with her clothes.
+- parachute | [ˈpærəʃuːt] | n.降落伞 | The parachutes in the air look like colourful mushrooms.
+- cross | [krɒs] | n. 十字形；十字架 v.穿过 | It’s very dangerous for children to cross a busyroad.
+- parade | [pəˈreɪd] | n.游行；炫耀 n.庆祝游行；列队行选；炫耀 | The sports meeting began with a parade of all the competing teams.
+- navigate | [ˈnævɪɡeɪt] | v.航行；横渡 | He was the first man who navigated the Atlantic alone.
+- voyage | [ˈvɔɪɪdʒ] | n.航海，航天；航行 | He goes on a voyage on a warship in the name of the government.
+- attraction | [əˈtrækʃ(ə)n] | n. 吸引；具有吸引力的事物 | The main attraction in this amusement park is a large swimming pool with salt water.
+- express | [ɪkˈspres] | n. 特快列车；快递服务 v. 表示 adj. 特快的 | We have to change here for the express train.
+- pyramid | [ˈpɪrəmɪd] | n. 金字塔；棱锥体 | The ancient pyramid in Egypt is one of the wonders of the world.
+- curb | [kɜːb] | n.路缘；起控制作用的事物 | I stopped and stood at the curb, trying to breathe.
+- signpost | [ˈsaɪnpəʊst] | n.路标 | The signpost showed us the right road to follow.
+- auto | [ˈɔːtəʊ] | n.汽车 | The auto industry has brought many people to Detroit.
+- tram | [træm] | n. ［尤英］有轨电车 | If you want to go to that place, you can travel by tram.
+- wagon | [ˈwæɡən] | n. 四轮运货马车（或牛车）；［英］（火车的）货车车厢 | An ox pulls a wagon into the village.
+- pedicab | [ˈpedɪkæb] | n（人力）三轮车 | They hopped a pedicab and toured the park.
+- honk | [hɒŋk] | n. 汽车喇叭声；鹅叫声 v. 按（汽车喇叭） | The drivers honked their horns, hoping to disperse the crowd in the streets.
+- aviation | [ˌeɪviˈeɪʃn] | n.航空；航空学；航空工业 | He was a pilot in the early days of aviation.
+- safari | [səˈfɑːri] | n. （尤指在东非的）观兽旅行 | We’ll go on safari in Africa after the wedding.
+- haunt | [hɔːnt] | v.（鬼魂等｝常出没于 n.常去的地方 | This cafe used to be my favourite haunt.
+- visa | [ˈviːzə] | n.签证 | You need a visa to enter that country.
+- baggage | [ˈbæɡɪdʒ] | n. ［尤美］行李 | We may have lost some pieces of baggage, so we want to make a lost-baggage report.
+- luggage | [ˈlʌɡɪdʒ] | n.行李 | I’ve just been informed that my luggage had already arrived.
+- carry-on | [ˈkæri ɒn] | n.［美］(可随身携带上飞机的)小包 adj.随身携带上飞机的 | I only have two carry-on bags with me.
+- atlas | [ˈætləs] | n.地图册，地图集 | Check where Sydney is in your atlas.
+- itinerary | [aɪˈtɪnərəri] | n.行程，路线 | We have some more places to visit on our itinerary.
+- intersection | [ˌɪntəˈsekʃn] | n.十字路口，交叉路口 | The town lies at the intersection of three motorways.
+- fare | [feə(r)] | n. 车费，路费 | She didn’t have enough money for the railway fare.
+- railway | [ˈreɪlweɪ] | n. ［英］铁路，铁路系统 | The goods were sent to you by railway.
+- sail | [seɪl] | v. 航行；驾驶（帆船） | His ship has been given the all-clear to sail.
+- speed | [spiːd] | n.速度；迅速 | The police advise motorists to reduce their speed because of the fog.
+- package | [ˈpækɪdʒ] | n. 包裹;［美］盒，包 v. 包装 | The old town was packaged to attract tourists.
+- arrive | [əˈraɪv] | v. 到达；取得成功 | You must arrive at the airport at least two hours in advance.
+- stamp | [stæmp] | n. 邮票；印章 v. 在......上贴邮票；盖（章） | You can buy a stamp over there and affix it to the postcard.
+- mail | [meɪl] | n. 邮件，邮包；邮政 v. 邮寄 | She opened her mail and took out a vase carefully.
+- aboard | [əˈbɔːd] | adv.在（船、飞机等）上 | All passengers aboard fell into the river.
+- bind | [baɪnd] | v. 捆，绑 | Love rules without a sword and binds without a cord.
+- canal | [kəˈnæl] | n. 运河；（人体内输送食物、空气等的）管 | The canal is now open to shipping.
+- canoe | [kəˈnuː] | n.独木舟 | We crossed the lake in a canoe.
+- carrier | [ˈkæriə(r)] | n.航空母舰；运输工具 | The missile is launched from the aircraft carrier.
+- channel | [ˈtʃæn(ə)l] | n. 航道；电视频道；海峡 | The English Channel is between France and England.
+- convey | [kənˈveɪ] | v. 运送，输送；表达，传递 | It’s hard to convey my feelings in words.
+- crush | [krʌʃ] | v. 压碎，压坏 n. 拥挤的人群；迷恋；迷恋对象 | There was such a crush on the bus that I could hardly breathe.
+- dash | [dæʃ] | v. 猛冲；猛摔 | He dashed the bowl to bits against the ground.
+- deck | [dek] | n. 甲板 v. 装饰 | The deck of the sailing ship was made of thick planks.
+- deliver | [dɪˈlɪvə(r)] | v.传送，递送 | You don’t have to go out into the rain since the store delivers for free.
+- depart | [dɪˈpɑːt] | v. 离开，启程 | When does the next train depart?
+- ditch | [dɪtʃ] | n. 沟，渠 v. 抛弃 | When the road became impassable, they ditched their car and walked.
+- dock | [dɒk] | n.码头，船坞 | The ship’s hull scraped along the side of the dock.
+- emergency | [ɪˈmɜːdʒənsi] | n.紧急事件 adj.应急的 | He has the ability to keep calm in emergencies.
+- harbour | [ˈhɑːbə(r)] | n.港口 | Our hotel room overlooked a pretty little harbour.
+- liner | [ˈlaɪnə(r)] | n.邮轮，客轮 | The liner has been refitted from stem to stern.
+- locomotive | [ˌləʊkəˈməʊtɪv] | n.火车头，机车 | The locomotive is detached from the train.
+- packet | [ˈpækɪt] | n. ［英］包装盒；［尤英］小件包裹 | The government has imposed an additional tax on a packet of cigarettes.
+- parcel | [ˈpɑːs(ə)l] | v. 打包，包 n. （土地的）一块；［尤英］包裹 | He parceled up the books.
+- postage | [ˈpəʊstɪdʒ] | n邮费，邮资 | What is the postage for an airmail letter?
+- postpone | [pəˈspəʊn] | v. 推迟，使延期 | The match is postponed from March 5th to March 19th.
+- rail | [reɪl] | n栏杆；铁路路轨 | The man was holding onto the rail as he walked down the stairs.
+- railroad | [ˈreɪlrəʊd] | n.［美］铁路，铁路公司 | The building of the railroad is progressing.
+- sailor | [ˈseɪlə(r)] | n.海员，水手 | A sailor is at the mercy of the weather.
+- seaman | [ˈsiːmən] | n. 海员，水手 | There are many skilled seamen on our ship.
+- steamer | [ˈstiːmə(r)] | n.汽船，轮船 | The steamer arrived in harbour this morning.
+- submerge | [səbˈmɜːdʒ] | v. （使）浸没；掩盖 | I watched the submarine submerge.
+- subway | [ˈsʌbweɪ] | n. ［英］地下通道；［美］地铁 | There is a new subway being built.
+- swift | [swɪft] | adj.迅速的；敏捷的 | With the failure of the peace talks, all hopes of a swift end to the war have flown out of the window.
+- transmit | [trænzˈmɪt] | v. 传送；传播，传染；传输 | Parents transmit some of their values and ideas to their children.
+- tunnel | [ˈtʌn(ə)l] | n隧道，地道 | The train roared into a tunnel and everything went black.
+- turbine | [ˈtɜːbaɪn] | n. 涡轮机 | The turbine is spun by the high-pressure gases.
+- underground | [ˌʌndəˈɡraʊnd] | adj.地下的；秘密的 n. ［英］地铁 | There is an underground passage leading to the old house.
+- vanish | [ˈvænɪʃ] | v. 突然消失；绝迹 | He seemed to vanish into thin air.
+- velocity | [vəˈlɒsəti] | n.速度 | The velocity of light is about 300,000 kilometres per second.
+- vessel | [ˈves(ə)l] | n.大船，舰；容器，器皿 | We have sighted the vessel and are following it.
+- wreck | [rek] | v.使失事；破坏 n.失事的船只（或汽车、飞机等）；残破的东西 | Because of the tsunami, the coast was a wreck.
+- disappear | [ˌdɪsəˈpɪə(r)] | v. 失踪；消失 | He has disappeared for three years.
+- load | [ləʊd] | v.装载，装满 n.负荷；大量 | The lorry was carrying a load of pineapples.
+- transfer | [trænsˈfɜː(r)] | v. （使）迁移，（使）转移；（使）调动 | The cat has transferred her affection to her new master.
+- due | [djuː] | adj.到期的，预期的 | If you’re going to the library, would you mind returning this book for me? It’s due today.
+- stern | [stɜːn] | n. 船尾 | She seated herself in the stern.
+- hazard | [ˈhæzəd] | n. 危险 v. 使冒风险 | There are many hazards in a journey across the Arctic.
+- expire | [ɪkˈspaɪə(r)] | v. 期满；气绝，死亡 | My passport is about to expire.
+- propeller | [prəˈpelə(r)] | n. 螺旋桨，推进器 | The propeller starts to spin around.
+- oar | [ɔː(r)] | n.桨 v.用桨划（船） | In dragon boat rowing, each paddler has one oar.
+- ferry | [ˈferi] | n. 渡船 v. 渡运 | We can take the ferry that crosses the river every hour.
+- delay | [dɪˈleɪ] | n. 耽搁；延期 v. 使耽搁；使延期 | We have decided to delay our holiday until September.
+- destination | [ˌdestɪˈneɪʃn] | n.目的地，终点 | We eventually arrived at our destination.
+- anchor | [ˈæŋkə(r)] | n.锚 | We raised the anchor and set sail during the night.
+- defer | [dɪˈfɜː(r)] | v. 推迟，拖延 | We have to defer our departure because of the snowstorm.
+- lull | [lʌl] | n. 暂停，暂时平静期 v. 使昏昏欲睡 | The monotonous sound of the train’s movement lulled me to sleep.
+- burden | [ˈbɜːdn] | v. （使）担负 n. 重担，负担 | It’s a burden I have been carrying for a long time.
+- transit | [ˈtrænzɪt] | v.通过；运送 n.运输；通行；边境，中转 | Transit passengers please go to the transit lounge.
+- crash | [kræʃ] | v.撞击；崩溃：破产 | The rocks crashed down onto the car.
+- raft | [rɑːft] | n. 木筏，木排 | After a series of adventures alone on a raft, he eventually reached the village.
+- embark | [ɪmˈbɑːk] | v. 上船（或飞机等）；开始做 | They embarked at Liverpool for New York.
+- envelope | [ˈenvələʊp] | n. 信封 | He glued a stamp onto the envelope.

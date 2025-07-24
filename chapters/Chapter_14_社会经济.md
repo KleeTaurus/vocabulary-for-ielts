@@ -1,0 +1,172 @@
+### Chapter 14 社会经济
+- trade | [treɪd] | n.贸易 v.交换 | China does a lot of trade with many countries.
+- afford | [əˈfɔːd] | v.负担得起；提供，给予 | I couldn’t afford the rent on my own.
+- consume | [kənˈsjuːm] | v. 消耗；吃，喝 | Chinese people consume huge amounts of rice every year.
+- cost | [kɒst] | v. 需付费 n. 费用；代价；［~s］成本 | I’m determined to attain my purpose at any cost.
+- decrease | [dɪˈkriːs] | n. 减少，减小 v. （使）减少，(使）减小 | Her interest in this subject gradually decreases.
+- economy | [ɪˈkɒnəmi] | n.经济；节约 | As the war debt lightened, the economy of the country developed quickly.
+- expense | [ɪkˈspens] | n.费用，花费 | Societies should try to save every plant and animal species regardless of the expense.
+- financial | [faɪˈnænʃ(ə)l] | adj.财政的；金融的 | Southeast Asia’s financial crisis taught people an important lesson.
+- grocery | [ˈɡrəʊsəri] | n.食品杂货店 | Her mother began to ope ate a small grocery.
+- gross | [ɡrəʊs] | adj.总的，毛的 | GDP stands for Gross Domestic Product.
+- growth | [ɡrəʊθ] | n.增长；生长 | Cold weather constrained the plant’s growth.
+- industry | [ˈɪndəstri] | n. 工业；产业；勤劳 | The conference underscored the importance of modern industry.
+- market | [ˈmɑːkɪt] | n.市场；市场需求 | The market is experiencing depression at the moment.
+- merchant | [ˈmɜːtʃənt] | n.商人 adj.商业的 | The merchant decided to use camels to carry his goods across the desert.
+- receipt | [rɪˈsiːt] | n.收据；收到 | When you have paid for something, a receipt is given to you.
+- reduce | [rɪˈdjuːs] | v.减少，减小 | The prices in the shop have been reduced, so it’s a good time to buy.
+- slogan | [ˈsləʊɡən] | n.标语，口号 | The advertising slogan was a play on words.
+- spend | [spend] | v.花费 n.开支 | The time I spend in commuting every day adds up to two hours.
+- impose | [ɪmˈpəʊz] | v.强加；征收(税款) | She often imposed her values on her daughter.
+- endow | [ɪnˈdaʊ] | v.捐赠；赋予 | She is endowed with great writing ability.
+- lease | [liːs] | n.租约 v.出租；租用 | We will lease you the house for one year.
+- invoice | [ˈɪnvɔɪs] | n.发票 v.开发票给 | The seller issued an invoice for the goods.
+- currency | [ˈkʌrənsi] | n.货币；通用，流行 | Our currency will not depreciate.
+- advertise | [ˈædvətaɪz] | v.做广告 | We advertised in the local press.
+- chain | [tʃeɪn] | n.连锁店；一连串（人或事物） | The strike may produce a chain reaction in other industries.
+- purchase | [ˈpɜːtʃəs] | nv.购买 | The new couple spent some money for the purchase of the furnitl re necessary for their new house.
+- crisis | [ˈkraɪsɪs] | n.危机 | They suffered huge losses in the financial crisis.
+- decline | [dɪˈklaɪn] | vn.下降 | There is a sharp decline in unemployment.
+- debt | [det] | n.债务 | Liabilities are the debt or obligation that a businessman must pay in money or services at some time in the future.
+- exchange | [ɪksˈtʃeɪndʒ] | n.交换；兑换 | It seems the exchange rate fluctuates almost daily.
+- commercial | [kəˈmɜːʃ(ə)l] | adj.商业的 n.商业广告 | The downtown area is zoned for commercial use.
+- depression | [dɪˈpreʃn] | n.沮丧，消沉；萧条期，不景气 | A holiday may help him cope with feelings of depression.
+- security | [sɪˈkjʊərəti] | n.安全工作；安全；［securities］证券 | The government looks after the security of the country.
+- increment | [ˈɪŋkrəmənt] | n.增加量；定期的加薪 | Your salary will be $12,000 a year, with annual increments of $500.
+- tax | [tæks] | n.税 v.对......征税 | Governments don’t tax children.
+- dwindle | [ˈdwɪnd(ə)l] | v. 缩小，减少 | The number of people going to the bookstores seems to dwindle steadily.
+- retail | [ˈriːteɪl; rɪˈteɪl] | n.零售 v.零售；以......价格零售 | These slippers retail at 10 dollars per pair.
+- diminish | [dɪˈmɪnɪʃ] | v. （使) 减少；贬低 | We should try to diminish the cost of production.
+- deficit | [ˈdefɪsɪt] | n.赤字，逆差 | The current trade deficit indicates a serious imbalance between our imports and exports.
+- recession | [rɪˈseʃn] | n. 经济衰退 | This country was in a deep economic recession.
+- levy | [ˈlevi] | n.税款 v.征收，征（税） | The government has decided to levy a tax on imported cars.
+- tariff | [ˈtærɪf] | n.关税；（公共服务的）收费 | There is a very high tariff on alcohol.
+- duty | [ˈdjuːti] | n.职责；义务；关税 | I feel it my duty to speak frankly to you.
+- revenue | [ˈrevənjuː] | n. （公司、组织的）收入；（政府的）税收，财政收入 | State universities in the U.S. get most of their revenue from taxes.
+- inflation | [ɪnˈfleɪʃn] | n.通货膨胀 | Inflation erodes the purchasing power of the families with lower income.
+- deflation | [ˌdiːˈfleɪʃn] | n.通货紧缩 | Deflation and financial distress stifled economicgrowth.
+- bond | [bɒnd] | n. 债券 | A company issues a bond to collect money and will pay back with interest.
+- downsize | [ˈdaʊnsaɪz] | v.使精简；裁员 | The factory has to downsize and more fully utilise the remaining workers.
+- fund | [fʌnd] | v. 资助 n. 基金；［～］资金 | The research is funded by the government.
+- donate | [dəʊˈneɪt] | V.捐赠，捐献 | The government calls on the youth to donate their blood voluntarily.
+- promotion | [prəˈməʊʃn] | n.促销活动；晋升 | Last year’s sales promotions were quite successful.
+- voucher | [ˈvaʊtʃə(r)] | n.代金券 | The voucher can be used at most major cinemas.
+- coupon | [ˈkuːpɒn] | n.优惠券 | I have a coupon for 30% off any dairy product in this supermarket.
+- swap | [swɒp] | vn. 交换 | She swapped her watch for an antique locket.
+- discount | [ˈdɪskaʊnt] | n. 折扣 v. 打折出售 | I'll sell at a discount in return for a speedy sale.
+- increase | [ɪnˈkriːs , ˈɪŋkriːs] | n. 增加，增长 v. （使）增加，（使）增长 | His employer has increased his salary.
+- wealth | [welθ] | n.财富，丰富 | Health is better than wealth.
+- treasure | [ˈtreʒə(r)] | n.金银财宝;宝物，珍品 | This museum has many art treasures.
+- coin | [kɔɪn] | n.硬币 v铸币;创造(新词语) | We’d better not coin terms which are not intelligible.
+- sale | [seɪl] | n.卖，销售；销售额 | The store discounted all air conditioners forsale.
+- product | [ˈprɒdʌkt] | n. 产品；产物 | A series of technical issues delayed the launch of the new product.
+- interest | [ˈɪntrəst] | n.兴趣；利益；利息 v.使感兴趣 | You must pay interest on that loan.
+- insure | [ɪnˈʃʊə(r)] | v.确保；给......上保险 | His talent and commitment will insure hissuccess.
+- absent | [ˈæbsənt] | adj.不在场的，缺席的；心不在焉的 | Daniel was absent from the house all the nextday.
+- account | [əˈkaʊnt] | n.账户;解释 | Have you got a bank account?
+- agent | [ˈeɪdʒənt] | n.代理人，代理商 | The travel agent has made all the reservations for my journey.
+- attend | [əˈtend] | v.参加，出席 | A large number of people attended her birthday party.
+- cargo | [ˈkɑːɡəʊ] | n.货物 | The ship is discharging the cargo.
+- cash | [kæʃ] | n.现金 v.兑现(支票) | He paid for the meal in cash.
+- cheque | [tʃek] | n.支票 | The bank cashed my cheque.
+- company | [ˈkʌmpəni] | n.公司；陪伴；剧团 | The company has connections with a number of Canadian firms.
+- copper | [ˈkɒpə(r)] | n.铜;[~s]铜币:警察 | He polished up the old copper coins.
+- deal | [diːl] | v.买卖；［~with］处理，应付 n.协议，交易；大量 | I’ll deal with the children later.
+- descend | [dɪˈsend] | v. 下降，下来 | She is said to be descended from a French aristocratic family.
+- dump | [dʌmp] | v.丢弃，倾倒；倾销 | Some people just dump their rubbish in the river.
+- goods | [ɡʊdz] | n. 商品，货物 | You give me the money and I’ll give you thegoods.
+- guarantee | [ˌɡærənˈtiː] | v.担保；确保 n.保证；保修单；担保金，担保物 | They offer a two-year guarantee on all their household appliances.
+- invest | [ɪnˈvest] | v.投资；投入 | The state has planned to invest two million in the dam.
+- reliable | [rɪˈlaɪəb(ə)l] | adj.可靠的，可信赖的 | It’s not reliable to judge a man only by his looks.
+- saving | [ˈseɪvɪŋ] | n.节约，节省 | A saving of 20% is obtainable under this scheme.
+- share | [ʃeə(r)] | n.股份，股票；（在若干人之间分得的）一份 v.分享；共享；分担 | He has put all his money in stocks and shares.
+- shilling | [ˈʃɪlɪŋ] | n.先令 | Five pence was equal to a shilling.
+- spare | [speə(r)] | adj. 多余的，空闲的 v. 剩余 | If you have a spare bed, may I stay tonight?
+- stock | [stɒk] | n.股本:股票:库存 | All stock prices have jumped up this month.
+- deposit | [dɪˈpɒzɪt] | n.存款;押金 | The interest of the current account is lower than that of the deposit account.
+- expand | [ɪkˈspænd] | v.扩充，扩大；扩展 | Metals expand when they are heated.
+- lack | [læk] | n. 缺乏，不足 v. 缺少，没有 | Serious lack of circulating funds forced the closure of the company.
+- adequate | [ˈædɪkwət] | adj.足够的；合格的 | We had adequate food for a week’s journey.
+- estate | [ɪˈsteɪt] | n.地产；遗产 | The old lady left an estate of three million pounds when she died.
+- bid | [bɪd] | vn.出价；投标 | They lost the contract because their bid was too high.
+- firm | [fɜːm] | n.公司 adj.坚定的；坚固的 | Because of their common values, they soon formed a firm friendship.
+- sufficient | [səˈfɪʃ(ə)nt] | adj.足够的 | We must work hard, but equally we must get sufficient rest.
+- benefit | [ˈbenɪfɪt] | n.益处 v.有利于；获益 | A large number of students will benefit from the new teaching method.
+- possess | [pəˈzes] | v. 占用，拥有；影晌，控制 | She was possessed by the desire to be rich.
+- transaction | [trænˈzækʃ(ə)n] | n. （一笔）交易，业务 | Because sellers and buyers manage business transactions, it leads companies to keeping in touch with customers.
+- escalate | [ˈeskəleɪt] | v. （使）逐步升级，（使）不断恶化 | The cost of living is escalating in the country.
+- auction | [ˈɔːkʃ(ə)n] | v.n.拍卖 | His house was sold at an auction.
+- turnover | [ˈtɜːnəʊvə(r)] | n. （人员）流动率；营业额 | Annual turnover is about 800 million pounds.
+- quota | [ˈkwəʊtə] | n.限额，配额；定额 | The committee reversed its decision on the import quota.
+- instalment | [ɪnˈstɔːlmənt] | (=installment)n(分期付款的)一期付款 | Buying goods in instalments has become an epidemic in recent years.
+- legacy | [ˈleɡəsi] | n.遗赠，遗产 | The girl received a small legacy from her aunt.
+- influx | [ˈɪnflʌks] | n.流入，涌进 | The country simply cannot handle this influx of refugees.
+- affluent | [ˈæfluənt] | adj. 富裕的，富足的 | We live in an affluent society.
+- redundant | [rɪˈdʌndənt] | adj.多余的；被裁减的 | During the financial crisis, many workers were made redundant.
+- enterprise | [ˈentəpraɪz] | n.企业；事业 | They are involved in an exciting scientific enterprise.
+- entity | [ˈentəti] | n.实体，独立存在物 | The country is no longer a sovereign entity.
+- input | [ˈɪnpʊt] | n.输入信息；投入物 | We must increase the output with less labourinput.
+- acquisition | [ˌækwɪˈzɪʃ(ə)n] | n.获得；（对公司的）并购 | The acquisition of knowledge is a social activity.
+- negotiation | [nɪˌɡəʊʃiˈeɪʃn] | n.谈判，协商 | We are satisfied with the smoothness of the negotiation.
+- wholesale | [ˈhəʊlseɪl] | n.批发 | These wholesale dealers earned a large sum ofmoney.
+- enrich | [ɪnˈrɪtʃ] | v. 使富有；充实 | Giving much to the poor will enrich a man’s store.
+- export | [ɪkˈspɔːt , ˈekspɔːt] | v. 出口 n. 出口；出口商品 | Oil has supplanted coffee as our main export.
+- import | [ˈɪmpɔːt , ɪmˈpɔːt] | v. 进口 n. 进口；进口商品 | We import a huge amount of produce from other countries every year.
+- dividend | [ˈdɪvɪdend] | n. 股息，红利 | The company declared a large dividend at the end of the year.
+- job | [dʒɒb] | n.职业，工作；（一份）工作，活儿 | The job is not yet finished.
+- cheap | [tʃiːp] | adj.廉价的；质劣价低的 | Cheap shoes soon wear out.
+- interview | [ˈɪntəvjuː] | n.面试；采访 v.对......进行面试；采访 | The interview has drawn considerable attention to the profession.
+- discharge | [dɪsˈtʃɑːdʒ] | v. 解雇 n. （船的）卸货 | How long will the discharge of the cargo take?
+- resume | [rɪˈzjuːm] | n.（求职用的）履历，简历；摘要 | Please e-mail your personal résumé to us before sitting a written test.
+- clerk | [klɑːk] | n.店员；办事员；接待员 | The clerk was elevated to a managerial position.
+- dismiss | [dɪsˈmɪs] | v. 解雇；解散；（法官）驳回 | If you are late again, you will be dismissed.
+- labour | [ˈleɪbə(r)] | n.劳动，体力劳动 | Many women do hard manual labour.
+- occupation | [ˌɒkjuˈpeɪʃ(ə)n] | n.占领，占据；职业 | I regard being a teacher as a decent occupation and I love being a teacher.
+- personnel | [ˌpɜːsəˈnel] | n.人员，职员；人事部门 | The next project needs new personnel.
+- profession | [prəˈfeʃn] | n.职业 | The medical profession requires a strong sense of responsibility.
+- resign | [rɪˈzaɪn] | v. 辞去，辞职 | Katherine was forced to resign from the board of directors.
+- retire | [rɪˈtaɪə(r)] | v. （使）退休 | If they prove incompetent, they should be demoted or asked to retire.
+- sack | [sæk] | n.大口袋，麻布袋 v.开除 | The poor guy got sacked yesterday.
+- change | [tʃeɪndʒ] | n.改变 | All our previous ideas are now in the melting pot, which means our jobs are bound to change radically.
+- choose | [tʃuːz] | v. 选择 | We have many patterns in stock for you to choose from.
+- cooperate | [kəʊˈɒpəreɪt] | v. 合作，协作 | If they cooperate with each other, everything will run smoothly.
+- develop | [dɪˈveləp] | V发展；开发 | The United States can’t develop in isolation from the rest of the world.
+- earn | [ɜːn] | v.赚得；赢得；获得 | He has earned a lot of money this month.
+- failure | [ˈfeɪljə(r)] | n.失败；失败的人；失败的事 | His failure may lead to the bankruptcy of thecompany.
+- hire | [ˈhaɪə(r)] | v.雇用：租用自．租赁（业） | They hired an advertising company to help sell a new product.
+- income | [ˈɪnkʌm] | n. 收入 | Many staff members made an accusation that the earned incomes were not distributed upon the principle of equality.
+- loss | [lɒs] | n.遗失；损失；亏损 | They forfeited the business after only two months and with great loss.
+- manage | [ˈmænɪdʒ] | v. 管理；设法做到 | From this day on, I will manage all my affairs on my own.
+- opportunity | [ˌɒpəˈtjuːnəti] | n.机会，时机 | I’d like to take this opportunity to thank everyone for their hard work on the project.
+- payment | [ˈpeɪmənt] | n.支付；支付的款顶；付款额 | You may defer payment until next week.
+- prompt | [prɒmpt] | V.促使 adj.迅速的 | What prompted you to do such a thing?
+- regulate | [ˈreɡjuleɪt] | v. 管理；调整 | Your watch is slow. It needs to be regulated.
+- result | [rɪˈzʌlt] | n. 后果，结果 v. 导致 | As a result, there is often trouble in American families.
+- salary | [ˈsæləri] | n.工资，（尤指按月领的）薪水 | She was employed with a salary of 3,000 dollars a month.
+- solve | [sɒlv] | v. 解答；解决 | I must alert him to the need to solve the problem.
+- valuable | [ˈvæljuəbl] | adj.很值钱的，贵重的；很重要的 | His wife put on her valuable ring and necklace.
+- wage | [weɪdʒ] | n（通常指按周领的）工钱 | These workers demanded a wage rise of 5%.
+- worthy | [ˈwɜːði] | adj.有价值的；值得......的 | This book is worthy of reading.
+- accelerate | [əkˈseləreɪt] | v. （使）加速 | Good economic policies can accelerate the economic growth of a society.
+- undertaking | [ˌʌndəˈteɪkɪŋ] | n. 任务，事业；许诺，保证 | I give an undertaking that we shall proceed with the legislation.
+- vocation | [vəʊˈkeɪʃn] | n. （认为特别适合自己的）职业；使命感 | She struggled for years to find her true vocation.
+- incentive | [ɪnˈsentɪv] | n. 刺激，激励 | Incentives differ from country to country and region to region.
+- employ | [ɪmˈplɔɪ] | v.雇用；采用 | They employ casual labour to pick the fruit.
+- subsidy | [ˈsʌbsədi] | n.津贴，补贴 | The government has decided to increase subsidieson farm produce.
+- recommend | [ˌrekəˈmend] | v.推荐，介绍：劝告，建议 | I recommend you to reserve a table in advance.
+- payroll | [ˈpeɪrəʊl] | n.工资名单 | Every month she has to make a payroll of the staff.
+- abortion | [əˈbɔːʃn] | n. 人工流产；（计划等）中途失败 | His attempt proved an abortion.
+- chance | [tʃɑːns] | n.机会；可能性 | Her testimony works against his chance of winning the case.
+- sustainable | [səˈsteɪnəb(ə)l] | adj.可持续的 | Sustainable development is the common target of human beings.
+- improve | [ɪmˈpruːv] | v. 改善，改造 | He offered a suggestion to improve the plan.
+- sanction | [ˈsæŋkʃn] | n. 批准；制裁 v. 批准；对……实施制裁 | The minister can only act in this ma er with the sanction of parliament.
+- reimburse | [ˌriːɪmˈbɜːs] | v. 赔偿，补偿 | We will reimburse the customer for any loss ordamage.
+- remuneration | [rɪˌmjuːnəˈreɪʃ(ə)n] | n. 报酬 | He received a small remuneration.
+- career | [kəˈrɪə(r)] | n.职业，事业；职业生涯 | After the accident, she realised that her acting career was over.
+- workforce | [ˈwɜːkfɔːs] | n.劳动力；全体员工 | This year, 5% of the workforce will be mader edundant.
+- workaholic | [ˌwɜːkəˈhɒlɪk] | n.工作狂 | I do not want to become a workaholic.
+- fire | [ˈfaɪə(r)] | v. 解雇 n. 火 | He was fired by his boss.
+- lay-off | [ˈleɪ ɒf] | n. （因岗位不足的）解雇，裁员；歇工期 | There are more lay-offs in the IT industry thisyear.
+- refund | [ˈriːfʌnd , rɪˈfʌnd] | n. 退款 v. 退（款） | We can refund the price difference.
+- coordinate | [kəʊˈɔːdɪneɪt] | v. 调和，协调 n. 坐标 | Our efforts need to be further coordinated for higher efficiency.
+- collaborate | [kəˈlæbəreɪt] | v. 合作 | We would like to ask you to collaborate with us.

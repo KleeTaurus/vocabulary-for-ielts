@@ -1,0 +1,69 @@
+### Chapter 21 语言演化
+- root | [ruːt] | n.词根，字根；根源 | The dog is snuffling around the root of a tree.
+- language | [ˈlæŋɡwɪdʒ] | n.语言 | His misunderstanding of language was the primary cause of his other problems.
+- symbol | [ˈsɪmbəl] | n.象征；符号，记号 | To them, the monarchy is the special symbol of nationhood.
+- sign | [saɪn] | n.符号；征兆，迹象；手势 v.签（名） | He made a sign for me to follow him.
+- gesture | [ˈdʒestʃə] | n.手势，姿势 | He put his arm round her in a protective gesture.
+- handwriting | [ˈhændraɪtɪŋ] | n.笔迹;书写 | The address was in Anna's handwriting.
+- pictograph | [ˈpɪktəˌgrɑːf] | n. 象形文字 | Generally speaking, the pictograph is the first text.
+- wedge | [wedʒ] | n.楔子；楔形物；楔形文字 | Put a wedge under the door so that it will stay open.
+- knot | [nɒt] | n.（绳、线等的）结；（树枝上的）节子 | He made a knot in the rope.
+- linguistics | [lɪŋˈgwɪstɪks] | n.语言学 | He is engaged in the studies of linguistics.
+- semantic | [sɪˈmæntɪk] | n.语义的 | There are two kinds of puns, phonetic pun and semantic pun.
+- syntax | [ˈsɪntæks] | n.句法 | Let's investigate the syntax of Chinese.
+- grammar | [ˈgræmə] | n.语法；语法书 | He was known for his poor grammar and punctuation.
+- phonetics | [fəˈnetɪks] | n.语音学 | Daniel Jones is generally referred to be the foremost authority on phonetics.
+- pronounce | [prəˈnaʊns] | v.发……的音；宣布 | Did 1 pronounce your name correctly?
+- intonation | [ɪntəˈneɪʃ(ə)n] | n.语调 | Some questions are spoken with a rising intonation.
+- inflection | [ɪnˈflɛkʃən] | n.语调的抑扬变化 | She spoke in a low voice, always without inflection.
+- dialect | [ˈdaɪəlɛkt] | n.方言，地方话 | The dialect is spoken principally in the southern areas.
+- accent | [ˈæksənt ] | n.重音；口音；读音符号 | He speaks with a strong southern accent.
+- utterance | [ˈʌtərəns ] | n.说话；话语 | His every utterance will be scrutinised.
+- oral | [ˈɔːrəl ] | adj. 口头的 | Students of English should have a lot of oral drills.
+- verbal | [ˈvɜːbəl ] | adj. 口头的；言语的 | Don't be afraid of verbal abuse or criticism.
+- syllable | [ˈsɪləbl ] | n.音节 | The stress is on the last syllable.
+- phoneme |  | n.音位 | In actual speech, a phoneme is realised phonetically as a certain phone.
+- vowel |  | n.元音 | Each language has a different vowel system.
+- consonant | [ˈkɒnsənənt ] | n.辅音 | These are common consonant clusters at the beginning of words.
+- alphabet | [ˈælfəbɪt ] | n.字母表，（一种语言的）全部字母 | Q comes between P and R in the English alphabet.
+- logogram | [ˈlɒgəʊgræm ] | n.词符，缩记符 | ACP is the logogram of English of the African, Caribbean and Pacific states.
+- vocabulary | [vəʊˈkæbjʊləri ] | n.词汇 | His vocabulary was sound and his grammar was excellent.
+- dictionary | [ˈdɪkʃ(ə)n(ə)ri ] | n.词典，字典，辞典 | The dictionary is a vast treasure trove of information.
+- idiom | [ˈɪdɪəm ] | n.习语 | “Never”too old to learn“is”an idiom.
+- phrase | [freɪz] | n.短语；习语 | The phrase was not meant to be taken seriously.
+- clause | [klɔːz] | n.分句，从句；条款 | A confidentiality clause was added to the contract.
+- expression | [ɪksˈprɛʃən] | n.词语；表达；表情 | Her expression of gratitude was simple and touching..
+- tense | [tɛns] | n.时态 adj.紧张的 | Dartz who had at first been very tense, at last relaxed.
+- prefix | [ˈpriːfɪks] | n.词首，前缀；前置代号 | To make calls from Canada, use the prefix 01133 before the numbers given here.
+- suffix | [ˈsʌfɪks] | n.后缀，词尾；尾标 | These ships were all numbered with the same suffix.
+- abbreviation | [əˌbriːvɪˈeɪʃ(ə)n] | n.缩写形式 | BBC is an abbreviation for British Broadcasting Corporation.
+- synonym | [ˈsɪnənɪm] | n.同义词 | Don't mix up this pair of synonyms.
+- antonym | [ˈæntəʊnɪm] | n.反义词 | “Happy”is an antonym of “sad”
+- noun | [naʊn] | n名词 | The word
+- singular | [ˈsɪŋgjʊlə] | n.单数 adj.单数的；非凡的 | The young man has a singular ear for music.
+- plural | [ˈplʊərəl] | n.复数 adj.复数的；多元的 | A plural marriage is forbidden by many countries.
+- pronoun | [ˈprəʊnaʊn] | n.代词 | He always put the stress on the pronoun.
+- verb | [vɜːb] | n.动词 | A sentence usually contains a subject and a verb.
+- adjective | [ˈæʤɪktɪv] | n.形容词 | The function of an adjective is to describe or add to the meaning of a noun,
+- adverb | [ˈædvɜːb] | n.副词 | Adverb is to describe a verb or an action.
+- preposition | [ˌprɛpəˈzɪʃən] | n.介词 | You should cross out this preposition in the sentence.
+- conjunction | [onjunction] | n.连词；结合 | The word is a temporal conjunction.
+- consistent | [kənˈsɪstənt] | adj. —致的；（观点或看法）连贯的 | The policies which will be put into place are clear and consistent.
+- complicated | [ˈkɒmplɪkeɪtɪd] | adj.复杂的 | The business is a large, complicated organism.
+- complex | [ˈkɒmplɛks] | adj.复杂的 | As tools have become more and more complex, we need more complex controls to control them.
+- compile | [kəmˈpaɪl] | v.编纂 | t takes years of hard work to compile a good dictionary.
+- version | [ˈvɜːʃən] | n.译本；版本 | hese books are Chinese versions of Shakespeare.
+- translate | [trænsˈleɪt] | v.翻译；（使）转变 | No matter how well a poem is translated, something of the spirit of the original work is lost.
+- paraphrase | [ˈpærəfreɪz] | v.n.意译，改述 | The teacher asked his students to paraphrase the long sentence.
+- interpret | [ɪnˈtɜːprɪt] | v. 口译；解释，说明；领会，理解 | He interpreted the silence as contempt.
+- narrate | [nəˈreɪt] | v.讲（故事），叙述 | The sailor narrated his life story to me in the tavern.
+- illuminate | [ɪˈljuːmɪneɪt] | v.阐释，说明；照亮 | We use pictures and drawings to illuminate our subject.
+- decipher | [dɪˈsaɪfə] | v.译解；辨认 | We can decipher the code intercepted by the broadcasting station.
+- eloquence | [ˈɛləʊkwəns] | n.雄辩；流利的口才 | The audience are struck by her simple, spellbinding eloquence.
+- communicate | [kəˈmjuːnɪkeɪt] | v.沟通，交流；传达 | We communicated mostly by e-mail.
+- discussion | [dɪsˈkʌʃən] | n.讨论，谈论 | After a lot of discussion among the directors, the matter was settled in the end.
+- brainstorm | [ˈbreɪnstɔːm] | n.集体自由讨论，头脑风暴 v.集思广益，进行头脑风暴 | Managers get together and brainstorm a more permanent solution to the problem.
+- debate | [dɪˈbeɪt] | v.n.辩论；争论，讨论 | The government is debating about the education laws.
+- commentary | [ˈkɒməntəri] | n.评论，评注；批评；实况报道 | The conclusion of the commentary really hit the bull's-eye.
+- negotiate | [nɪˈgəʊʃɪeɪt] | v.协商，谈判 | We are not about to negotiate with terrorists.
+- contention | [kənˈtɛnʃən] | n.争论，争辩；观点 | My contention is that the scheme will never work.

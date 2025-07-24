@@ -1,0 +1,176 @@
+### Chapter 07 娱乐运动
+- artist | [ˈɑːtɪst] | n. 艺术家 | He was not the kind of artist who could work collaboratively.
+- programme | [ˈprəʊɡræm] | n. 节目；方案；（演出或活动的）程序 | There was an interesting programme on TV yesterday.
+- film | [fɪlm] | n. 影片；胶卷 | A good film will be on this weekend.
+- movie | [ˈmuːvi] | n. 电影 | This movie was hyped up in the media before it was screened.
+- concert | [ˈkɒnsət] | n. 音乐会 | Various performers will present a concert to raise money for AIDS charities.
+- magic | [ˈmædʒɪk] | n. 魔术；魔法 | The magician thrilled his audience with his magic.
+- press | [pres] | n. 新闻界，记者；报刊；出版社 | The power of the press is very great.
+- correspondent | [ˌkɒrəˈspɒndənt] | n. 通信者；通讯员，记者 | That war correspondent proudly outgunned the army sharpshooters.
+- messenger | [ˈmesɪndʒə(r)] | n. 邮递员，信使 | The messenger brought your note today.
+- medium | [ˈmiːdiəm] | n. 媒介 adj. 中间的，中等的 | Present’s speech was broadcast through the medium of television.
+- entertain | [ˌentəˈteɪn] | v.娱乐；招待；心存，怀有 | This television programme is designed to educate and to entertain as well.
+- announcer | [əˈnaʊnsə(r)] | n. 广播员，播音员 | The announcer started with the day’s topstories.
+- critic | [ˈkrɪtɪk] | n. 批评家；挑剔的人 | The critics said the new movie would not do well at the box office.
+- journalist | [ˈdʒɜːnəlɪst] | n. 记者，新闻工作者 | No journalist was bold enough to challenge the Prime Minister.
+- painter | [ˈpeɪntə(r)] | n. 画家；油漆匠 | This painter is not first-class.
+- typist | [ˈtaɪpɪst] | n. 打字员 | The two typists have already worked all day.
+- drama | [ˈdrɑːmə] | n. 戏，剧；戏剧艺术 | My brother was studying a course in drama at university.
+- imitate | [ˈɪmɪteɪt] | v. 模仿，效仿 | He imitates other people to perfection.
+- opera | [ˈɒprə] | n. 歌剧 | She joined the Royal Opera House the following year.
+- orchestra | [ˈɔːkɪstrə] | n. 管弦乐队 | This orchestra has been established under the patronage of the government.
+- perform | [pəˈfɔːm] | v. 表演，演出 | A jazz band will perform live at tomorrow’sparty.
+- rehearsal | [rɪˈhɜːsl] | n. 排练 | The play is in rehearsal now.
+- await | [əˈweɪt] | v. 等候，期待；将降临到……身上 | If you are lucky enough to vacation in the Alps, what delights will await you?
+- expect | [ɪkˈspekt] | v. 预料，预期 | The managers expect exceptional sales growth in the last quarter.
+- circus | [ˈsɜːkəs] | n. 马戏团；圆形广场（常用于地名） | Last Christmas, the circus owner decided to take some presents to a children’s hospital.
+- handout | [ˈhændaʊt] | n. 传单；讲义 | Please read the handout carefully.
+- ballet | [ˈbæleɪ] | n. 芭蕾舞；芭蕾舞剧 | I wanted to be a ballet dancer when I was a child.
+- leaflet | [ˈliːflət] | n. 传单 v. 散发传单 | We were paid to leaflet advertisements in the shopping mall.
+- gossip | [ˈɡɒsɪp] | n. 闲聊；流言蜚语 | I’ve read about it in the gossip column.
+- propaganda | [ˌprɒpəˈɡændə] | n. 宣传，鼓吹 | These reports clearly contain elements of propaganda.
+- recreation | [ˌriːkriˈeɪʃn] | n. 休闲，娱乐 | Harry makes up funny stories to amuse his little brother.
+- foresee | [fɔːˈsiː] | v. 预见，预知 | They cannot foresee how things will turn out.
+- comedy | [ˈkɒmədi] | n. 喜剧 | Dwayne Johnson talked about his experiences of starring in comedies.
+- symphony | [ˈsɪmfəni] | n. 交响乐 | The Royal Stockholm Philharmonic Orchestra played Beethoven’s Ninth Symphony .
+- festival | [ˈfestɪv(ə)l] | n.节日；（音乐、电影等的）节 | This music festival will feature fireworks, live music, and barbecue.
+- feast | [fiːst] | n.盛宴；（宗教）节日 | The feast was served by his mother and sisters.
+- mimic | [ˈmɪmɪk] | v.模仿，效仿 | He mimicked the teacher’s accent.
+- simulate | [ˈsɪmjuleɪt] | v.模拟；假装，冒充 | We can use computers to simulate many situations.
+- tragedy | [ˈtrædʒədi] | n.悲剧；悲惨的事 | She was too exhausted and distressed to talk about the tragedy.
+- animation | [ˌænɪˈmeɪʃ(ə)n] | n.动画片；动画制作 | It is this cartoon that brought the animation industry back from the dead.
+- X-rated | [ˈeks reɪtɪd] | adj.x级的，青少年不宜的 | When Logan was showed in cinema, it was X-rated.
+- craftsman | [ˈkrɑːftsmən] | n.工匠，工艺师 | The original designs were made by highly skilled craftsmen.
+- commentator | [ˈkɒmənteɪtə(r)] | n. 评论员；实况解说员 | I enjoy this sports commentator’s commentaries very much.
+- exponent | [ɪkˈspəʊnənt] | n. 阐述者，倡导者，拥护者 | He is an exponent of the opinions of Einstein.
+- editor | [ˈedɪtə(r)] | n. 编辑，校订者；（电台或电视台的）记者，编辑 | She gave the editor a dishonest account of this event.
+- publish | [ˈpʌblɪʃ] | v. 公布；出版，发行 | News of the pop star’s sudden death was not published for several days.
+- disseminate | [dɪˈsemɪneɪt] | v. 散布，传播 | The agency would collect and disseminate information.
+- anticipate | [ænˈtɪsɪpeɪt] | v. 预期，预料 | Sales are better than they have anticipated.
+- pastime | [ˈpɑːstaɪm] | n. 消遣，娱乐 | Listening to music is the favourite pastime of many people all over the world.
+- rumour | [ˈruːmə(r)] | n. 谣言，传闻 | The rumour soon swept the entire company.
+- consensus | [kənˈsensəs] | n. 共识，一致的意见 | Could we reach a consensus on this issue? Let’s take a vote.
+- amuse | [əˈmjuːz] | v. 逗乐；给......提供娱乐 | Harry makes up funny stories to amuse his little brother.
+- role | [rəʊl] | n. 角色；作用；职能 | I played the role of the mean aunt in the play.
+- competition | [ˌkɒmpəˈtɪʃ(ə)n] | n.竞争；比赛 | There is a rise in unemployment, so the competition for jobs is very fierce.
+- piano | [piˈænəʊ] | n.钢琴 | He started to learn the piano when he was very young.
+- violin | [ˌvaɪəˈlɪn] | n.小提琴 | The violin is not quite in tune with the piano.
+- drum | [drʌm] | n.鼓；鼓状物；大桶 | The drum beats were steady and slow.
+- guitar | [ɡɪˈtɑː(r)] | n.吉他 | She strummed her guitar, singing her own song.
+- exhibition | [ˌeksɪˈbɪʃ(ə)n] | n.展览 | They are coming to the exhibition as my guests.
+- band | [bænd] | n.乐队； | The band will play on request.
+- jazz | [dʒæz] | n.爵士乐 | He is well versed in many styles of jazz.
+- musical | [ˈmjuːzɪk(ə)l] | adj.音乐的；悦耳的 | The drum is one of the oldest musical instruments.
+- pop | [pɒp] | n.流行音乐，流行乐曲 | The radio had fed him a stream of pop songs.
+- rhythm | [ˈrɪðəm] | n节奏，韵律 | I can’t dance to music without a good rhythm.
+- stage | [steɪdʒ] | n.舞台；阶段； | Each stage of the battle was carried off flawlessly.
+- tone | [təʊn] | n.音色；声调；腔调 | This violin has a very good tone.
+- trumpet | [ˈtrʌmpɪt] | n.喇叭，小号 | His performance as a trumpet player was quite revolutionary.
+- tune | [tjuːn] | n.曲调；短乐曲 | The violin seems to be out of tune.
+- rock | [rɒk] | n.摇滚乐；岩石 | Glam rock developed in the early 1970s and David Bowie was one of the most influential glam rock artists.
+- patron | [ˈpeɪtrən] | n.赞助人；顾客，老主顾 | A wealthy patron has promised to send him to study overseas.
+- spectator | [spekˈteɪtə(r)] | n.观众 | The match attracted over 40,000 spectators.
+- champion | [ˈtʃæmpiən] | n.冠军，第一名 | As the defending champion, she is expected to reach the final.
+- melody | [ˈmelədi] | n.乐曲；旋律 | I like that song, because its melody is really pleasant.
+- solo | [ˈsəʊləʊ] | n独奏，独唱 | She has acquired a reputation as this country’s premier solo violinist.
+- scene | [siːn] | n.景色；现场；（戏剧的）场面 | The scene is perfect when you see the sun rising slowly in the east.
+- gallery | [ˈɡæləri] | n.美术馆 | The pictures in the gallery were well spacedout.
+- aesthetic | [iːsˈθetɪk] | adj.审美的 | His aesthetic standards are quite different from mine.
+- collect | [kəˈlekt] | v.收集；收藏 | He used to collect stamps, but now he likes to collect coins.
+- select | [sɪˈlekt] | v.选择，挑选 | They were selected from many applicants.
+- opt | [ɒpt] | v.选择 | My aunt opted for early retirement.
+- photograph | [ˈfəʊtəɡrɑːf] | n.照片，相片 | His photograph showed how the plant turned out.
+- portrait | [ˈpɔːtreɪt] | n.肖像，半身画像 | Her portrait hangs in the lobby of the library.
+- painting | [ˈpeɪntɪŋ] | n.油画，绘画； | This painting is invaluable.
+- sculpture | [ˈskʌlptʃə(r)] | n.雕塑 | The smooth contour of the sculpture is wonderful.
+- draw | [drɔː] | v.画；拉；拔出 | Draw a line with a ruler.
+- depict | [dɪˈpɪkt] | v.描述，描写； | In this new biography, she is depicted as a lonely and unhappy woman.
+- describe | [dɪˈskraɪb] | v.描述，形容 | Words cannot describe the beauty of the scene.
+- carve | [kɑːv] | V.雕刻；切下 | The statue was carved out of marble.
+- improvise | [ˈɪmprəvaɪz] | V.临时做；即兴创作 | If an actor forgets his lines on stage, he has to improvise.
+- classical | [ˈklæsɪk(ə)l] | adj.古典的，传统的 | Beethoven is regarded as one of the immortals of classical music.
+- hip-hop | [ˈhɪp hɒp] | n.嘻哈文化 | Hip-hop singers like to wear bling-bling in their music videos to look fancy.
+- lyric | [ˈlɪrɪk] | n.抒情诗； | I don’t understand the lyrics, which are in French, but the song sounds peaceful.
+- disc | [dɪsk] | n. 光碟；唱片；［英］（计算机）磁碟，磁盘 | There is no disc that interest me.
+- cello | [ˈtʃeləʊ] | n..大提琴 | She plays the cello in an orchestra.
+- harmonica | [hɑːˈmɒnɪkə] | n.口琴 | He played a tune on his harmonica.
+- flute | [fluːt] | n. 长笛 | The long-drawn-out sound of a flute is coming from far to near.
+- tournament | [ˈtʊənəmənt] | n.锦标赛，联赛 | He has 65 tournament wins to his name.
+- Olympic | [əˈlɪmpɪk] | adj.奥林匹克运动会的 | The most important part of the Olympics is to participate rather than to win.
+- sponsor | [ˈspɒnsə(r)] | n.发起人；主办人；赞助人 | The company had sponsored the football match.
+- athlete | [ˈæθliːt] | n.运动员:［英］田径运动员 | The boy first showed promise as an athlete in primary school.
+- volunteer | [ˌvɒlənˈtɪə(r)] | n.志愿者 v.自愿做 | Many people volunteer to work on the farms.
+- famous | [ˈfeɪməs] | adj.著名的，出名的 | Wuthering Heights is one of the most famous novels in the world.
+- picnic | [ˈpɪknɪk] | n.野餐；野餐食物 v.野餐 | Let’s eat our picnic by the waterfall.
+- trip | [trɪp] | v.绊倒 n.旅行；绊倒 | The trip was expensive and uncomfortable.
+- camp | [kæmp] | n.营地；阵营 | At dusk, we pitched camp in the middle of nowhere.
+- exercise | [ˈeksəsaɪz] | n.锻炼，运动；习题，练习 v.锻炼 | Swimming is probably the best form of exerciseyou can get.
+- climb | [klaɪm] | v.攀登，爬 | It is not easy to climb a steep mountain.
+- jog | [dʒɒɡ] | v.慢跑 | The old bus jogged steadily down the road.
+- race | [reɪs] | n.赛跑，速度竞赛；人种，种族 | The horse is racing against five others.
+- jump | [dʒʌmp] | v.跳；暴涨；跳远 | He jumped when he heard the news.
+- skate | [skeɪt] | V.滑冰 | What fun it is to throw snowballs, and to skate on the ice!
+- tennis | [ˈtenɪs] | n.网球 | He is a professional tennis player.
+- chess | [tʃes] | n.国际象棋 | Games like chess are intellectual pursuits.
+- gym | [dʒɪm] | n.体育活动； | Both able-bodied and disabled people can use this gym.
+- spring | [sprɪŋ] | vn.跳，跃 | The cat crouched ready to spring.
+- cricket | [ˈkrɪkɪt] | n.板球 | A cricket in the house is good luck.
+- plunge | [plʌndʒ] | V.纵身投入；猛跌；（使）投身 n.跳水；猛跌 | He plunged into the water to save the child.
+- motion | [ˈməʊʃn] | v. 做动作，示意 | She motioned for us to hide ourselves.
+- stadium | [ˈsteɪdiəm] | n.体育场，运动场 | The stadium has been fitted with seating for 100,000 spectators.
+- strain | [streɪn] | V.拉紧：拉伤，纽伤 n.张力，拉力；（精神上的）紧张 | I strained my back when I lifted the box.
+- tumble | [ˈtʌmb(ə)l] | v.摔倒，滚下 | She tumbled on the slick, damp ground.
+- wander | [ˈwɒndə(r)] | v.闲逛，漫步；走柿，开小差 | It is fun to wander the world.
+- badminton | [ˈbædmɪntən] | n.羽毛球 | Badminton can be played by two or four people.
+- bat | [bæt] | n.球拍，球棒，球板 | I want to buy a new cricket bat.
+- bounce | [baʊns] | v. （使）反弹，｛使）弹起；（使）跳动 | The ball hit the wall and bounced off it.
+- dive | [daɪv] | v.跳水；潜水；俯冲 | Diving is a part of this expedition.
+- drag | [dræɡ] | V.拖，拉，拽 | Use your mouse to drag the pictures into that folder.
+- drift | [drɪft] | v.飘移，漂流；流浪，漂泊 | The dead body drifted ashore on the beach.
+- excursion | [ɪkˈskɜːʃn] | n.远足，短程旅行 | We went on an excursion to that town.
+- glide | [ɡlaɪd] | v.滑动，掠过 n.滑行 | The beautiful swan glides gracefully on the pond.
+- goal | [ɡəʊl] | n.球门；进球得分；目的 | The home side rubbed in their superiority with a further goal.
+- hunt | [hʌnt] | n.打猎；搜寻 v.猎取；搜寻 | Parent birds began to hunt for food for their young.
+- kick | [kɪk] | v.n.踢 | Don’t kick the ball into the road.
+- knock | [nɒk] | v.敲，击；撞 | I was so hurried that I knocked into my teacher.
+- lag | [læɡ] | v.落后 n.间隔，时间差 | Let not a single classmate lag behind.
+- leap | [liːp] | n.跳跃 | The thief leaped over the wall and ran away.
+- mobile | [ˈməʊbaɪl] | adj.可移动的；流动的 | The mobile phone business actually was the company’s bread and butter.
+- movement | [ˈmuːvmənt] | n. （身体部位的）活动；运动；移动 | Her every movement is very graceful.
+- outdoor | [ˈaʊtdɔː(r)] | adj.户外的，室外的 | If you enjoy outdoor activities, this is the trip for you.
+- pitch | [pɪtʃ] | n. 沥青 | They used pitch to cover roofs.
+- pull | [pʊl] | v.拉，拖，扯；划（小船） | They pulled the boat toward the lighthouse.
+- racket | [ˈrækɪt] | n. （网球、羽毛球等的｝球拍 | Can I borrow your tennis racket?
+- ski | [skiː] | v.滑雪 n.滑雪板 | The students often go skiing during winter vacations.
+- soccer | [ˈsɒkə(r)] | n. （英式｝足球 | In soccer, only the goalkeeper can play the ball with his hands.
+- stretch | [stretʃ] | V.伸展；伸长｛胳膊、腿） | He stretched out his hand, reaching for a book.
+- tent | [tent] | n.帐篷 | He drew back the tent flap and strode out into the blizzard.
+- throw | [θrəʊ] | V.投，掷，抛，扔 | Throw the stone in the air.
+- toss | [tɒs] | v.扔，抛，掷；（使）颠簸 | The canoe was tossed about among the eddies.
+- training | [ˈtreɪnɪŋ] | n.训练，锻炼；培训 | Training is a prerequisite for competence.
+- cruise | [kruːz] | v.乘船游览；以平稳的速度行驶 | The car was cruising along at 60 kilometres an hour.
+- indoor | [ˈɪndɔː(r)] | adj.室内的 | Billiards is a good indoor game.
+- energetic | [ˌenəˈdʒetɪk] | adj.充满活力的，精力充沛的 | He is an energetic basketball player.
+- pedestrian | [pəˈdestriən] | n.步行者，行人 | In the accident, a pedestrian and a cyclist were injured.
+- stride | [straɪd] | v.大步走，阔步行走 | They are striding forward both in English and in mathematics.
+- bend | [bend] | V.俯身，弯腰；使弯曲 | He bent his walking direction toward me.
+- pace | [peɪs] | n.步速，速度；步调，节奏 v.来回踱步 | Are wages keeping pace with inflation?
+- hike | [haɪk] | v.n.徒步旅行，远足 | It may rain, in which case the hike will be canceled.
+- hop | [hɒp] | v.跳上（或下）；单脚跳行；齐足跳行 | The robber hopped into his car and rushed off.
+- linger | [ˈlɪŋɡə(r)] | v.逗留，流连；继续存留 | We lingered at the beach the whole summer.
+- well-known | [ˌwel ˈnəʊn] | adj.众所周知的，出名的 | The writer is well-known for his prolific works.
+- vigorous | [ˈvɪɡərəs] | adj.充满活力的；活跃的，积极的 | Our attack was very vigorous and the enemy retreated back to the river bank.
+- yoga | [ˈjəʊɡə] | n.瑜伽 | Some people practise yoga to aid relaxation.
+- sprawl | [sprɔːl] | V.仰开四肢坐着｛或躺着）；延伸，蔓延 | He sprawled on the sofa.
+- golf | [ɡɒlf] | n.高尔夫球 | Hundreds of private golf clubs took part in a recent study.
+- marathon | [ˈmærəθən] | n.马拉松赛跑；马拉松式的活动 | Gallard completed the marathon in less than three hours.
+- step | [step] | n.步伐；步骤 | One thing you can do is trying to solve it step by step.
+- vacation | [veɪˈkeɪʃn; vəˈkeɪʃn] | v.休假 n.休假；假期 | I was too busy to spare time for a vacation.
+- billiards | [ˈbɪliədz] | n.台球 | He spent a whole afternoon playing billiards.
+- volleyball | [ˈvɒlibɔːl] | n.排球 | They are watching a live TV broadcast of the volleyball match.
+- hockey | [ˈhɒki] | n.曲棍球；冰球 | She played hockey for the national team.
+- flip | [flɪp] | v.掷;｛使｝快速翻动 adj.随便的，轻率的 | Let’s flip a coin to see who goes first.
+- slide | [slaɪd] | v.滑动；逐渐降低 n.滑行；下跌 | House values may begin to slide.
+- slip | [slɪp] | v.滑跤；滑落；溜 n.滑倒 | She slipped and fell down the stairs.
+- cycling | [ˈsaɪklɪŋ] | n.骑自行车运动 | He likes cycling very much and wants to buy a bicycle.
+- bow | [baʊ , bəʊ] | v.n.鞠躬 | He can’t agree with her, but bowed to her greater experience and knowledge.

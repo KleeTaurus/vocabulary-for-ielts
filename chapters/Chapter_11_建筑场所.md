@@ -1,0 +1,132 @@
+### Chapter 11 建筑场所
+- steel | [stiːl] | n.钢铁 | Hot steel is quenched to be hardened.
+- terrace | [ˈterəs] | n.大阳台，露天平台 | Do you want to sit at a table on the terrace?
+- apartment | [əˈpɑːtmənt] | n. [美］公寓套房 | I have an apartment in downtown Manhattan.
+- block | [blɒk] | n.街区；障碍；一块 | Walk two blocks down the street and go past the city hall.
+- cabin | [ˈkæbɪn] | n.小木屋；（船上的）小舱 | They lived in a little log cabin in the mountains.
+- cabinet | [ˈkæbɪnət] | n.储藏柜；内阁 | She needs a cherry cabinet in her room.
+- ceiling | [ˈsiːlɪŋ] | n.天花板，顶棚 | The traditional houses in that country have very low ceilings.
+- cellar | [ˈselə(r)] | n.地窑，地下室 | The cellar floods whenever it rains heavily.
+- chimney | [ˈtʃɪmni] | n.烟囱 | The chimney is choked up with soot and needs to be cleaned.
+- corridor | [ˈkɒrɪdɔː(r)] | n.走廊，通道 | The corridor leads to the headmaster’s office.
+- cottage | [ˈkɒtɪdʒ] | n.村舍,小屋 | The cottage could accommodate up to six people.
+- dwelling | [ˈdwelɪŋ] | n.住所 | He has changed his dwelling recently.
+- hut | [hʌt] | n.小屋，棚屋 | The hut was made out of pieces of wood.
+- inhabit | [ɪnˈhæbɪt] | v.居住于 | Thoughts inhabit my mind.
+- kitchen | [ˈkɪtʃɪn; -tʃ(ə)n] | n.厨房，灶间 | I have to mop the kitchen floor at least once a day.
+- lodge | [lɒdʒ] | v.租住 n.小屋；度假屋 | Where we lodge is the problem.
+- shed | [ʃed] | n. 简易房，棚 v. 流，洒；摆脱 | He built a bicycle shed.
+- shelter | [ˈʃeltə] | n. 庇护处；掩蔽 v. 庇护；遮蔽 | These plants must be sheltered from direct sunlight.
+- staircase | [ˈsteəkeɪs] | n. （建筑内的）楼梯 | Only the staff members are allowed to use the staircase.
+- storey | [ˈstɔːri] | n.楼层 | There’s a nine-storey apartment building next to the park.
+- beam | [biːm] | n. （能量、放射线或粒子的）束，柱 | The beams of the searchlights flooded the sky over the airport.
+- bench | [ben(t)ʃ] | n.长凳；【the~】法官职位 | An old man sat on the park bench and fed the pigeons.
+- column | [ˈkɒləm] | n.柱；（书、报纸等印刷页的）栏；（报刊的）专栏 | The dome was supported by white marble columns.
+- construct | [kənˈstrʌkt] | v.建造 | They are planning to construct a new highway.
+- elevator | [ˈelɪveɪtə] | n.【美】电梯 | Her job is to operate an elevator.
+- found | [faʊnd] | v.创建，创办 | The rich businessman founded a hospital and a school in the town where he was born.
+- layer | [ˈleɪə(r)] | n.层 | There is a layer of dust on the table. Clean it before the guests arrive.
+- pillar | [ˈpɪlə(r)] | n.柱子；中坚，栋梁 | The robber tied him to a pillar.
+- porch | [pɔːtʃ] | n.门廊 | A pigeon perched on our porch railing.
+- settle | [ˈset(ə)l] | v.解决在……定居，使定居 | They moved the local people and settled them in another place.
+- structure | [ˈstrʌktʃə] | n.建筑物；结构 | Most linguists would say they were concerned primarily with the grammatical structures of languages.
+- locate | [lə(ʊ)ˈkeɪt] | v.放置，建立找到 | The new hospital will be located near your college.
+- concrete | [ˈkɒŋkriːt] | n.混凝土 adj.具体的混凝土制的 | The statue rests on a concrete base.
+- nursery | [ˈnɜːsəri] | n.托儿所 adj.托儿所的 | The nursery teacher made the children sit bolt upright.
+- fireplace | [ˈfaɪəpleɪs] | n.壁炉 | She edged her chair closer to the fireplace.
+- cradle | [ˈkreɪd(ə)l] | n.摇篮发源地 | Ancient Greece was the cradle of western civilisation.
+- reside | [rɪˈzaɪd] | v.居住 | The city in which I reside is very beautiful.
+- villa | [ˈvɪlə] | n.乡间别墅；［英］度假别墅 | I want to buy a villa outside the city.
+- mansion | [ˈmænʃn] | n.宅第，公馆 | This old mansion became a hospital.
+- lobby | [ˈlɒbɪ] | n.大厅，前厅；游说 v.游说 | Please wait for me in the lobby of the hotel.
+- balcony | [ˈbælkəni] | n.阳台；（剧院的）楼座 | All bedrooms have private bathrooms and balconies.
+- vault | [vɔːlt] | n.拱顶；金库，保险库 | The walls and vaults are decorated by marble.
+- arch | [ɑːtʃ] | n.拱门 v.（使）弯成弓形 | The cat arches its back when it sees the dog.
+- radiator | [ˈreɪdɪeɪtə] | n.暖气设备 | He tossed his coat on a chair and warmed his hands at a radiator.
+- migrate | [maɪˈgreɪt; ˈmaɪgreɪt] | v.迁徙；移居 | More and more people migrate from one city to another to seek fortune.
+- establish | [ɪˈstæblɪʃ; e-] | v.建立，设立 | The Minister established a commission to suggest improvements in the educational system.
+- architecture | [ˈɑːkɪtektʃə] | n.建筑风格；建筑学 | The Forbidden City is one of the world's greatest works of architecture.
+- stability | [stəˈbɪlɪtɪ] | n.稳定（性） | The government has taken measures to maintain the stability of prices.
+- site | [saɪt] | n.地点 | The construction site of a new shopping mall was a hive of activity.
+- obstruct | [əbˈstrʌkt] | v.阻塞；妨碍 | The road was obstructed by a fallen tree.
+- erection | [ɪˈrekʃn] | n.建筑，建造 | The erection of the building took several years.
+- build | [bɪld] | v.建造；开发 | We should study hard to build a better future for ourselves.
+- venue | [ˈvenjuː] | n.发生地点，举行场所 | They have already told us the venue for tomorrow's match.
+- landmark | [ˈlæn(d)mɑːk] | n.地标；里程碑 | He orientated himself by finding a familiar landmark.
+- situated | [ˈsɪtʃueɪtɪd] | adj.位于......的 | The zoo is situated in the suburbs.
+- skyscraper | [ˈskaɪskreɪpə(r)] | n摩天大楼 | The skyscraper towers into the sky.
+- hostel | [ˈhɒst(ə)l] | n.廉价招待所 | We found a happy crew of foreign students in the youth hostel.
+- grid | [ɡrɪd] | n.栅栏；网格；输电网 | The city’s streets form a grid.
+- aisle | [aɪl] | n.走廊，过道 | Don’t stand in the aisle.
+- stair | [steə] | n.楼梯 | The child was sitting on the bottom stair.
+- escalator | [ˈeskəleɪtə(r)] | n.自动扶梯，滚梯 | I could never find the escalators, or the door I came in.
+- handrail | [ˈhændreɪl] | n.扶手，栏杆 | Where necessary for safety, in alleyways and stairs for example, handrails shall be fitted.
+- eaves | [iːvz] | n.屋檐 | Under the eaves, I have to lower my head.
+- reception | [rɪˈsepʃ(ə)n] | n.接待处 | You can leave your key at reception.
+- parlour | [ˈpɑːlə(r)] | n.客厅 | The parlour has been decorated delicately.
+- flat | [ flæt ] | n.【尤英】单元房，公寓 | She is buying a flat close to her office.
+- living room | [ 'lɪvɪŋ ru:m ] | n.客厅，起居室 | The dining room is next to the living room
+- pole | [pəʊl] | n.竿，杆 | The hut is made of poles covered with grass mats.
+- trim | [trɪm] | v.修剪；装饰 adj.整齐的，整洁的 | They trimmed their Christmas tree and put strings of coloured lights on it.
+- basin | [ˈbeɪs(ə)n] | n.盆；盆地 | This basin is made of iron.
+- bath | [bɑːθ] | n.洗澡【英】浴缸 | He has a cold bath every day.
+- lavatory | [ˈlævətri] | n.盥洗室，厕所 | The use of the lavatory is suspended during take-off.
+- toilet | [ˈtɔɪlət] | n.抽水马桶；［英］厕所 | Every flat has its own toilet.
+- drill | [drɪl] | n.钻机；反复练习 v.钻（孔）；训练 | The Saudi government has announced plans to drill for water in the desert.
+- entrance | [ˈentrəns] | n.入口；进入权 | I’ ll meet you at the entrance of the zoo tomorrow.
+- entry | [ˈentri] | n.进入；进入权 | He pretended not to observe our entry.
+- exit | [ˈeksɪt] | n.出口；退场；离去 v.离去 | I was eventually granted an exit visa
+- exterior | [ɪkˈstɪəriə(r)] | n.外部，外观 adj.外部的 | The designer gives a design for the exterior of the container.
+- external | [ɪkˈstɜːn(ə)l] | adj.外来的；外面的；对外的 | The external sector has improved performance significantly during the period.
+- fix | [fɪks] | v.修理；使固定 | My watch has stopped. Can you fix it?
+- furnish | [ˈfɜːnɪʃ] | v.为……配备家具陈设 | The house is well fumished.
+- hook | [hʊk] | n.钩，钩状物；勾拳 | Hang your coat on the hook.
+- inner | [ˈɪnə(r)] | adj.内部的；内心的 | I can feel the inner peace again.
+- install | [ɪnˈstɔːl] | v.安装 | We're installing a new heating system.
+- interior | [ɪnˈtɪəriə(r)] | n.内部 adj.内部的 | Interior design is a very promising industry nowadays.
+- inward | [ˈɪnwəd] | adj.向内的；内心的 adv.向内 | The expedition discovered an inward passage.
+- mend | [mend] | v.修理（使） 康复 | It won't take long to mend the car.
+- outside | [ˌaʊtˈsaɪd] | adj.外部的 n.外表 | He has a rough outside but a kind heart.
+- outward | [ˈaʊtwəd] | adj.向外的 adv.向外 | Frost consists of tiny crystals of ice which grow outward from a solid surface.
+- saw | [sɔː] | n.锯 | The electric saw whined when my uncle used it to cut the fallen tree.
+- screw | [skruː] | n.螺丝钉；螺旋桨 | Turn the screw to the right to tighten it.
+- weld | [weld] | v.焊接；使紧密结合 | His job is to weld all those parts together.
+- crane | [kreɪn] | n.起重机；鹤 | We used a crane to lift a slab of concrete.
+- lever | [ˈliːvə] | n.杠杆；操纵杆 | Push the lever and the machine will start.
+- carpenter | [ˈkɑːpəntə(r)] | n.木匠 | The carpenter charged 90 dollars for the job.
+- store | [stɔː] | n.商店；贮存物 v.贮存 | When he got into the convenience store，he saw the long lines.
+- supermarket | [ˈsuːpəmɑːkɪt] | n.超市 | A variety of foods are sold at a supermarket.
+- span | [spæn] | n.跨距，跨度；持续时间 | The bridge has a clear span of 40 metres.
+- reserve | [rɪˈzɜːv] | n.储备（量）；自然保护区 v.预订 | I have reserved a room for you at the hotel.
+- dam | [dæm] | n.水坝 v.控制，抑制 | A new dam is under construction at the valley.
+- tile | [taɪl] | n.瓦；瓷砖 | Clay is used to make things like pots and tiles.
+- vicinity | [vɪˈsɪnɪtɪ] | n.附近，邻近地区 | The stolen car was found in the vicinity of the station
+- peripheral | [pəˈrɪfərəl] | adj.外围的 n.外围设备 | The peripheral parts of the city are poor.
+- void | [vɔɪd] | n.空间；空白；空虚 adj.空的 | The amusement park will fill a void in this town, which has little entertainment for children.
+- modify | [ˈmɒdɪfaɪ] | v.稍作修改 | We have to modify our plan a little bit.
+- maintain | [meɪnˈteɪn; mənˈteɪn] | v.维持；维修；坚称 | It is absolutely vital that food supplies should be maintained.
+- urban | [ˈɜːb(ə)n] | adj.城市的 | Both urban and rural areas are more and more prosperous.
+- apparatus | [ˌæpəˈreɪtəs] | n.器械，装置 | A new piece of apparatus was used in the experiment.
+- infrastructure | [ˈɪnfrəstrʌktʃə(r)] | n.基础设施 | The local government is too poor to invest in social welfare programmes, new infrastructure or anything else.
+- layout | [ˈleɪaʊt] | n.设计，布置 | The new page layout is appealing to teenagers.
+- enter | [ˈentə(r)] | v.进入 | Please knock on the door before you enter.
+- design | [dɪˈzaɪn] | v.设计；计划 n.设计 | He has already designed a good excuse for not attending the conference.
+- downtown | [ˌdaʊnˈtaʊn] | n.市中心 adj.市中心的 | Most of the old buildings in the downtown were torn down.
+- mall | [mɔːl; mæl] | n. ［尤美］购物中心 | The local kids often hang out at the mall.
+- studio | [ˈstjuːdɪəʊ] | n.演播室；工作室；单间公寓 | The studio was filled with the scent of wild flowers.
+- castle | [ˈkɑːs(ə)l] | n.城堡 | The ancient castle commands a fine view of the town.
+- malfunction | [mælˈfʌŋ(k)ʃ(ə)n] | v.发生故障 | The computer malfunctioned and printed out wrong words.
+- plumb | [plʌm] | n.（表示垂直度等的)铅锤 v.用铅垂线校正 | We need to plumb the line.
+- viaduct | [ˈvaɪədʌkt] | n.高架桥 | An overhead road for cars or trains is called aviaduct.
+- placement | [ˈpleɪsmənt] | n.放置，布置 | The placement of the buttons and knobs in the car is well thought out.
+- room | [ruːm; rʊm] | n.房间；空间 | There is no room for a table in my bedroom.
+- booth | [buːð; buːθ] | n.售货摊；电话亭；小隔间 | Would you please watch over my booth?
+- casino | [kəˈsiːnəʊ] | n.赌场 | The City of Dreams casino does not seem worried about the decline in tour groups.
+- spacious | [ˈspeɪʃəs] | adj.宽敞的 | The hotel room is neither spacious nor comfortable.
+- airtight | [ˈeətaɪt] | adj.密封的，不透气的 | The whole room is airtight.
+- expanse | [ɪkˈspæns; ek-] | n.广阔，辽阔 | There was a vast expanse of desert before us.
+- plaza | [ˈplɑːzə] | n.广场；购物中心 | The plaza is crammed with people.
+- mason | [ˈmeɪs(ə)n] | n.石匠，泥瓦匠 | He asked the mason to make him a tombstone.
+- brickwork | [ ˈbrɪkwɜːk ] | n. 砖结构 | There is a weird crack in the brickwork.
+- scaffold | [ˈskæfəʊld] | n.脚手架；绞刑架 | The worker fell down from the scaffold.
+- internal | [ ɪnˈtɜːn(ə)l ] | adj.内部的；自身的；国内的 | Every theory has its internal logic.
