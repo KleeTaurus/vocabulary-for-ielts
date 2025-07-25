@@ -1,5 +1,6 @@
 ### Chapter 03 动物保护
-- feed | [fiːd] | v. 供养；喂，饲养；进食 | He has to work hard to feed and clothe hisfamily.
+
+- feed | [fiːd] | v. 供养；喂，饲养；进食 | He has to work hard to feed and clothe his family.
 - beast | [biːst] | n. 兽，野兽；凶残的人，畜生 | The hunters blocked up the den of the beast.
 - breed | [briːd] | v. 饲养；繁殖 n. 品种 | She breeds orchids in her greenhouse.
 - bristle | [ˈbrɪs(ə)l] | n. 鬃毛；（刷子的）毛 | The brush is made of animal bristles.
@@ -15,8 +16,8 @@
 - herd | [hɜːd] | n. 兽群，畜群 | The herdsman looks after a herd of animals.
 - paw | [pɔː] | n.（动物的）脚掌，爪子 | This is a black cat with white paws.
 - skin | [skɪn] | n. 皮肤；外皮 | When he fell, he just broke the skin.
-- swarm | [swɔːm] | n.（蜜蜂等昆虫的）一大群；（迅速移动的）人群 | I saw a swarm of bees attacking the poormonkey.
-- throng | [θrɒŋ] | n. 人群，一大群人 v. 群集 | He was met by a throng of journalists andphotographers.
+- swarm | [swɔːm] | n.（蜜蜂等昆虫的）一大群；（迅速移动的）人群 | I saw a swarm of bees attacking the poor monkey.
+- throng | [θrɒŋ] | n. 人群，一大群人 v. 群集 | He was met by a throng of journalists and photographers.
 - wing | [wɪŋ] | n. 翼，翅膀 | A seagull fluttered down with an injured wing.
 - lay | [leɪ] | v. 产（卵）；放置；铺设 | They lay eggs from the beginning of July to the middle of August.
 - ancestor | [ˈænsestə(r)] | n. 祖宗，祖先 | Lions and house cats evolved from a common3 ancestor.

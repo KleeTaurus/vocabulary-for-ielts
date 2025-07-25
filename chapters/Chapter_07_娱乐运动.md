@@ -1,4 +1,5 @@
 ### Chapter 07 娱乐运动
+
 - artist | [ˈɑːtɪst] | n. 艺术家 | He was not the kind of artist who could work collaboratively.
 - programme | [ˈprəʊɡræm] | n. 节目；方案；（演出或活动的）程序 | There was an interesting programme on TV yesterday.
 - film | [fɪlm] | n. 影片；胶卷 | A good film will be on this weekend.
@@ -10,7 +11,7 @@
 - messenger | [ˈmesɪndʒə(r)] | n. 邮递员，信使 | The messenger brought your note today.
 - medium | [ˈmiːdiəm] | n. 媒介 adj. 中间的，中等的 | Present’s speech was broadcast through the medium of television.
 - entertain | [ˌentəˈteɪn] | v.娱乐；招待；心存，怀有 | This television programme is designed to educate and to entertain as well.
-- announcer | [əˈnaʊnsə(r)] | n. 广播员，播音员 | The announcer started with the day’s topstories.
+- announcer | [əˈnaʊnsə(r)] | n. 广播员，播音员 | The announcer started with the day’s top stories.
 - critic | [ˈkrɪtɪk] | n. 批评家；挑剔的人 | The critics said the new movie would not do well at the box office.
 - journalist | [ˈdʒɜːnəlɪst] | n. 记者，新闻工作者 | No journalist was bold enough to challenge the Prime Minister.
 - painter | [ˈpeɪntə(r)] | n. 画家；油漆匠 | This painter is not first-class.
@@ -19,7 +20,7 @@
 - imitate | [ˈɪmɪteɪt] | v. 模仿，效仿 | He imitates other people to perfection.
 - opera | [ˈɒprə] | n. 歌剧 | She joined the Royal Opera House the following year.
 - orchestra | [ˈɔːkɪstrə] | n. 管弦乐队 | This orchestra has been established under the patronage of the government.
-- perform | [pəˈfɔːm] | v. 表演，演出 | A jazz band will perform live at tomorrow’sparty.
+- perform | [pəˈfɔːm] | v. 表演，演出 | A jazz band will perform live at tomorrow’s party.
 - rehearsal | [rɪˈhɜːsl] | n. 排练 | The play is in rehearsal now.
 - await | [əˈweɪt] | v. 等候，期待；将降临到……身上 | If you are lucky enough to vacation in the Alps, what delights will await you?
 - expect | [ɪkˈspekt] | v. 预料，预期 | The managers expect exceptional sales growth in the last quarter.
@@ -74,7 +75,7 @@
 - melody | [ˈmelədi] | n.乐曲；旋律 | I like that song, because its melody is really pleasant.
 - solo | [ˈsəʊləʊ] | n独奏，独唱 | She has acquired a reputation as this country’s premier solo violinist.
 - scene | [siːn] | n.景色；现场；（戏剧的）场面 | The scene is perfect when you see the sun rising slowly in the east.
-- gallery | [ˈɡæləri] | n.美术馆 | The pictures in the gallery were well spacedout.
+- gallery | [ˈɡæleri] | n.美术馆 | The pictures in the gallery were well spacedout.
 - aesthetic | [iːsˈθetɪk] | adj.审美的 | His aesthetic standards are quite different from mine.
 - collect | [kəˈlekt] | v.收集；收藏 | He used to collect stamps, but now he likes to collect coins.
 - select | [sɪˈlekt] | v.选择，挑选 | They were selected from many applicants.

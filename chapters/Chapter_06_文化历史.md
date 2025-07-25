@@ -1,4 +1,5 @@
 ### Chapter 06 文化历史
+
 - decorate | [ˈdekəreɪt] | v. 装饰 | Using extremely different decorating schemes in adjoining rooms may result in lack of unity in style.
 - soul | [səʊl] | n. 灵魂；心灵；精神 | No words can express the secret agony of my soul.
 - spirit | [ˈspɪrɪt] | n. 精神，心灵 | We need a spirit of enterprise if we are to overcome our difficulties.
@@ -8,16 +9,16 @@
 - cathedral | [kəˈθiːdrəl] | n. 大教堂 | This cathedral was regarded as a miracle in architectural history.
 - holy | [ˈhəʊli] | adj. 神圣的；圣洁的，虔诚的 | A holy person is spiritually pure.
 - museum | [mjuˈziːəm] | n. 博物馆 | A visit to the museum is an unforgettable experience.
-- priest | [priːst] | n. 牧师；神父；教士 | The priest persuaded him to give up his badhabit.
+- priest | [priːst] | n. 牧师；神父；教士 | The priest persuaded him to give up his bad habit.
 - religion | [rɪˈlɪdʒən] | n. 宗教，宗教信仰 | There are many religions in the world.
 - sacred | [ˈseɪkrɪd] | adj. 神圣的；宗教的 | This area was hallowed by sacred memories.
-- bishop | [ˈbɪʃəp] | n. 主教 | I’ve heard a whisper that the Bishop intends toleave.
+- bishop | [ˈbɪʃəp] | n. 主教 | I’ve heard a whisper that the Bishop intends to leave.
 - Pope | [pəʊp] | n. 教皇 | The election of a new Pope is coming.
 - missionary | [ˈmɪʃənri] | n. 传教士 | The missionary was sent to India last year.
 - monk | [mʌŋk] | n. 僧侣 | The man was a monk from Mount Emei.
 - humanitarian | [hjuːˌmænɪˈteəriən] | n. 人道主义者 adj. 人道主义的，博爱的 | Hepburn is known as a great humanitarian.
 - alien | [ˈeɪliən] | n. 外侨；外星生物 adj. 外国的；陌生的 | I ran into an old friend in the alien land.
-- antique | [ænˈtiːk] | n. 古董 adj. 古董的 | He wears designer clothes and drives anantique car.
+- antique | [ænˈtiːk] | n. 古董 adj. 古董的 | He wears designer clothes and drives an antique car.
 - convention | [kənˈvenʃn] | n. 惯例；大型会议 | The handshake is a social convention.
 - culture | [ˈkʌltʃə(r)] | n. 文化，文明；教养 | China plays an important role in promoting Asian culture.
 - civilisation | [ˌsɪvəlaɪˈzeɪʃ(ə)n] | n. 文明 | Western civilisation was cradled in Ancient Greece.

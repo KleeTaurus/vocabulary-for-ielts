@@ -1,4 +1,5 @@
 ### Chapter 01 自然地理
+
 - atmosphere | [ˈætməsfɪə(r)] | n. 大气层，大气圈；气氛 | The approaching examination created a tense atmosphere on the campus.
 - hydrosphere | [ˈhaɪdrəʊsfɪə(r)] | n. 水圈；大气中的水汽 | All the water of the earth’s surface is included in the hydrosphere.
 - lithosphere | [ˈlɪθəsfɪə(r)] | n. 岩石圈 | The hydrosphere and the lithosphere together form the earth’s surface.
@@ -12,15 +13,15 @@
 - longitude | [ˈlɒŋɡɪtjuːd] | n. 经度 | The captain determines the latitude and longitude of his ship.
 - latitude | [ˈlætɪtjuːd] | n. 纬度 | Our position is 40 degrees north latitude.
 - horizon | [həˈraɪz(ə)n] | n. 地平线；[~s] 眼界，见识 | I could see a ship on the horizon.
-- altitude | [ˈæltɪtjuːd] | n. 高度，海拔 | We are currently flying at an altitude of 8,000metres.
+- altitude | [ˈæltɪtjuːd] | n. 高度，海拔 | We are currently flying at an altitude of 8,000 metres.
 - disaster | [dɪˈzɑːstə(r)] | n. 灾难 | There was a great flood disaster in East China.
 - mishap | [ˈmɪshæp] | n. 小灾难 | A mishap prevented him from attending the routine company meeting.
 - catastrophic | [ˌkætəˈstrɒfɪk] | adj. 灾难性的 | If the forecast had been wrong, the consequences could have been catastrophic.
-- calamity | [kəˈlæməti] | n. 灾难，不幸的事 | A hurricane would be a calamity for this low- lying coastal region.
+- calamity | [kəˈlæməti] | n. 灾难，不幸的事 | A hurricane would be a calamity for this low-lying coastal region.
 - endanger | [ɪnˈdeɪndʒə(r)] | v. 使遭受危险，危及 | If you work hard without rest, you will endanger your health.
 - jeopardise | [ˈdʒepədaɪz] | v. 危害，危及 | If you are rude to the boss, your chances of success may be jeopardised.
 - destructive | [dɪˈstrʌktɪv] | adj. 破坏性的，有害的 | Jealousy is an extremely destructive emotion.
-- El Niño | [el 'ni:njau] | n. 厄尔尼诺现象（赤道附近东太平洋水域大范围海水反常增温、鱼群大量死亡的现象） | What changed the equation that year was ElNiño.
+- El Niño | [el 'ni:njau] | n. 厄尔尼诺现象（赤道附近东太平洋水域大范围海水反常增温、鱼群大量死亡的现象） | What changed the equation that year was El Niño.
 - greenhouse | [ˈɡriːnhaʊs] | n. 温室，暖房 | The flowers are grown in the greenhouse.
 - phenomenon | [fəˈnɒmɪnən] | n. 现象 | Snow is an almost unknown phenomenon in Egypt.
 - pebble | [ˈpeb(ə)l] | n. 鹅卵石 | The boy put his hand into the money bag and drew out a pebble.
@@ -40,10 +41,10 @@
 - volcano | [vɒlˈkeɪnəʊ] | n. 火山 | The volcano erupted and two small towns were buried under metres of hot ash, mud and bits of molten rock.
 - erupt | [ɪˈrʌpt] | v. 爆发，喷发；（斑疹等）突然出现 | Hot lava erupted from the crust.
 - magma | [ˈmæɡmə] | n. 岩浆 | Some types of minerals are made when magma cools and solidifies.
-- thermodynamic | [ˌθɜːməʊdaɪˈnæmɪk] | adj. 热力的；热力学的 | His theory violates current thermodynamiclaws.
+- thermodynamic | [ˌθɜːməʊdaɪˈnæmɪk] | adj. 热力的；热力学的 | His theory violates current thermodynamic laws.
 - smog | [smɒɡ] | n. 烟雾，雾霾 | The smog was so bad that schoolchildren were advised to stay indoors.
 - fume | [fjuːm] | n. [~s]（难闻且常为有害的）烟，气体 v. 冒烟；发怒 | Petrol fumes from cars are poisoning the atmosphere.
-- mist | [mɪst] | n. 薄雾；水汽；使视线模糊的东西 | She could hardly recognise her son through amist of tears.
+- mist | [mɪst] | n. 薄雾；水汽；使视线模糊的东西 | She could hardly recognise her son through a mist of tears.
 - tsunami | [tsuːˈnɑːmi] | n. 海啸 | A terrible tsunami followed the earthquake.
 - drought | [draʊt] | n. 干旱，旱灾 | Many areas in Africa have suffered severe drought this year.
 - flooding | [ˈflʌdɪŋ] | n. 洪水泛滥 | Since the flooding began last month, 16 people have died statewide.
@@ -107,7 +108,7 @@
 - peninsula | [pəˈnɪnsjələ] | n. 半岛 | His house is located on the tip of the peninsula.
 - climate | [ˈklaɪmət] | n. 气候；风气，思潮，环境 | The current political climate in that country is favourable for foreign investment.
 - weather | [ˈweðə(r)] | n. 天气，气象 | In warm weather, you should wear clothing that is cool and comfortable.
-- meteorology | [ˌmiːtiəˈrɒlədʒi] | n. 气象学 | Nowadays,few people like to study meteorology.
+- meteorology | [ˌmiːtiəˈrɒlədʒi] | n. 气象学 | Nowadays, few people like to study meteorology.
 - mild | [maɪld] | adj. 温和的；不严重的 | The weather is mild today; it is neither hot nor cold.
 - heating | [ˈhiːtɪŋ] | n. 供暖；暖气装置 | The workers are installing a heating system.
 - moderate | [ˈmɒdərət ]/[ˈmɒdəreɪt] | adj.适度的；温和的；中等的 v.（使）缓和 | The wind was strong all day, but it moderated in the evening.
@@ -122,7 +123,7 @@
 - frost | [frɒst] | n. 霜；霜冻；严寒 | Sweet potatoes decayed after the frost.
 - hail | [heɪl] | n. 雹，冰雹 v. 赞扬；招呼；下雹 | It hailed during the night.
 - thaw | [θɔː] | v. 解冻，融解，融化 n. 解冻时期 | The sun thawed the ice and melted the snow.
-- chill | [tʃɪl] | v.（使）变冷；使恐惧 n. 寒冷；害怕 | The bad news cast a chill over the wholefamily.
+- chill | [tʃɪl] | v.（使）变冷；使恐惧 n. 寒冷；害怕 | The bad news cast a chill over the whole family.
 - freeze | [friːz] | v. 结冰 n. 霜冻；严寒期 | The weatherman predicted a freeze for tonight.
 - frigid | [ˈfrɪdʒɪd] | adj. 寒冷的 | Hohhot is a frigid city in winter.
 - tremble | [ˈtremb(ə)l] | v.n. 战栗，颤抖 | There was a tremble in her voice.
@@ -165,7 +166,7 @@
 - pollutant | [pəˈluːtənt] | n. 污染物质 | Coal is a heavy pollutant.
 - contaminate | [kənˈtæmɪneɪt] | v. 弄脏，污染 | The river was contaminated with waste.
 - geology | [dʒiˈɒlədʒi] | n. 地质学；地质状况 | He devoted all his life to the research of the agricultural geology.
-- border | [ˈbɔːdə(r)] | n. 边界；边界地区；镶边 v. 和……毗邻；形成……的边界 | The border incident lead to the war between the two countries.
+- border | [ˈbɔːdə(r)] | n. 边界；边界地区；镶边 v. 和……毗邻；形成……的边界 | The border incident led to the war between the two countries.
 - margin | [ˈmɑːdʒɪn] | n. 边缘；页边空白；余地 | There is no margin for error in our plan.
 - fringe | [frɪndʒ] | n. 边缘；刘海儿 adj. 次要的；非主流的 | We feel it’s pretty good and we also offer some good fringe benefits.
 - plate | [pleɪt] | n.（地质学中的大陆）板块；盘 | It is generally accepted that earthquakes are caused by two tectonic plates bumping into each other.
@@ -176,7 +177,7 @@
 - grand | [ɡrænd] | adj. 宏大的；豪华的，宏伟的；极好的 | He was born in the purple and was brought up in the grand palace.
 - magnificent | [mæɡˈnɪfɪs(ə)nt] | adj. 壮丽的，宏伟的；令人印象深刻的 | The king lived in this magnificent palace.
 - super | [ˈsuːpə(r)] | adj. 超级的，极好的 | I’ve discovered a super restaurant near here!
-- interesting | [ˈɪntrəstɪŋ] | adj. 有趣的；引人入胜的 | There is an interesting programme on television tonight.
+- interesting | [ˈɪntrəstɪŋ] | adj. 有趣的；引人注目的 | There is an interesting programme on television tonight.
 - dramatic | [drəˈmætɪk] | adj. 戏剧的；引人注目的 | She made a dramatic speech at the meeting.
 - wilderness | [ˈwɪldənəs] | n. 荒野 | From his attic window, he looked out over a beautiful wilderness.
 - desert | [ˈdezət] | n. 沙漠 v. 离弃，遗弃；擅离 | The baby’s mother deserted him soon after giving birth.
@@ -213,7 +214,7 @@
 - reservoir | [ˈrezəvwɑː(r)] | n. 水库，蓄水池 | This reservoir gives water to the whole city.
 - waterfall | [ˈwɔːtəfɔːl] | n. 瀑布 | They were filled with wonder at the new waterfall.
 - fountain | [ˈfaʊntən] | n. 喷泉；源泉 | Social life is the fountain of wisdom for writers.
-- spring | [sprɪŋ] | n. 春天；泉水 | It can be quite windy there, especially inspring.
+- spring | [sprɪŋ] | n. 春天；泉水 | It can be quite windy there, especially in spring.
 - dew | [djuː] | n. 露水 | Dew dripped from the leaves.
 - pour | [pɔː(r)] | v. 倾泻；倒；（雨）倾盆而下 | Tears poured from her eyes.
 - drain | [dreɪn] | v. 排空；（使）流出 n. 耗竭 | They drain the swamp and turn it into fertile land.

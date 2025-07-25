@@ -1,5 +1,6 @@
 ### Chapter 02 植物研究
-- photosynthesis | [ˌfəʊtəʊˈsɪnθəsɪs] | n. 光合作用 | The algae capture the sun’ s energy by photosynthesis and store it in organic molecules.
+
+- photosynthesis | [ˌfəʊtəʊˈsɪnθəsɪs] | n. 光合作用 | The algae capture the sun’s energy by photosynthesis and store it in organic molecules.
 - respire | [rɪˈspaɪə(r)] | v. 呼吸 | Plants respire in the same way as animals, taking in oxygen and giving out carbon dioxide.
 - dioxide | [daɪˈɒksaɪd] | n. 二氧化物 | Plants can absorb carbon dioxide and release oxygen.
 - vegetation | [ˌvedʒəˈteɪʃn] | n. 植物，草木 | There is not much vegetation in deserts.
@@ -10,7 +11,7 @@
 - ecosystem | [ˈiːkəʊsɪstəm] | n. 生态系统 | Water is the core of a healthy ecosystem.
 - eco-friendly | [ˌiːkəʊ ˈfrendli] | adj. 对生态环境友好的，不妨害生态环境的 | Attention to eco-friendly packaging is increasing.
 - horticulture | [ˈhɔːtɪkʌltʃə(r)] | n. 园艺学；园艺 | Horticulture is the industry and science of plant cultivation.
-- organism | [ˈɔːɡənɪzəm] | n. 有机体，生物 | This insect behaves like a parasite—anorganism that lives on or in another organism called a host.
+- organism | [ˈɔːɡənɪzəm] | n. 有机体，生物 | This insect behaves like a parasite—an organism that lives on or in another organism called a host.
 - genetics | [dʒəˈnetɪks] | n. 遗传学 | In genetics, genes were formerly called factors.
 - mutation | [mjuːˈteɪʃn] | n. 突变，变异 | The mutations in plants caused by radiation have been found in experiments.
 - variation | [ˌveəriˈeɪʃn] | n. 变种；变异 | Variation among dogs is limited to the possible permutations of their genes.

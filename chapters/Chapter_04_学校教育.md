@@ -1,4 +1,5 @@
 ### Chapter 04 学校教育
+
 - excellent | [ˈeksələnt] | adj.优秀的，杰岀的 | She had a high reputation for her excellent detective novels.
 - affair | [əˈfeə(r)] | n. 事件；［~s ］公共事务，政治事务 | The minister is busy with important state affairs.
 - inspire | [ɪnˈspaɪə(r)] | v.鼓舞；给……灵感 | Our task is to motivate those voters and inspire them to join our cause.
@@ -13,22 +14,22 @@
 - genius | [ˈdʒiːniəs] | n.天才人物；天赋 | His genius is not confined to maths and physics.
 - institute | [ˈɪnstɪtjuːt] | n.研究所，学院 | The government set up an institute devoted to renewable energy sources.
 - knowledge | [ˈnɒlɪdʒ] | n.知识，学识；知悉 | To the young boy, his big brother was the fountain of all knowledge.
-- outstanding | [aʊtˈstændɪŋ] | adj.突出的，杰出的 | He is an outstanding athlete and deserved towin.
+- outstanding | [aʊtˈstændɪŋ] | adj.突出的，杰出的 | He is an outstanding athlete and deserved to win.
 - primary | [ˈpraɪməri] | adj.主要的；最初的；小学教育的 | The primary cause of his failure was his underestimation of the enemy.
-- problem | [ˈprɒbləm] | n.习题；问题 | Heavy traffic poses a problem in many bigcities.
+- problem | [ˈprɒbləm] | n.习题；问题 | Heavy traffic poses a problem in many big cities.
 - riddle | [ˈrɪd(ə)l] | n.谜，谜语 | He figured out the riddle at last.
 - smart | [smɑːt] | adj.聪明的；智能的 | This boy is very smart. He may become another Stephen Hawking.
 - university | [ˌjuːnɪˈvɜːsəti] | n.（综合性）大学 | She is a student at Peking University.
 - wit | [wɪt] | n.风趣的人；机智，风趣；智慧 | Holmes was gregarious, a great wit, a man of wide interests.
 - secondary | [ˈsekənd(ə)ri] | adj.中等教育的；次要的 | The most important factor is price-location is a secondary issue.
 - spur | [spɜː(r)] | v.鞭策，刺激 n.马刺；刺激 | Pride spurred the man to fight.
-- motivate | [ˈməʊtɪveɪt] | v.激发，驱使 | Good teachers are those who can motivate theirstudents.
+- motivate | [ˈməʊtɪveɪt] | v.激发，驱使 | Good teachers are those who can motivate their students.
 - motive | [ˈməʊtɪv] | n.动机，（行动的）缘由 | His motive for working so hard is that he needs money.
 - idiot | [ˈɪdiət] | n.白痴，傻瓜 | He is behaving like a perfect idiot.
-- indulge | [ɪnˈdʌldʒ] | v.迁就，放任；沉湎；让……享受一下 | You can indulge yourself without spending afortune.
+- indulge | [ɪnˈdʌldʒ] | v.迁就，放任；沉湎；让……享受一下 | You can indulge yourself without spending a fortune.
 - obscure | [əbˈskjʊə(r)] | adj.难以理解的 | Rules for the game are somewhat obscure.
 - learn | [lɜːn] | v.学习；得知 | It’s more useful to learn modern languages, such as English and French, than Latin.
-- study | [ˈstʌdi] | v.n.学习；研究 | This reference book is very useful to studyfrom.
+- study | [ˈstʌdi] | v.n.学习；研究 | This reference book is very useful to study from.
 - expertise | [ˌekspɜːˈtiːz] | n.专门知识，专门技能 | We were amazed at his expertise on herbs.
 - novice | [ˈnɒvɪs] | n.新手 | I’m a complete novice at yoga.
 - recruit | [rɪˈkruːt] | V.吸收（新成员） | The country’s first act would be to recruit for the navy.
